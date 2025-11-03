@@ -1,5 +1,4 @@
 [
-  { "codice": "it", "label": "Italia" },
   { "codice": "uk", "label": "Inghilterra" },
   { "codice": "mor", "label": "Marocco" },
   { "codice": "rom", "label": "Romania" },
