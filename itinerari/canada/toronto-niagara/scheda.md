@@ -8,8 +8,6 @@ Nei quartieri di **Kensington Market** e **Distillery District**, si passeggia t
 
 Poi, a poche ore di strada, la **voce dell’acqua** si fa sentire sempre più forte.  
 
-![Niagara Falls](niagara01.jpg)
-
 Le **Cascate del Niagara** appaiono improvvise, **grandiose**, come un **respiro della Terra**. Il **rumore** è travolgente, la **nebbia** ti avvolge, e per un attimo ti senti **minuscolo e infinito insieme**.  
 Guardarle da vicino è un’esperienza che **toglie le parole**: la **potenza della natura** diventa **poesia in movimento**, **luce, acqua e vento** che danzano senza fine.
 
