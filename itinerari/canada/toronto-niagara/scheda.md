@@ -7,6 +7,9 @@ A **Toronto**, tutto parla di **energia** e di **armonia**: i **grattacieli** si
 Nei quartieri di **Kensington Market** e **Distillery District**, si passeggia tra **murales**, **profumi di cucine lontane** e **musica** che arriva da finestre socchiuse. Toronto è **moderna ma accogliente**, **internazionale ma piena di calore umano**.
 
 Poi, a poche ore di strada, la **voce dell’acqua** si fa sentire sempre più forte.  
+
+![Niagara Falls](niagara01.jpg)
+
 Le **Cascate del Niagara** appaiono improvvise, **grandiose**, come un **respiro della Terra**. Il **rumore** è travolgente, la **nebbia** ti avvolge, e per un attimo ti senti **minuscolo e infinito insieme**.  
 Guardarle da vicino è un’esperienza che **toglie le parole**: la **potenza della natura** diventa **poesia in movimento**, **luce, acqua e vento** che danzano senza fine.
 
