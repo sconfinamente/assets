@@ -1,0 +1,74 @@
+[
+  {
+    "codice": "abu-dhabi",
+    "paese": "uae",
+    "titolo": "Abu Dhabi, tra modernità e cultura",
+    "descrizione": "Vivi l’eleganza di Abu Dhabi tra il lungomare della Corniche, la Moschea Bianca, il Louvre e Yas Island, dove arte, spiritualità e modernità si incontrano in perfetta armonia."
+  },
+  {
+    "codice": "dubai",
+    "paese": "uae",
+    "titolo": "Dubai, tra grattacieli, deserto e tradizione",
+    "descrizione": "Scopri Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere di Al Fahidi, dal Creek al deserto dorato, tra safari in jeep e tramonti mozzafiato sull’Aura Skypool."
+  },
+  {
+    "codice": "london-christmas",
+    "paese": "uk",
+    "titolo": "Natale a Londra",
+    "descrizione": "Vivi la magia del Natale tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Un viaggio nel cuore di Londra quando la città diventa un sogno d’inverno."
+  },
+  {
+    "codice": "new-york-christmas",
+    "paese": "usa",
+    "titolo": "Natale a New York, luci, mercatini e magia",
+    "descrizione": "Vivi la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela."
+  },
+  {
+    "codice": "maldive-autentiche",
+    "paese": "mal",
+    "titolo": "Maldive Autentiche",
+    "descrizione": "Natura, cultura e tranquillità: un itinerario per immergersi nella vita quotidiana delle isole maldiviane e vivere un Natale… o un’estate diversa dal solito."
+  },
+  {
+    "codice": "marrakech",
+    "paese": "mor",
+    "titolo": "Marrakech, il cuore pulsante del Marocco",
+    "descrizione": "Scopri Marrakech, tra i profumi del souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto ai confini della città rossa."
+  },
+  {
+    "codice": "transilvania",
+    "paese": "rom",
+    "titolo": "Transilvania, tra castelli e leggende",
+    "descrizione": "Esplora i castelli leggendari e i villaggi pittoreschi della Transilvania, tra paesaggi montani e borghi medievali che custodiscono misteri e tradizioni."
+  },
+  {
+    "codice": "transilvania-maramures",
+    "paese": "rom",
+    "titolo": "Transilvania e Maramureș, tra castelli, borghi e tradizioni",
+    "descrizione": "Esplora castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș."
+  },
+  {
+    "codice": "uk-south",
+    "paese": "uk",
+    "titolo": "Inghilterra del Sud",
+    "descrizione": "Scopri il fascino della campagna inglese, tra villaggi pittoreschi, castelli storici e le suggestive scogliere della costa meridionale. Un viaggio tra cultura, natura e tradizioni senza tempo."
+  },
+  {
+    "codice": "new-york-estate",
+    "paese": "usa",
+    "titolo": "Estate a New York, città, parchi e skyline",
+    "descrizione": "Goditi l’estate a New York tra parchi verdi, rooftop panoramici, musei e passeggiate lungo il fiume, vivendo la città al ritmo estivo."
+  },
+  {
+    "codice": "toronto-niagara",
+    "paese": "canada",
+    "titolo": "Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima",
+    "descrizione": "Un viaggio tra la modernità luminosa di Toronto e la potenza maestosa delle Cascate del Niagara, nel cuore di un Canada che sa emozionare con la sua grandezza e la sua quiete."
+  },
+  {
+    "codice": "sanfrancisco-sandiego",
+    "paese": "usa",
+    "titolo": "California Dream: da San Francisco a San Diego lungo la Highway 1",
+    "descrizione": "Un viaggio on the road tra oceano e libertà, lungo la leggendaria Highway 1: scogliere, onde, tramonti e la magia infinita della costa californiana."
+  }
+]

@@ -1,0 +1,1 @@
+Per avere questo itinerario dettagliato e su misura per te contattaci all'indirizzo [sconfinamente@gmail.com](mailto:sconfinamente@gmail.com) oppure via direct message sui nostri social
