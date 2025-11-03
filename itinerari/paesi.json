@@ -1,0 +1,10 @@
+[
+  { "codice": "canada", "label": "Canada" }, 
+  { "codice": "uae", "label": "Emirati Arabi Uniti" },
+  { "codice": "francia", "label": "Francia" },  
+  { "codice": "uk", "label": "Inghilterra" },
+  { "codice": "maldive", "label": "Maldive" },
+  { "codice": "marocco", "label": "Marocco" },
+  { "codice": "romania", "label": "Romania" },
+  { "codice": "usa", "label": "Stati Uniti" }  
+]
