@@ -25,15 +25,15 @@ Seguiteci sui social e scoprirete i flashback dei nostri viaggi: emozioni autent
 
   <a href="https://www.tiktok.com/@sconfinamente" target="_blank" style="text-decoration: none !important;">
     <img src="https://www.sconfinamente.it/assets/images/social-icon-tiktok.svg" alt="TikTok" width="32">
-  </a>
+  </a>&nbsp;
 
   <a href="https://instagram.com/@sconfinamente" target="_blank" style="text-decoration: none !important;">
     <img src="https://www.sconfinamente.it/assets/images/social-icon-instagram.jpg" alt="Instagram" width="32">
-  </a>
+  </a>&nbsp;
 
   <a href="https://www.facebook.com/sconfinamentetravel" target="_blank" style="text-decoration: none !important;">
     <img src="https://www.sconfinamente.it/assets/images/social-icon-facebook.svg" alt="Facebook" width="32">
-  </a>
+  </a>&nbsp;
 
 </div>
 
