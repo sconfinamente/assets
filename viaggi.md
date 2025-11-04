@@ -5,9 +5,11 @@ Con **Sconfinamente** vogliamo portarvi nei luoghi che ci hanno colpito, tra **p
 
 Dai **borghi suggestivi dell’Italia** ai **mercati e strade delle città straniere**, ogni esperienza ci ha insegnato qualcosa di nuovo: sul mondo, sulle persone e su noi stesse.  
 
-In questa sezione troverete **itinerai**, **esperienze autentiche** e **consigli pratici** per vivere ogni destinazione con curiosità e leggerezza, anche con tempi o budget ridotti.  
+Sul nostro sito troverete **itinerai**, **esperienze autentiche** e **consigli pratici** per vivere ogni destinazione con curiosità e leggerezza, anche con tempi o budget ridotti.  
 
 Che vogliate esplorare un **weekend tra colline** o partire per **avventure oltre confine**, qui scoprirete come trasformare ogni viaggio in un’**esperienza unica**, ricca di **emozioni** e di piccoli momenti indimenticabili.
+
+Seguiteci sui social e scoprirete i flashback dei nostri viaggi: emozioni autentiche, luoghi straordinari e tanta ispirazione per partire.
 
 *Preparate la valigia: il prossimo viaggio inizia con **Sconfinamente.***  
 
