@@ -1,6 +1,22 @@
-{
-  "date": "2025-11-06",
-  "title": "Tra le acque calme di Little Venice",
-  "message": "Oggi ti porto a passeggiare lungo i canali di Little Venice, dove Londra rallenta il passo e si lascia cullare dal riflesso dell’acqua. 💧",
-  "image": "https://raw.githubusercontent.com/sconfinamente/main/assets/little-venice.jpg"
-}
+[
+  {
+    "message": "Scopri il fascino nascosto di Camden Town!",
+    "paese": "londra",
+    "codice": "camden-town"
+  },
+  {
+    "message": "Passeggia tra i templi di Chiang Rai al tramonto.",
+    "paese": "thailandia",
+    "codice": "chiang-rai"
+  },
+  {
+    "message": "Lasciati sorprendere dai colori di Little Venice.",
+    "paese": "londra",
+    "codice": "little-venice"
+  },
+  {
+    "message": "Perditi tra i mercati di Bangkok e ritrova te stesso.",
+    "paese": "thailandia",
+    "codice": "bangkok"
+  }
+]
