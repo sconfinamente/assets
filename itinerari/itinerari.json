@@ -12,12 +12,6 @@
     "descrizione": "Scopri Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere di Al Fahidi, dal Creek al deserto dorato, tra safari in jeep e tramonti mozzafiato sull’Aura Skypool."
   },
   {
-    "codice": "london-christmas",
-    "paese": "uk",
-    "titolo": "Natale a Londra",
-    "descrizione": "Vivi la magia del Natale tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Un viaggio nel cuore di Londra quando la città diventa un sogno d’inverno."
-  },
-  {
     "codice": "new-york-christmas",
     "paese": "usa",
     "titolo": "Natale a New York, luci, mercatini e magia",
@@ -46,6 +40,18 @@
     "paese": "romania",
     "titolo": "Transilvania e Maramureș, tra castelli, borghi e tradizioni",
     "descrizione": "Esplora castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș."
+  },
+  {
+    "codice": "london-christmas",
+    "paese": "uk",
+    "titolo": "Natale a Londra",
+    "descrizione": "Vivi la magia del Natale tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Un viaggio nel cuore di Londra quando la città diventa un sogno d’inverno."
+  },
+  {
+    "codice": "unusual-london",
+    "paese": "uk",
+    "titolo": "Londra insolita",
+    "descrizione": "Un viaggio nella Londra più autentica e sorprendente: tra tunnel di graffiti, canali silenziosi, cortili segreti e le note malinconiche di Camden Town."
   },
   {
     "codice": "uk-south",
