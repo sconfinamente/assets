@@ -1,22 +1,77 @@
 [
   {
-    "message": "Scopri il fascino nascosto di Camden Town!",
-    "paese": "londra",
-    "codice": "camden-town"
+    "message": "Lasciati sorprendere dal contrasto tra deserto e mare, dove il futuro incontra la tradizione.",
+    "paese": "uae",
+    "codice": "abu-dhabi"
   },
   {
-    "message": "Passeggia tra i templi di Chiang Rai al tramonto.",
+    "message": "Ogni tramonto a Dubai è un invito a sognare più in grande.",
+    "paese": "uae",
+    "codice": "dubai"
+  },
+  {
+    "message": "C’è un posto dove le luci non si spengono mai: Natale a New York.",
+    "paese": "usa",
+    "codice": "new-york-christmas"
+  },
+  {
+    "message": "A volte la pace ha il suono delle onde sulle isole maldiviane.",
+    "paese": "maldive",
+    "codice": "maldive-autentiche"
+  },
+  {
+    "message": "Perditi tra i colori e i profumi della Medina, e ritrova te stesso a Marrakech.",
+    "paese": "marocco",
+    "codice": "marrakech"
+  },
+  {
+    "message": "Nelle leggende della Transilvania si nasconde la magia dei luoghi antichi.",
+    "paese": "romania",
+    "codice": "transilvania"
+  },
+  {
+    "message": "Tra le montagne della Romania, ogni borgo racconta una storia.",
+    "paese": "romania",
+    "codice": "transilvania-maramures"
+  },
+  {
+    "message": "A Londra, anche l’inverno ha la luce di una fiaba.",
+    "paese": "uk",
+    "codice": "london-christmas"
+  },
+  {
+    "message": "C’è una Londra che non conosci: seguila nei suoi angoli nascosti.",
+    "paese": "uk",
+    "codice": "unusual-london"
+  },
+  {
+    "message": "Tra le scogliere e i castelli dell’Inghilterra del Sud si respira la poesia del tempo.",
+    "paese": "uk",
+    "codice": "uk-south"
+  },
+  {
+    "message": "L’estate a New York è un film che non smette mai di girare.",
+    "paese": "usa",
+    "codice": "new-york-estate"
+  },
+  {
+    "message": "Ascolta il fragore delle cascate e il silenzio del Canada che emoziona.",
+    "paese": "canada",
+    "codice": "toronto-niagara"
+  },
+  {
+    "message": "La libertà ha il profumo dell’oceano lungo la Highway 1.",
+    "paese": "usa",
+    "codice": "sanfrancisco-sandiego"
+  },
+  {
+    "message": "Ogni strada di Parigi è un invito a rallentare e meravigliarsi.",
+    "paese": "francia",
+    "codice": "parigi-spring"
+  },
+  {
+    "message": "Dal silenzio dei templi al profumo dell’oceano, la Thailandia ti accoglie con grazia.",
     "paese": "thailandia",
-    "codice": "chiang-rai"
-  },
-  {
-    "message": "Lasciati sorprendere dai colori di Little Venice.",
-    "paese": "londra",
-    "codice": "little-venice"
-  },
-  {
-    "message": "Perditi tra i mercati di Bangkok e ritrova te stesso.",
-    "paese": "thailandia",
-    "codice": "bangkok"
+    "codice": "bangkok-chiangrai"
   }
 ]
