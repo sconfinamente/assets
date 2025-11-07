@@ -1,4 +1,4 @@
-## Santo Domingo: tra ritmo caraibico e storia coloniale
+## 🇩🇴 Santo Domingo: tra ritmo caraibico e storia coloniale
 
 C’è un’energia che a **Santo Domingo** si sente già nell’aria: è il ritmo del **merengue** che accompagna ogni passo, è il profumo del mare che arriva dalle spiagge di **Boca Chica** e **Juan Dolio**, è la luce che accarezza le facciate color pastello della **Zona Colonial**.  
 
