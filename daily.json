@@ -98,5 +98,10 @@
     "message": "Lasciati portare dal vento della famosa Windy city, la meravigliosa Chicago, un viaggio tra skyline mozzafiato e vita urbana vibrante.",
     "paese": "usa",
     "codice": "chicago"
+  },
+  {
+    "message": "Il mare è un acquario a cielo aperto, il deserto un silenzio che parla.  A Sharm el-Sheikh, tra la barriera corallina di Ras Mohamed e un tè caldo sotto le stelle del Sinai.",
+    "paese": "egitto",
+    "codice": "sharm-el-sheik"
   }
 ]
