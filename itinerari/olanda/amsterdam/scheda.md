@@ -1,8 +1,5 @@
 ## Amsterdam: tra canali, biciclette e riflessi dorati
 
-**Short description:**  
-Un viaggio lento tra le vie d’acqua di Amsterdam, dove ogni ponte racconta una storia e ogni vetrina riflette un frammento di libertà.
-
 Ci sono città che sembrano disegnate per essere percorse piano, con il vento che profuma di pane caldo e tulipani. **Amsterdam** è una di queste.  
 Una rete di **canali che scintillano al tramonto**, biciclette che sfrecciano leggere e finestre aperte sulla quotidianità di chi vive senza fretta.
 
