@@ -1,4 +1,4 @@
-## Estate a New York, città, parchi e skyline
+## 🇺🇸 Estate a New York, città, parchi e skyline
 
 **Goditi l’estate a New York tra parchi verdi, rooftop panoramici, musei e passeggiate lungo il fiume, vivendo la città al ritmo estivo.**
 
