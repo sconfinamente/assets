@@ -1,4 +1,4 @@
-## Marrakech, il cuore pulsante del Marocco
+## 🇲🇦 Marrakech, il cuore pulsante del Marocco
 
 Marrakech, conosciuta come “la città rossa”, è un luogo dove l’anima del Marocco si rivela in ogni angolo: nei profumi delle spezie, nei colori intensi dei souk e nei suoni vibranti della Medina. Un viaggio qui è un’esperienza sensoriale che intreccia cultura, storia e autenticità, tra la frenesia dei mercati e la calma dei giardini nascosti.
 
