@@ -78,5 +78,10 @@
     "message": "Perditi tra i canali di Amsterdam, dove il vento profuma di pane caldo e tulipani, ogni ponte è una fotografia, ogni bicicletta una storia in movimento.",
     "paese": "olanda",
     "codice": "amsterdam"
+  },
+  {
+    "message": "Da San Francisco a Las Vegas, tra giganti silenziosi, deserti che bruciano e città fantasma che sussurrano ancora storie di polvere e sogni.",
+    "paese": "usa",
+    "codice": "sanfrancisco-lasvegas"
   }
 ]
