@@ -118,5 +118,11 @@
     "paese": "usa",
     "titolo": "Chicago, the windy city",
     "descrizione": "Tra architettura mozzafiato, lungolago e il celebre Navy Pier, Chicago è un viaggio tra skyline iconici e vita urbana vibrante."
+  },
+  {
+    "codice": "sharm-el-sheik",
+    "paese": "egitto",
+    "titolo": "Sharm el-Sheikh: tra deserto e barriera corallina",
+    "descrizione": "Tra le acque turchesi del Mar Rosso e il silenzio del Sinai, Sharm el-Sheikh unisce relax, avventura e misticismo."
   }
 ]
