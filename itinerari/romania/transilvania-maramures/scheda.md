@@ -1,4 +1,4 @@
-## Transilvania e Maramureș: tra castelli, borghi e tradizioni
+## 🇷🇴 Transilvania e Maramureș: tra castelli, borghi e tradizioni
 
 **Scopri la magia della Romania settentrionale, tra castelli leggendari, villaggi pittoreschi e le tradizioni autentiche del Maramureș.**
 
