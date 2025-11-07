@@ -1,4 +1,4 @@
-## Chicago, the windy city
+## 🇺🇸 Chicago, the windy city
 
 Chicago è una città che si sente prima ancora di essere vista: il **vento che scivola lungo il Lago Michigan**, il ritmo delle strade e i grattacieli che sfidano il cielo.  
 
