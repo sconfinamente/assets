@@ -1,4 +1,4 @@
-## Maldive Autentiche
+## 🇲🇻 Maldive Autentiche
 
 Scopri il fascino delle Maldive lontano dai resort turistici, immergendoti nelle isole locali dove la vita scorre lenta e autentica. Passeggia tra villaggi colorati, respira l’aria salmastra e lasciati cullare dal dolce suono delle onde che lambiscono spiagge incontaminate.
 
