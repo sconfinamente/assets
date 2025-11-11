@@ -87,13 +87,15 @@
     "codice": "sanfrancisco-sandiego",
     "paese": "usa",
     "titolo": "California Dream: da San Francisco a San Diego lungo la Highway 1",
-    "descrizione": "Un viaggio on the road tra oceano e libertà, lungo la leggendaria Highway 1: scogliere, onde, tramonti e la magia infinita della costa californiana."
+    "descrizione": "Un viaggio on the road tra oceano e libertà, lungo la leggendaria Highway 1: scogliere, onde, tramonti e la magia infinita della costa californiana.",
+    "mappa": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1HiumP0T544Oy7JE5jMfrAs2hYHGYLcs&ehbc=2E312F' width='640' height='480'></iframe>"
   },
   {
     "codice": "sanfrancisco-lasvegas",
     "paese": "usa",
     "titolo": "California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma",
-    "descrizione": "Un viaggio che attraversa la California da ovest a est, dalle onde del Pacifico ai silenzi infiniti del deserto. Tra boschi di sequoie, vallate di granito e miraggi lungo la strada per Las Vegas."
+    "descrizione": "Un viaggio che attraversa la California da ovest a est, dalle onde del Pacifico ai silenzi infiniti del deserto. Tra boschi di sequoie, vallate di granito e miraggi lungo la strada per Las Vegas.",
+    "mappa": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1nmF0ZPb9KuTau_5jIGaXlcGEptYuSgM&ehbc=2E312F' width='640' height='480'></iframe>"
   },
   {
     "codice": "parigi-spring",
@@ -105,7 +107,8 @@
     "codice": "bangkok-chiangrai",
     "paese": "thailandia",
     "titolo": "Thailandia: dal silenzio dei templi al profumo dell’oceano",
-    "descrizione": "Un itinerario che attraversa la Thailandia da Bangkok al nord mistico di Chiang Rai, fino alle spiagge dorate di Phuket. Un viaggio tra spiritualità, natura e mare."
+    "descrizione": "Un itinerario che attraversa la Thailandia da Bangkok al nord mistico di Chiang Rai, fino alle spiagge dorate di Phuket. Un viaggio tra spiritualità, natura e mare.",
+    "mappa": "<iframe src='https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F' width='640' height='480'></iframe>"
   },
   {
     "codice": "berlino",
