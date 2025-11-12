@@ -1,13 +1,13 @@
 ## 🇹🇭 Thailandia: dal silenzio dei templi al profumo dell’oceano
 
-### **Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia**
+### Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia
 
 La **Thailandia** è un viaggio dei sensi, un equilibrio perfetto tra **spiritualità, natura e meraviglia**.  
 Da **Bangkok**, città vibrante e inarrestabile, si sale verso il **nord verde e sacro di Chiang Mai e Chiang Rai**, per poi scendere verso sud, dove **Phuket** accoglie con il profumo del mare e tramonti infiniti.  
 
 ---
 
-### **Bangkok: il battito moderno della tradizione**
+### Bangkok: il battito moderno della tradizione
 Nella capitale, il ritmo è incessante.  
 Tra mercati galleggianti e templi scintillanti, Bangkok regala un’immersione unica nella cultura thailandese.  
 Da non perdere:  
@@ -19,7 +19,7 @@ Da non perdere:
 
 ---
 
-### **Verso nord: Chiang Mai e Chiang Rai, tra templi e montagne**
+### Verso nord: Chiang Mai e Chiang Rai, tra templi e montagne
 Un volo o un treno notturno ti porterà verso il nord, dove la vita rallenta e la spiritualità si fa respiro.  
 A **Chiang Mai**, circondata da colline e foreste, si visitano antichi templi come il **Wat Phra That Doi Suthep**, sospeso tra cielo e nuvole.  
 Le botteghe artigiane, i mercati locali e i corsi di cucina rivelano la Thailandia più autentica.  
@@ -32,7 +32,7 @@ Poi ancora più a nord, **Chiang Rai** ti accoglie con la sua magia:
 
 ---
 
-### **Phuket: il sogno tropicale**
+### Phuket: il sogno tropicale
 Dopo il silenzio delle montagne, il sud ti avvolge con il suono del mare.  
 **Phuket** è il volto solare della Thailandia: spiagge dorate, acque trasparenti e tramonti infuocati.  
 Da qui puoi esplorare:  
@@ -44,12 +44,12 @@ Da qui puoi esplorare:
 
 ---
 
-### **Un viaggio che unisce mondi**
+### Un viaggio che unisce mondi
 Dalla **frenesia urbana** alla **spiritualità delle montagne**, fino alla **pace del mare**, questo itinerario in Thailandia è un racconto di contrasti e armonie.  
 Ogni tappa è una sfumatura diversa dello stesso sorriso thailandese, quello che ti resta nel cuore molto dopo il ritorno. 🌅  
 
 <div class="row">
     <div class="col-md-12 align-center">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F" width="60vw" height="60vh"></iframe>
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F"></iframe>
     </div>
 </div>
