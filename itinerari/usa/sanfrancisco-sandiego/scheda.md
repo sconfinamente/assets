@@ -19,3 +19,9 @@ La strada continua poi verso **Santa Barbara**, elegante e solare, e infine vers
 Il viaggio termina a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce si fa dolce come un arrivederci.
 
 La **Highway 1** è un invito a perdersi con meraviglia: un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il rumore dell’oceano che accompagna ogni ricordo.
+
+<div class="row">
+    <div class="col-md-12 align-center">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HiumP0T544Oy7JE5jMfrAs2hYHGYLcs&ehbc=2E312F"></iframe>
+    </div>
+</div>

@@ -27,3 +27,9 @@ Dedica almeno due notti a **Yosemite National Park** per respirarne il silenzio 
 Valuta di pernottare almeno una notte nel **Sequoia National Park**, ci sono lodge molto caratteristici che vale la pena vedere.
 Attraversa il deserto in sicurezza, la **Death Valley** è affascinante ma estrema. Porta sempre acqua e benzina.  
 Fermati a **Calico** e a **Zzyzx** anche solo per un’ora, sono luoghi sospesi che raccontano la vera America.
+
+<div class="row">
+    <div class="col-md-12 align-center">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nmF0ZPb9KuTau_5jIGaXlcGEptYuSgM&ehbc=2E312F"></iframe>
+    </div>
+</div>
