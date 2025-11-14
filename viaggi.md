@@ -9,7 +9,7 @@ Non sono racconti presi altrove — sono i nostri viaggi, raccontati così come 
 
 Dai **borghi suggestivi dell’Italia** ai **mercati e alle strade delle grandi città straniere**, ogni destinazione ci ha insegnato qualcosa di nuovo: sul mondo, sulle persone e su noi stesse.  
 
-Sul nostro sito troverete **itinerari dettagliati**, **consigli pratici** e **ispirazioni reali** per organizzare la vostra prossima partenza, anche con tempi o budget ridotti.  
+Sul nostro sito troverete **itinerari**, **consigli pratici** e **ispirazioni reali** per organizzare la vostra prossima partenza, anche con tempi o budget ridotti.  
 E se sognate una meta che ancora non abbiamo raccontato, **possiamo aiutarvi a crearla insieme**, con la nostra esperienza di viaggio come bussola. ✈️  
 
 Seguiteci sui social e rivivete i flashback dei nostri viaggi: emozioni autentiche, luoghi straordinari e tanta ispirazione per partire.  
