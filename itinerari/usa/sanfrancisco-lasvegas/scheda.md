@@ -1,35 +1,26 @@
 ## 🇺🇸 California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma
 
 Ci sono viaggi che non sono solo spostamenti, ma **trasformazioni**.  
-Partire da **San Francisco**, con il vento dell’oceano e le case color pastello che si arrampicano sulle colline, è come chiudere un libro e aprirne un altro: quello della **California più selvaggia e profonda**.
+Partire da **San Francisco**, con il vento salmastro dell’oceano e le case color pastello che si arrampicano sulle colline, è come chiudere un libro e aprirne un altro: quello della **California più selvaggia e profonda**. Il Golden Gate si staglia rosso contro il cielo, e mentre lo lasci alle spalle, senti l’inizio di un’avventura che promette meraviglia e silenzi antichi.
 
-Si lascia il Golden Gate alle spalle e si risale verso **Yosemite National Park**, dove la natura si fa scultura.  
-Le cascate che cadono da pareti di granito, i pini che profumano di resina e silenzio, e quel senso di piccolezza che solo la montagna sa dare.  
-Poi, più a sud, il bosco diventa **un tempio di giganti**: il **Sequoia National Park**, dove gli alberi sembrano colonne di una cattedrale millenaria.  
-Camminare tra loro è come attraversare il tempo — ogni tronco racconta secoli di vita.
+La strada porta verso **Yosemite National Park**, dove la natura diventa scultura. Le cascate precipitano da pareti di granito, i pini profumano di resina e silenzio, e la valle ti ricorda quanto sei piccolo di fronte alla maestosità del mondo. Poi il paesaggio cambia: il bosco si fa tempio di giganti. Nel **Sequoia National Park**, gli alberi secolari si ergono come colonne di una cattedrale millenaria, e camminare tra loro significa attraversare il tempo, respirare storia viva, sentire l’eternità sotto le tue mani.
 
-La strada poi cambia ancora: le montagne si spogliano, la terra si fa rossa e polverosa.  
-È qui che comincia **la discesa verso il deserto**.  
-Prima una sosta surreale a **Calico Ghost Town**, un vecchio villaggio minerario congelato nel tempo: legno, vento e storie dimenticate.  
-Poi un nome che sembra inventato, ma esiste davvero — **Zzyzx**, un’oasi abbandonata tra il nulla e la sabbia, dove il silenzio ha un suono preciso.
+Proseguendo verso sud, le montagne lasciano spazio a terra rossa e polverosa: il deserto si apre davanti a te. Tra i contrasti più strani e affascinanti, appare **Calico Ghost Town**, un villaggio minerario sospeso nel tempo, dove il vento sussurra storie dimenticate tra legno e sabbia. Poi Zzyzx, un nome impossibile eppure reale, un’oasi abbandonata dove il silenzio ha un suono proprio e lo spazio sembra infinito.
 
-Infine arriva **Death Valley**, il luogo dove la terra brucia e i colori esplodono: gialli, viola, rame, oro.  
-Ogni curva è un miraggio, ogni passo un confine.  
-E quando la linea dell’orizzonte si accende di luci, sai che sei arrivata a **Las Vegas**, la città che non dorme, il contrasto perfetto con il vuoto da cui arrivi.
+E ancora più avanti, la **Death Valley** esplode di colori e luce: gialli, violetti, rame, oro. Ogni curva regala un miraggio, ogni passo ti ricorda che il deserto è vivo, pulsante e implacabile. Poi, quando l’orizzonte si accende di luci artificiale, compare **Las Vegas**, città che non dorme, regno di eccessi e contrasti. Dal silenzio del deserto al rumore e al lusso sfrenato, il viaggio arriva al suo culmine: un’esperienza di opposti che si incontrano e completano.
 
-Un itinerario che è un **viaggio attraverso gli opposti**: mare e deserto, silenzio e rumore, natura e artificio.  
-Un percorso che ti insegna che la bellezza non è solo nei luoghi, ma nel modo in cui impari a guardarli.
+Questo itinerario non è solo geografia: è un viaggio attraverso sensazioni, meraviglie naturali e artifici umani, dove ogni tappa ti insegna a guardare con occhi nuovi e a sentire ogni luogo nel profondo.
 
 ### Consiglio
 
-Parti da **San Francisco** con calma e fermati per una notte a **Mariposa**, una cittadina storica e autentica alle porte dello Yosemite.
-Dedica almeno due notti a **Yosemite National Park** per respirarne il silenzio e ammirare il tramonto sulla valle.  
-Valuta di pernottare almeno una notte nel **Sequoia National Park**, ci sono lodge molto caratteristici che vale la pena vedere.
-Attraversa il deserto in sicurezza, la **Death Valley** è affascinante ma estrema. Porta sempre acqua e benzina.  
-Fermati a **Calico** e a **Zzyzx** anche solo per un’ora, sono luoghi sospesi che raccontano la vera America.
+Parti da **San Francisco** senza fretta, fermandoti a **Mariposa** per una notte tra storia e autenticità prima di entrare nello Yosemite.  
+Dedica almeno due giorni al **Yosemite National Park** per respirarne il silenzio, ammirare le cascate e assistere al tramonto sulla valle.  
+Nel **Sequoia National Park**, una notte in lodge tra gli alberi giganti ti regalerà un’esperienza quasi spirituale.  
+Attraversa il deserto in sicurezza: **Death Valley** è affascinante ma estrema, porta sempre acqua, carburante e rispetto per il territorio.  
+Fermati a osservare **Calico** e **Zzyzx**, anche solo per un’ora: luoghi sospesi che raccontano la vera America e lasciano ricordi indelebili.
 
 <div class="row">
     <div class="col-md-12 align-center">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nmF0ZPb9KuTau_5jIGaXlcGEptYuSgM&ehbc=2E312F"></iframe>
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F"></iframe>
     </div>
 </div>

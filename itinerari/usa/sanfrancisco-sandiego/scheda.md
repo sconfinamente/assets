@@ -1,24 +1,14 @@
 ## 🇺🇸 California Dream: da San Francisco a San Diego lungo la Highway 1
 
-Ci sono viaggi che restano dentro come un profumo, come il suono delle onde che accompagna ogni curva.  
-Da **San Francisco** a **San Diego**, la **Highway 1** è molto più di una strada: è un’esperienza, un lento racconto di **mare, vento e luce**.
+Ci sono viaggi che restano dentro come un profumo, come il suono delle onde che accompagna ogni curva. Da **San Francisco** a **San Diego**, la **Highway 1** non è solo una strada: è un racconto lento di **mare, vento e luce**, un percorso in cui ogni chilometro regala emozioni diverse e paesaggi che sembrano dipinti.  
 
-Si parte da **San Francisco**, città iconica e sospesa tra colline e nebbia. Il **Golden Gate Bridge** accoglie i viaggiatori come un portale verso l’avventura, mentre i caffè di **North Beach** e le case vittoriane di **Alamo Square** salutano con la loro eleganza nostalgica.
+Si parte da **San Francisco**, città iconica sospesa tra colline e nebbia. Il **Golden Gate Bridge** accoglie come un portale verso l’avventura, mentre i caffè di **North Beach** e le eleganti case vittoriane di **Alamo Square** raccontano storie di un passato che sembra sorridere a chi osserva. Procedendo verso sud, la costa inizia a rivelarsi in tutta la sua bellezza: a **Monterey**, le otarie si crogiolano al sole e l’odore salmastro del mare sembra insegnarti a respirare più lentamente; poco più avanti, **Carmel-by-the-Sea** incanta con le sue gallerie d’arte, le spiagge silenziose e un’atmosfera che invita a fermarsi, ad ascoltare il rumore dell’oceano e il fruscio dei pini.  
 
-La costa inizia a srotolarsi tra panorami mozzafiato:  
-- a **Monterey**, le otarie si crogiolano al sole e il mare profuma di libertà;  
-- a **Carmel-by-the-Sea**, le gallerie d’arte e le spiagge silenziose invitano a rallentare;  
-- e poi **Big Sur**, forse il tratto più emozionante di tutti — un luogo dove la natura comanda, dove le scogliere si tuffano nell’oceano e ogni tramonto sembra il primo della tua vita.
+E poi arriva **Big Sur**, forse il tratto più emozionante di tutta la Highway 1. Qui la natura comanda: le scogliere si tuffano nell’oceano con audacia e i tramonti dipingono il cielo con colori che sembrano il primo spettacolo della tua vita. Continuando verso sud, **Morro Bay** si rivela come un piccolo gioiello sospeso sul mare, dominato dal grande monolite che emerge dalle acque come un guardiano silenzioso; il volo dei gabbiani, i pescherecci che rientrano al tramonto e la calma dei suoi abitanti raccontano una vita in perfetta armonia con l’oceano.  
 
-Proseguendo verso sud, il viaggio tocca **Morro Bay**, un piccolo gioiello affacciato sul mare, dominato dal grande monolite che emerge dalle acque come un guardiano silenzioso.  
-Qui il tempo sembra fermarsi: il volo dei gabbiani, i pescherecci che rientrano al tramonto, e la calma di chi ha imparato a vivere in sintonia con l’oceano.
+Il viaggio prosegue in una nota più fiabesca con **Solvang**, dove le casette in stile danese, i mulini a vento e le pasticcerie deliziose trasformano ogni passeggiata in un salto in un’altra dimensione, tra profumi di dolci e fiori alle finestre. Dopo questa parentesi nordica, la strada accoglie **Santa Barbara**, elegante e luminosa, prima di fondersi con la vivace e spettacolare **Los Angeles**, tra **Venice Beach**, le onde perfette per il surf e le colline di **Malibu**, con panorami che sembrano scene cinematografiche.  
 
-Poco più avanti, il paesaggio cambia ancora: **Solvang**, con le sue casette in stile danese e i mulini a vento, è un salto in un’altra dimensione. Passeggiando tra pasticcerie, insegne nordiche e fiori alle finestre, si scopre un’anima delicata e fiabesca nel cuore della California.
-
-La strada continua poi verso **Santa Barbara**, elegante e solare, e infine verso la grande **Los Angeles**, dove la **Highway 1** si fonde con la città dei sogni, tra **Venice Beach** e **Malibu**.  
-Il viaggio termina a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce si fa dolce come un arrivederci.
-
-La **Highway 1** è un invito a perdersi con meraviglia: un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il rumore dell’oceano che accompagna ogni ricordo.
+Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce calda del tramonto sembra un arrivederci dolce e sincero. La **Highway 1** è più di un percorso: è un invito a perdersi con meraviglia, un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il suono dell’oceano che accompagna ogni ricordo.  
 
 <div class="row">
     <div class="col-md-12 align-center">
