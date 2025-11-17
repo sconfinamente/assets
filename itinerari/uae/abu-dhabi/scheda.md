@@ -1,5 +1,7 @@
 ## 🇦🇪 Abu Dhabi, modernità e tradizione
 
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330382383" title="Abu Dhabi, modernità e tradizione"><img src="https://live.staticflickr.com/65535/54928325417_df1363f7d0_c.jpg" width="800" height="600" alt="Abu Dhabi, modernità e tradizione"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 Abu Dhabi è una città sorprendente, dove **modernità e tradizione** convivono in armonia, tra grattacieli futuristici, moschee eleganti e lungomari spettacolari.  
 Inizia il tuo viaggio passeggiando lungo il **lungomare della Corniche**, dove le acque del Golfo Persico si estendono all’orizzonte e le spiagge invitano a momenti di relax. L’aria profuma di mare e la luce riflette sui palazzi moderni, creando uno scenario perfetto per scattare fotografie indimenticabili.
 
