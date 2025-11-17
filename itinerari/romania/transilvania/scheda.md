@@ -1,4 +1,4 @@
-## 🇷🇴 Transilvania: tra castelli e leggende
+## 🇷🇴 Transilvania: castelli, leggende e borghi medievali
 
 La **Transilvania** è un territorio dove la storia e le leggende si intrecciano tra montagne, villaggi medievali e castelli che sembrano usciti da un racconto gotico. Passeggiando per le strade lastricate di **Brasov**, tra case colorate e piazze animate, si respira l’atmosfera di un’epoca che resiste nel tempo.  
 

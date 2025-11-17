@@ -1,4 +1,4 @@
-## 🇨🇦 Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’animas
+## 🇨🇦 Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima
 
 Il **Canada** ti accoglie con la sua vastità e con il suo respiro profondo: qui ogni panorama sembra invitarti a **fermarti, respirare e stupirti**. È un Paese che parla di libertà, di spazi aperti e di emozioni autentiche, dove città vibranti e natura selvaggia si incontrano in un abbraccio unico.  
 

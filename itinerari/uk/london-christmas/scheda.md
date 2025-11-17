@@ -1,4 +1,4 @@
-## 🇬🇧 Natale a Londra
+## 🇬🇧 Natale a Londra: luci, mercatini e atmosfere
 
 Vivi la magia del Natale nel cuore di **Londra**, dove la città si trasforma in un vero e proprio paese delle meraviglie. Passeggia lungo **Oxford Street** e **Regent Street**, ammirando le vetrine decorate con cura e le luci scintillanti che illuminano ogni angolo. Lasciati incantare dai cori natalizi nei quartieri storici e perditi tra le bancarelle dei mercatini di **Hyde Park**, **Southbank** e **Covent Garden**, tra profumi di vin brulé, dolci tipici e artigianato locale.
 

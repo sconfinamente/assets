@@ -2,7 +2,7 @@
   {
     "codice": "abu-dhabi",
     "paese": "uae",
-    "titolo": "Abu Dhabi: tra modernità, cultura e lusso",
+    "titolo": "Abu Dhabi, modernità e tradizione",
     "descrizione": "Scopri Abu Dhabi tra il lungomare della Corniche, la Moschea Bianca, il Louvre e Yas Island. Un viaggio tra arte, spiritualità e modernità, per vivere esperienze autentiche nella capitale degli Emirati Arabi Uniti.",
     "keywords": ["Abu Dhabi viaggio", "cosa vedere Abu Dhabi", "Emirati Arabi Uniti turismo", "Moschea Bianca Abu Dhabi", "Louvre Abu Dhabi", "Yas Island Abu Dhabi", "tour Abu Dhabi"],
     "meta_description": "Vivi Abu Dhabi tra Corniche, Moschea Bianca, Louvre e Yas Island. Arte, cultura e modernità in un viaggio unico negli Emirati Arabi Uniti."
@@ -10,7 +10,7 @@
   {
     "codice": "dubai",
     "paese": "uae",
-    "titolo": "Dubai: grattacieli, deserto e tradizione",
+    "titolo": "Dubai, tra grattacieli, deserto e tradizione",
     "descrizione": "Vivi Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere storico di Al Fahidi, dal Creek al deserto dorato. Safari in jeep, tramonti spettacolari e esperienze uniche ti aspettano nella città più iconica degli Emirati Arabi Uniti.",
     "keywords": ["Dubai viaggio", "cosa vedere Dubai", "Burj Khalifa", "Al Fahidi Dubai", "Dubai deserto", "safari Dubai", "Emirati Arabi Uniti turismo"],
     "meta_description": "Scopri Dubai tra Burj Khalifa, quartiere Al Fahidi, Creek e deserto. Esperienze uniche tra tradizione e modernità negli Emirati Arabi Uniti."
@@ -18,7 +18,7 @@
   {
     "codice": "new-york-christmas",
     "paese": "usa",
-    "titolo": "Natale a New York: luci, mercatini e magia",
+    "titolo": "Natale a New York, luci, mercatini e magia",
     "descrizione": "Scopri la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela. Un viaggio indimenticabile per vivere l’inverno nella città più famosa del mondo.",
     "keywords": ["Natale New York", "mercatini di Natale New York", "piste di pattinaggio NYC", "viaggio inverno New York", "cosa fare a Natale NYC", "Grande Mela Natale"],
     "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili."
@@ -26,7 +26,7 @@
   {
     "codice": "maldive-autentiche",
     "paese": "maldive",
-    "titolo": "Maldive Autentiche: natura, cultura e relax",
+    "titolo": "Maldive autentiche",
     "descrizione": "Esplora le Maldive tra spiagge paradisiache, villaggi locali e tradizioni autentiche. Un itinerario per immergersi nella vita quotidiana delle isole e vivere un Natale o un’estate diversa dal solito.",
     "keywords": ["Maldive viaggio", "vacanza Maldive autentiche", "spiagge Maldive", "villaggi Maldive", "turismo sostenibile Maldive", "esperienze Maldive"],
     "meta_description": "Scopri le Maldive autentiche tra spiagge, villaggi locali e tradizioni. Un viaggio unico per relax, natura e cultura sulle isole maldiviane."
@@ -34,7 +34,7 @@
   {
     "codice": "marrakech",
     "paese": "marocco",
-    "titolo": "Marrakech: il cuore pulsante del Marocco",
+    "titolo": "Marrakech, il cuore pulsante del Marocco",
     "descrizione": "Scopri Marrakech tra i profumi dei souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto. Un viaggio autentico nel cuore della città rossa, tra cultura, storia e atmosfere indimenticabili.",
     "keywords": ["Marrakech viaggio", "cosa vedere Marrakech", "Medina Marrakech", "souks Marrakech", "deserto Marocco", "turismo culturale Marocco", "palazzi moreschi Marrakech"],
     "meta_description": "Vivi Marrakech tra souk, Medina, palazzi moreschi e deserti. Cultura, tradizioni e atmosfere uniche nel cuore della città rossa del Marocco."
@@ -42,7 +42,7 @@
   {
     "codice": "amsterdam",
     "paese": "olanda",
-    "titolo": "Amsterdam: canali, biciclette e libertà",
+    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
     "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
     "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
     "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi."
@@ -58,7 +58,7 @@
   {
     "codice": "transilvania-maramures",
     "paese": "romania",
-    "titolo": "Transilvania e Maramureș: borghi, castelli e tradizioni",
+    "titolo": "Transilvania e Maramureș: tra castelli, borghi e tradizioni",
     "descrizione": "Scopri castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș. Un viaggio autentico tra storia, cultura e natura.",
     "keywords": ["Transilvania e Maramureș viaggio", "castelli medievali Romania", "borghi pittoreschi Maramureș", "tradizioni Romania", "paesaggi Transilvania", "turismo culturale Romania"],
     "meta_description": "Esplora Transilvania e Maramureș tra castelli, borghi e paesaggi mozzafiato. Un itinerario autentico tra cultura, storia e tradizioni uniche della Romania."
@@ -106,7 +106,7 @@
   {
     "codice": "toronto-niagara",
     "paese": "canada",
-    "titolo": "Toronto e Cascate del Niagara: natura e città",
+    "titolo": "ToroCanada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima",
     "descrizione": "Un viaggio tra la modernità di Toronto e la maestosità delle Cascate del Niagara. Scopri l’anima del Canada tra paesaggi spettacolari, esperienze urbane e natura incontaminata.",
     "keywords": ["Toronto viaggio", "Cascate del Niagara", "Canada turismo", "cosa vedere Toronto", "tour Niagara Falls", "natura Canada", "esperienze Toronto Niagara"],
     "meta_description": "Esplora Toronto e le Cascate del Niagara in Canada. Un viaggio tra città moderna e natura spettacolare per esperienze uniche e panorami indimenticabili."
@@ -122,7 +122,7 @@
   {
     "codice": "sanfrancisco-lasvegas",
     "paese": "usa",
-    "titolo": "California Dream: da San Francisco a Las Vegas tra oceano e deserto",
+    "titolo": "California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma",
     "descrizione": "Attraversa la California da ovest a est: dalle onde del Pacifico ai deserti infiniti. Un viaggio tra sequoie giganti, vallate di granito e città iconiche fino alla magia luminosa di Las Vegas.",
     "keywords": ["California viaggio", "San Francisco Las Vegas", "road trip California", "deserto California", "sequoie California", "Las Vegas turismo", "on the road USA"],
     "meta_description": "On the road in California da San Francisco a Las Vegas tra oceano, deserti, sequoie e città iconiche. Esperienze uniche tra natura e divertimento."
@@ -130,7 +130,7 @@
   {
     "codice": "parigi-spring",
     "paese": "francia",
-    "titolo": "Parigi: tra arte, luci e atmosfere uniche",
+    "titolo": "Tra le strade di Parigi",
     "descrizione": "Passeggia tra vicoli, piazze e angoli nascosti di Parigi. Scopri arte, architettura e atmosfera romantica della città, lasciandoti sorprendere da esperienze uniche e momenti indimenticabili.",
     "keywords": ["Parigi viaggio", "cosa vedere Parigi", "tour Parigi", "vicoli Parigi", "arte Parigi", "atmosfera romantica Parigi", "esperienze Parigi"],
     "meta_description": "Esplora Parigi tra vicoli, piazze e arte. Vivi atmosfere romantiche e momenti indimenticabili nella città delle luci con esperienze autentiche."
@@ -138,7 +138,7 @@
   {
     "codice": "bangkok-chiangrai",
     "paese": "thailandia",
-    "titolo": "Thailandia: dai templi di Bangkok alle spiagge di Phuket",
+    "titolo": "Thailandia: dal silenzio dei templi al profumo dell’oceano",
     "descrizione": "Un itinerario che attraversa la Thailandia da Bangkok al nord mistico di Chiang Rai fino alle spiagge dorate di Phuket. Tra spiritualità, natura e mare, un viaggio ricco di emozioni e scoperte.",
     "keywords": ["Thailandia viaggio", "Bangkok templi", "Chiang Rai turismo", "Phuket spiagge", "Thailandia natura", "Thailandia cultura", "itinerario Thailandia"],
     "meta_description": "Viaggia in Thailandia da Bangkok a Chiang Rai e Phuket tra templi, natura e spiagge. Scopri cultura e mare in un itinerario ricco di emozioni."
@@ -154,7 +154,7 @@
   {
     "codice": "chicago",
     "paese": "usa",
-    "titolo": "Chicago: architettura, lago e vita urbana",
+    "titolo": "Chicago, the Windy City",
     "descrizione": "Esplora Chicago tra skyline iconici, architettura mozzafiato, lungolago e il celebre Navy Pier. Una città vibrante che unisce cultura, divertimento e panorami indimenticabili sul Lago Michigan.",
     "keywords": ["Chicago viaggio", "cosa vedere Chicago", "architettura Chicago", "Navy Pier Chicago", "lungolago Chicago", "skyline Chicago", "tour Chicago"],
     "meta_description": "Vivi Chicago tra architettura iconica, Navy Pier e lungolago. Scopri la città vibrante sul Lago Michigan con esperienze uniche e panorami mozzafiato."
@@ -170,7 +170,7 @@
   {
     "codice": "santo-domingo",
     "paese": "caraibi",
-    "titolo": "Santo Domingo: storia, ritmo caraibico e spiagge da sogno",
+    "titolo": "Santo Domingo: tra ritmo caraibico e storia coloniale",
     "descrizione": "Cuore pulsante dei Caraibi, Santo Domingo combina spiagge da sogno, musica che vibra nell’aria e un’anima coloniale ricca di storia. Un viaggio tra cultura, relax e ritmo caraibico indimenticabile.",
     "keywords": ["Santo Domingo viaggio", "spiagge Santo Domingo", "musica caraibica", "storia Santo Domingo", "turismo caraibico", "vacanza Caraibi", "esperienze Santo Domingo"],
     "meta_description": "Vivi Santo Domingo tra spiagge, musica caraibica e storia coloniale. Un viaggio indimenticabile tra cultura, relax e ritmo dei Caraibi."

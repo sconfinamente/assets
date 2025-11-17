@@ -1,4 +1,4 @@
-## 🇺🇸 Estate a New York, città, parchi e skyline
+## 🇺🇸 Estate a New York: città, parchi e skyline
 
 L’estate a New York ha un ritmo tutto suo: il sole lungo illumina i grattacieli, le strade si riempiono di musica e profumi, e i parchi verdi diventano rifugi sospesi tra cemento e cielo.  
 

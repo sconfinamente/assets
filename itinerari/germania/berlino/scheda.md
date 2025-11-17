@@ -1,4 +1,4 @@
-## 🇩🇪 Berlino: muri, musica e libertà
+## 🇩🇪 Berlino: storia, arte urbana e libertà
 
 Berlino non è una città da guardare distrattamente: **va ascoltata**, respirata, attraversata con gli occhi aperti e il cuore pronto a lasciarsi sorprendere.  
 
