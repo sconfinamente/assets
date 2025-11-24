@@ -8,3 +8,9 @@ Scendendo lungo la costa, arriva a **Brighton**, città vivace e colorata, dove 
 
 ### Consiglio
 Percorri l’itinerario in auto per godere della massima libertà e fermarti nei luoghi più suggestivi lungo il percorso. Porta con te la macchina fotografica: i tramonti sulle scogliere di Dover e il mistero di Stonehenge regaleranno scatti memorabili. Assapora l’atmosfera dei villaggi inglesi, fermati in un pub tradizionale e lasciati trasportare dal fascino autentico dell’Inghilterra del Sud.
+
+
+<div class="flickr-embed-wrapper">
+    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330531603" title="Inghilterra del Sud: campagna, castelli e scogliere">
+    <img src="https://live.staticflickr.com/65535/54943422636_01d7b9ac4f_c.jpg" alt="Inghilterra del Sud: campagna, castelli e scogliere"/></a>
+</div>
