@@ -1,5 +1,3 @@
-## 🇬🇧 Londra insolita: arte urbana e angoli nascosti
-
 C’è una **Londra che si nasconde tra i riflessi e i battiti**, lontana dai soliti itinerari.  
 Una città fatta di contrasti — tra **acciaio e poesia**, **acqua e asfalto**, **silenzio e musica** — che si rivela solo a chi sa rallentare.
 

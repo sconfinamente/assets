@@ -1,5 +1,3 @@
-## 🇨🇦 Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima
-
 Il **Canada** ti accoglie con la sua vastità e con il suo respiro profondo: qui ogni panorama sembra invitarti a **fermarti, respirare e stupirti**. È un Paese che parla di libertà, di spazi aperti e di emozioni autentiche, dove città vibranti e natura selvaggia si incontrano in un abbraccio unico.  
 
 A **Toronto**, la vita pulsa ad ogni angolo: i **grattacieli** si riflettono sul **lago Ontario**, i quartieri raccontano storie di culture e lingue diverse, e la **CN Tower** svetta come un **faro tra le nuvole**, pronta a guidarti nella città. Passeggiare tra **Kensington Market** e **Distillery District** significa lasciarsi sorprendere dai **murales colorati**, dai profumi delle cucine da tutto il mondo e dalla musica che sembra filtrare dalle strade stesse. Toronto è **moderna ma calorosa**, **internazionale ma sorprendentemente intima**, un luogo dove ogni passo regala una nuova emozione.  

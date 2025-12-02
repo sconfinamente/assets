@@ -1,5 +1,3 @@
-## 🇦🇪 Dubai, tra grattacieli, deserto e tradizione
-
 Dubai è una città che **incanta con i suoi contrasti**, un luogo dove il futuro si costruisce tra le sabbie dorate del deserto e la tradizione araba sopravvive nei vicoli antichi.  
 L’itinerario parte dal cuore moderno della città, dove svetta il **Burj Khalifa**, l’edificio più alto del mondo. Dall’alto, la vista è mozzafiato: un intreccio di grattacieli, strade e mare che racconta la forza visionaria e l’ambizione di Dubai. Accanto si estende la **Business Bay**, simbolo di innovazione, design e vita contemporanea.
 

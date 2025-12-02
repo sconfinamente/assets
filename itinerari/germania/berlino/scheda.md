@@ -1,5 +1,3 @@
-## 🇩🇪 Berlino: storia, arte urbana e libertà
-
 Berlino non è una città da guardare distrattamente: **va ascoltata**, respirata, attraversata con gli occhi aperti e il cuore pronto a lasciarsi sorprendere.  
 
 Dalla **Porta di Brandeburgo**, simbolo di rinascita e speranza, ai **resti del Muro**, ogni pietra racconta storie di divisione, coraggio e rinascita. Passeggiando per il quartiere **Mitte**, tra musei, caffè e vicoli, si percepisce un intreccio di storia e arte contemporanea che vibra ad ogni passo.  

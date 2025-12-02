@@ -1,5 +1,3 @@
-## 🇺🇸 Chicago, the Windy City
-
 Chicago è una città che si sente prima ancora di essere vista: il **vento che scivola lungo il Lago Michigan**, il ritmo delle strade e i grattacieli che sfidano il cielo.  
 
 Dal **Millennium Park**, con il celebre **Cloud Gate** (il “Fagiolo”) che riflette la città, ai musei dell’**Art Institute**, ogni passo racconta un incontro tra storia, arte e modernità. Passeggiando tra le installazioni e i giardini del parco, si respira l’energia creativa che anima la città.

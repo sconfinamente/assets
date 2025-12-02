@@ -1,5 +1,3 @@
-## 🇺🇸 California Dream: da San Francisco a San Diego lungo la Highway 1
-
 Ci sono viaggi che restano dentro come un profumo, come il suono delle onde che accompagna ogni curva. Da **San Francisco** a **San Diego**, la **Highway 1** non è solo una strada: è un racconto lento di **mare, vento e luce**, un percorso in cui ogni chilometro regala emozioni diverse e paesaggi che sembrano dipinti.  
 
 Si parte da **San Francisco**, città iconica sospesa tra colline e nebbia. Il **Golden Gate Bridge** accoglie come un portale verso l’avventura, mentre i caffè di **North Beach** e le eleganti case vittoriane di **Alamo Square** raccontano storie di un passato che sembra sorridere a chi osserva. Procedendo verso sud, la costa inizia a rivelarsi in tutta la sua bellezza: a **Monterey**, le otarie si crogiolano al sole e l’odore salmastro del mare sembra insegnarti a respirare più lentamente; poco più avanti, **Carmel-by-the-Sea** incanta con le sue gallerie d’arte, le spiagge silenziose e un’atmosfera che invita a fermarsi, ad ascoltare il rumore dell’oceano e il fruscio dei pini.  

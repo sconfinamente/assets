@@ -1,5 +1,3 @@
-## 🇳🇱 Amsterdam: tra canali, biciclette e riflessi dorati
-
 Ci sono città che sembrano nate per essere percorse lentamente, con il vento che porta profumi di pane appena sfornato e tulipani. **Amsterdam** è una di queste: un luogo dove ogni angolo racconta storie di libertà, creatività e quotidianità vissuta con leggerezza.  
 
 I **canali che scintillano al tramonto**, le biciclette che sfrecciano leggere e le finestre aperte sui cortili interni fanno sentire la città viva, sospesa tra passato e presente. Passeggiare nel **quartiere Jordaan**, tra botteghe vintage, caffè raccolti e gallerie d’arte, è come entrare in un quadro che muta ad ogni passo, dove ogni dettaglio sembra dipinto con cura.  

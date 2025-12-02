@@ -1,5 +1,3 @@
-## 🇺🇸 Estate a New York: città, parchi e skyline
-
 L’estate a New York ha un ritmo tutto suo: il sole lungo illumina i grattacieli, le strade si riempiono di musica e profumi, e i parchi verdi diventano rifugi sospesi tra cemento e cielo.  
 
 Comincia la giornata a **Central Park**, dove l’erba brillante invita a stendere una coperta per un picnic improvvisato. Le barche scivolano tranquille sul lago, mentre i bambini corrono tra i sentieri, i musicisti suonano melodie jazz e i runner disegnano traiettorie leggere tra gli alberi. Passeggiare tra i sentieri ti regala scorci inattesi: un laghetto nascosto, un ponte antico, uno scoiattolo curioso che ti osserva tra le foglie.  

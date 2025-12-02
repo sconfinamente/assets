@@ -1,5 +1,3 @@
-## 🇷🇴 Transilvania: castelli, leggende e borghi medievali
-
 La **Transilvania** è un territorio dove la storia e le leggende si intrecciano tra montagne, villaggi medievali e castelli che sembrano usciti da un racconto gotico. Passeggiando per le strade lastricate di **Brasov**, tra case colorate e piazze animate, si respira l’atmosfera di un’epoca che resiste nel tempo.  
 
 Tra le colline e le valli, si erge **Castelul Bran**, il celebre “Castello di Dracula”. Qui le leggende si fanno palpabili: corridoi, torri e cortili raccontano storie di cavalieri, nobiltà e misteri che accendono l’immaginazione. A pochi chilometri, **Sighisoara**, città natale di Vlad l’Impalatore, invita a perdersi tra vicoli antichi e torri medievali, respirando la storia ad ogni passo.  

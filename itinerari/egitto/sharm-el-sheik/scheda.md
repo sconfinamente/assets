@@ -1,5 +1,3 @@
-## 🇪🇬 Sharm el-Sheikh: tra deserto e barriera corallina
-
 Sospesa tra il blu intenso del mare e l’oro infinito del deserto, **Sharm el-Sheikh** è un mosaico di emozioni contrastanti che cattura ogni senso.  
 
 Di giorno, il mondo sottomarino si apre davanti a te: la **barriera corallina** danza tra pesci variopinti e coralli millenari, e ogni immersione o uscita di **snorkeling a Ras Mohamed** rivela un angolo di mare dove la vita sembra sospesa e perfetta.  

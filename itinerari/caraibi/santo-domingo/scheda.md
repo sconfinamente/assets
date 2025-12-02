@@ -1,5 +1,3 @@
-## 🇩🇴 Santo Domingo: tra ritmo caraibico e storia coloniale
-
 C’è un’energia che a **Santo Domingo** si sente già nell’aria: è il ritmo del **merengue** che accompagna ogni passo, è il profumo del mare che arriva dalle spiagge di **Boca Chica** e **Juan Dolio**, è la luce che accarezza le facciate color pastello della **Zona Colonial**.  
 
 Fondata da Bartolomeo Colombo, fratello di Cristoforo, questa è la **prima città del Nuovo Mondo**. Camminare tra le sue stradine acciottolate significa lasciarsi avvolgere da secoli di storia, tra la **Cattedrale Primada de América** e le antiche case in pietra che oggi ospitano caffè, gallerie e piccoli angoli di scoperta.  

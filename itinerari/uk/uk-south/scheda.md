@@ -1,5 +1,3 @@
-## 🇬🇧 Inghilterra del Sud: campagna, castelli e scogliere
-
 Partendo da **Londra**, questo viaggio on the road ti conduce nel cuore del Sud dell’Inghilterra, tra castelli storici, villaggi pittoreschi, coste iconiche e monumenti millenari. Ogni tappa è un incontro con la storia, la natura e la cultura locale, per un’esperienza che resta impressa nel cuore.
 
 Inizia dal magico **Leeds Castle**, immerso in laghi e giardini curati, dove ogni scorcio racconta secoli di storia e di leggende. Prosegui verso **Canterbury**, con le sue stradine medievali e la maestosa cattedrale: qui si respira un’atmosfera di spiritualità e tradizione che affascina a ogni passo. Raggiungi le **scogliere bianche di Dover**, simbolo maestoso della costa inglese, e lasciati sorprendere dai panorami mozzafiato e dalla storia che il castello custodisce da secoli.

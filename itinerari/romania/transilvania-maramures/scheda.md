@@ -1,5 +1,3 @@
-## 🇷🇴 Transilvania e Maramureș: tra castelli, borghi e tradizioni
-
 La **Romania settentrionale** è un luogo dove la storia e le leggende prendono vita tra castelli imponenti, villaggi medievali e paesaggi che sembrano sospesi nel tempo.  
 Ogni passo in **Transilvania** racconta una storia: dalle strade lastricate di **Brasov**, tra case colorate e piazze animate, alle torri e corridoi misteriosi di **Castelul Bran**, il celebre “Castello di Dracula”, che sussurra leggende gotiche ad ogni angolo.  
 

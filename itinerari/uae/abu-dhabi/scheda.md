@@ -1,5 +1,3 @@
-## 🇦🇪 Abu Dhabi, modernità e tradizione
-
 Abu Dhabi è una città sorprendente, dove **modernità e tradizione** convivono in armonia, tra grattacieli futuristici, moschee eleganti e lungomari spettacolari.  
 Inizia il tuo viaggio passeggiando lungo il **lungomare della Corniche**, dove le acque del Golfo Persico si estendono all’orizzonte e le spiagge invitano a momenti di relax. L’aria profuma di mare e la luce riflette sui palazzi moderni, creando uno scenario perfetto per scattare fotografie indimenticabili.
 

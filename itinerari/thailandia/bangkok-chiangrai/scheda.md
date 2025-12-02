@@ -1,5 +1,3 @@
-## 🇹🇭 Thailandia: dal silenzio dei templi al profumo dell’oceano
-
 ### Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia
 
 La **Thailandia** è un viaggio dei sensi, un equilibrio perfetto tra **spiritualità, natura e meraviglia**.  

@@ -1,5 +1,3 @@
-## 🇫🇷 Tra le strade di Parigi
-
 Parigi accoglie chi la visita con un respiro leggero e profumato, tra l’eco delle campane di **Notre-Dame** e il lento scorrere della Senna. Passeggiando tra i ponti e i vicoli del **Quartiere Latino**, ci si sente sospesi tra storia e quotidianità, tra caffè che invitano a fermarsi e librerie che raccontano mondi lontani.  
 
 Tra le strade acciottolate e le piazze animate, si scoprono piccole meraviglie: un atelier aperto, una mostra improvvisata, il **59 Rivoli** con i suoi colori e la vitalità degli artisti che vi lavorano. Non è l’attrazione principale, ma è proprio qui che Parigi rivela la sua anima segreta e vibrante.  

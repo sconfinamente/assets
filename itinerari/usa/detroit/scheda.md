@@ -1,5 +1,3 @@
-## Detroit: Musica, Arte, Motori e... Eminem
-
 Camminare per **Detroit** è come sfogliare un album di esperienze, dove ogni strada, ogni palazzo e ogni murales racconta una storia. Nel **Downtown**, le guglie dei grattacieli e le facciate storiche sembrano sussurrare i segreti di un passato industriale glorioso, mentre il sole gioca con i riflessi sulle vetrate del **Guardian Building**, creando un mosaico di luce che sembra danzare sotto i tuoi occhi. Fermati per un **Coney Dog** in un locale storico: il sapore semplice racconta la città meglio di mille guide.  
 
 Detroit pulsa di musica. Al **Motown Museum** sentirai l’eco di voci leggendarie, note immortali che hanno fatto della Motor City un mito mondiale. Passeggiando tra i murales di **Eastern Market**, l’arte urbana ti cattura e ti avvolge, mentre ogni angolo sembra vibrante di creatività. La sera, ascoltare musica dal vivo qui non è solo ascoltare: è sentire l’anima della città che ti entra dentro, ti scuote e ti emoziona.  

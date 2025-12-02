@@ -1,5 +1,3 @@
-## 🇺🇸 Natale a New York, luci, mercatini e magia
-
 New York a Natale non si visita soltanto: **si assapora, si ascolta, si respira**. Appena scendi dal taxi o dalla metro, l’aria frizzante porta con sé il profumo dolce dei biscotti speziati, della cannella e del vin brulé, mescolato all’aroma di caffè appena fatto e al respiro freddo dei passanti avvolti in cappotti colorati.  
 
 Passeggiare lungo **Fifth Avenue** è un’esperienza sensoriale completa: le vetrine dei grandi magazzini sembrano quadri animati, i manichini e le scenografie raccontano piccole storie natalizie e le luci si riflettono sugli occhi di chi le osserva, creando un caleidoscopio di colori che danza sulle facciate degli edifici. L’albero di Natale del **Rockefeller Center** domina la piazza con le sue migliaia di luci scintillanti e l’odore di zucchero e pino fresco che si diffonde nell’aria. I pattinatori che cadono e ridono sulla pista di ghiaccio aggiungono un suono delicato di legno e metallo che si mescola ai cori e ai carillon lontani.
