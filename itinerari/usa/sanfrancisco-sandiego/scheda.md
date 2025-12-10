@@ -12,6 +12,9 @@ Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia 
 
 <div class="row">
     <div class="col-md-12 align-center mb-4">
+        <tiktok-video url="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/itinerari/usa/sanfrancisco-sandiego/tiktok.json" paese="usa" codice="sanfrancisco-sandiego"></tiktok-video>
+    </div>
+    <div class="col-md-12 align-center mb-4">
         <a href="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/itinerari/usa/sanfrancisco-sandiego/california-dream-sanfrancisco-sandiego.pdf" target="_blank" alt="California Dream: da San Francisco a San Diego lungo la Highway 1">Scarica il PDF</a>
     </div>
     <div class="col-md-12 align-center mb-4">
