@@ -6,7 +6,13 @@ E poi arriva **Big Sur**, forse il tratto più emozionante di tutta la Highway 1
 
 Il viaggio prosegue in una nota più fiabesca con **Solvang**, dove le casette in stile danese, i mulini a vento e le pasticcerie deliziose trasformano ogni passeggiata in un salto in un’altra dimensione, tra profumi di dolci e fiori alle finestre. Dopo questa parentesi nordica, la strada accoglie **Santa Barbara**, elegante e luminosa, prima di fondersi con la vivace e spettacolare **Los Angeles**, tra **Venice Beach**, le onde perfette per il surf e le colline di **Malibu**, con panorami che sembrano scene cinematografiche.  
 
-Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce calda del tramonto sembra un arrivederci dolce e sincero. La **Highway 1** è più di un percorso: è un invito a perdersi con meraviglia, un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il suono dell’oceano che accompagna ogni ricordo.  
+Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce calda del tramonto sembra un arrivederci dolce e sincero. La **Highway 1** è più di un percorso: è un invito a perdersi con meraviglia, un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il suono dell’oceano che accompagna ogni ricordo.
+
+<div class="row">
+    <div class="col-md-12 align-center">
+        <a href="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/itinerari/usa/sanfrancisco-sandiego/california-dream-sanfrancisco-sandiego.pdf" target="_blank" alt="California Dream: da San Francisco a San Diego lungo la Highway 1">Scarica il PDF</a>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-md-12 align-center">
