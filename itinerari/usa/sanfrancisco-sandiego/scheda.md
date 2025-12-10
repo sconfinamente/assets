@@ -11,13 +11,15 @@ Il viaggio riprende con una nota più fiabesca a **Solvang**, dove le casette in
 Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia la città e la luce calda del tramonto sembra un arrivederci dolce e sincero. La **Highway 1** è più di un percorso: è un invito a perdersi con meraviglia, un viaggio fatto di **orizzonti, libertà e silenzi** che restano dentro, come il suono dell’oceano che accompagna ogni ricordo.
 
 <div class="row">
-    <div class="col-md-12 align-center">
+    <div class="col-md-12 align-center mb-4">
         <a href="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/itinerari/usa/sanfrancisco-sandiego/california-dream-sanfrancisco-sandiego.pdf" target="_blank" alt="California Dream: da San Francisco a San Diego lungo la Highway 1">Scarica il PDF</a>
     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-12 align-center">
+    <div class="col-md-12 align-center mb-4">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HiumP0T544Oy7JE5jMfrAs2hYHGYLcs&ehbc=2E312F"></iframe>
+    </div>
+    <div class="col-md-12 align-center">
+        <div class="flickr-embed-wrapper">
+            <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330821712" title="California Dream: da San Francisco a San Diego lungo la Highway 1"><img src="https://live.staticflickr.com/65535/54975291808_efe876c89e_c.jpg" alt="California Dream: da San Francisco a San Diego lungo la Highway 1"/></a>
+        </div>
     </div>
 </div>
