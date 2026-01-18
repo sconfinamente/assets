@@ -3,6 +3,7 @@
   { "codice": "caraibi", "label": "Caraibi" }, 
   { "codice": "uae", "label": "Emirati Arabi Uniti" },
   { "codice": "egitto", "label": "Egitto" },
+  { "codice": "finlandia", "label": "Finlandia" },
   { "codice": "francia", "label": "Francia" },
   { "codice": "germania", "label": "Germania" },
   { "codice": "uk", "label": "Inghilterra" },
@@ -11,6 +12,7 @@
   { "codice": "olanda", "label": "Olanda" },
   { "codice": "polonia", "label": "Polonia" },
   { "codice": "romania", "label": "Romania" },
+  { "codice": "svezia", "label": "Svezia" },
   { "codice": "thailandia", "label": "Thailandia" },
   { "codice": "usa", "label": "Stati Uniti" }  
 ]
