@@ -1,5 +1,20 @@
 [
   {
+    "codice": "lapponia-rovaniemi",
+    "paese": "finlandia",
+    "message": "Tra foreste innevate e cieli che si accendono di aurore boreali, la Lapponia sussurra il silenzio del Nord."
+  },
+  {
+    "codice": "helsinki",
+    "paese": "finlandia",
+    "message": "Helsinki accoglie con discrezione, eppure ogni angolo racconta la luce, il mare e il design nordico."
+  },
+  {
+    "codice": "stoccolma",
+    "paese": "svezia",
+    "message": "Stoccolma si svela tra isole, musei iconici e il fascino del design scandinavo."
+  },
+  {
     "message": "Lasciati sorprendere dal contrasto tra deserto e mare, dove il futuro incontra la tradizione.",
     "paese": "uae",
     "codice": "abu-dhabi"
