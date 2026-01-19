@@ -3,3 +3,11 @@ La Lapponia finlandese è un mondo a parte, dove il silenzio e la luce diventano
 Esplorare **Rovaniemi** e i suoi dintorni significa immergersi in esperienze autentiche e profonde. Il celebre **Santa Claus Village** invita a riscoprire la magia delle tradizioni natalizie, mentre le escursioni con husky e renne attraverso la foresta artica offrono un contatto diretto con la natura estrema e la vita locale. Le colline di **Ounasvaara**, i sentieri del **Parco Nazionale Pyhä-Luosto** e i piccoli villaggi disseminati tra i boschi mostrano la Lapponia più autentica, quella dove i ritmi umani si armonizzano con quelli della natura.
 
 La Lapponia è anche un luogo di calore e rigenerazione. Una sauna tradizionale, seguita da un tuffo nell’acqua ghiacciata o una pausa all’aperto nella neve, diventa un rituale che riconnette corpo e mente. Ogni gesto, dal camminare tra gli alberi alla contemplazione dell’aurora boreale, invita a rallentare e a percepire il silenzio come una forma di ricchezza. Viaggiare in Lapponia significa abbracciare la lentezza, lasciarsi guidare dai ritmi della natura e scoprire un Nord che, oltre al paesaggio esteriore, offre uno spazio interiore di introspezione e meraviglia.
+
+<div class="row">
+    <div class="col-md-12 align-center">
+        <div class="flickr-embed-wrapper">
+            <a data-flickr-embed="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720331535550" title="Lapponia – Il regno del silenzio e delle aurore boreali"><img src="https://live.staticflickr.com/65535/55050080026_618830ea7d_h.jpg" alt="Lapponia – Il regno del silenzio e delle aurore boreali"/></a>
+        </div>
+    </div>
+</div>
