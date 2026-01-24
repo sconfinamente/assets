@@ -26,6 +26,6 @@ Da Las Vegas vai a visitare **Calico** e **Zzyzx**, anche solo per un’ora: luo
 
 <div class="row">
     <div class="col-md-12 align-center">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F"></iframe>
+        <iframe src="https://www.google.com/maps/d/embed?mid=1nmF0ZPb9KuTau_5jIGaXlcGEptYuSgM&ehbc=2E312F"></iframe>
     </div>
 </div>
