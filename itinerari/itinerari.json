@@ -1,27 +1,80 @@
 [
   {
-    "codice": "abu-dhabi",
-    "paese": "uae",
-    "titolo": "Abu Dhabi, modernità e tradizione",
-    "descrizione": "Scopri Abu Dhabi tra il lungomare della Corniche, la Moschea Bianca, il Louvre e Yas Island. Un viaggio tra arte, spiritualità e modernità, per vivere esperienze autentiche nella capitale degli Emirati Arabi Uniti.",
-    "keywords": ["Abu Dhabi viaggio", "cosa vedere Abu Dhabi", "Emirati Arabi Uniti turismo", "Moschea Bianca Abu Dhabi", "Louvre Abu Dhabi", "Yas Island Abu Dhabi", "tour Abu Dhabi"],
-    "meta_description": "Vivi Abu Dhabi tra Corniche, Moschea Bianca, Louvre e Yas Island. Arte, cultura e modernità in un viaggio unico negli Emirati Arabi Uniti."
+    "codice": "lapponia-rovaniemi",
+    "paese": "finlandia",
+    "titolo": "Lapponia – Il regno del silenzio e delle aurore boreali",
+    "descrizione": "Scopri la Lapponia finlandese e Rovaniemi tra foreste innevate, silenzi artici e cieli che si accendono di aurore boreali. Vivi l’inverno nordico tra villaggi caratteristici, safari con husky e renne, escursioni nella natura artica e momenti di relax in sauna, per un’esperienza autentica oltre il Circolo Polare Artico.",
+    "keywords": [
+      "Lapponia viaggio",
+      "Lapponia Finlandia",
+      "Rovaniemi cosa vedere",
+      "visitare Rovaniemi",
+      "Circolo Polare Artico",
+      "Santa Claus Village",
+      "aurora boreale Lapponia",
+      "husky safari Lapponia",
+      "renne Lapponia",
+      "foreste artiche Finlandia",
+      "Parco Nazionale Ounasvaara",
+      "Parco Nazionale Pyhä-Luosto",
+      "sauna finlandese Lapponia",
+      "esperienze invernali Lapponia",
+      "natura artica Finlandia",
+      "viaggio Lapponia inverno"
+    ],
+    "meta_description": "Esplora la Lapponia finlandese a Rovaniemi tra aurore boreali, foreste innevate e villaggi tradizionali. Vivi safari con husky e renne, escursioni nella natura artica e momenti di benessere in sauna, oltre il Circolo Polare Artico.",
+    "tiktok": true
   },
   {
-    "codice": "dubai",
-    "paese": "uae",
-    "titolo": "Dubai, tra grattacieli, deserto e tradizione",
-    "descrizione": "Vivi Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere storico di Al Fahidi, dal Creek al deserto dorato. Safari in jeep, tramonti spettacolari e esperienze uniche ti aspettano nella città più iconica degli Emirati Arabi Uniti.",
-    "keywords": ["Dubai viaggio", "cosa vedere Dubai", "Burj Khalifa", "Al Fahidi Dubai", "Dubai deserto", "safari Dubai", "Emirati Arabi Uniti turismo"],
-    "meta_description": "Scopri Dubai tra Burj Khalifa, quartiere Al Fahidi, Creek e deserto. Esperienze uniche tra tradizione e modernità negli Emirati Arabi Uniti."    
+    "codice": "helsinki",
+    "paese": "finlandia",
+    "titolo": "Helsinki essenziale – Design, mare e natura nordica",
+    "descrizione": "Scopri Helsinki tra architettura nordica, isole e mare cristallino. Esplora la città con visite alla Cattedrale di Helsinki, Piazza del Senato, Suomenlinna e il mercato di Kauppatori. Passeggia nel Design District e nel quartiere di Eira, rilassati in una sauna sul mare e visita la biblioteca Oodi e la Cappella del Silenzio Kamppi per un viaggio autentico nella capitale finlandese.",
+    "keywords": [
+      "Helsinki viaggio",
+      "visitare Helsinki",
+      "Helsinki cosa vedere",
+      "Cattedrale di Helsinki",
+      "Piazza del Senato Helsinki",
+      "Suomenlinna Helsinki",
+      "Mercato di Kauppatori",
+      "Design District Helsinki",
+      "Chiesa nella roccia Temppeliaukio",
+      "Cappella del Silenzio Kamppi",
+      "biblioteca Oodi Helsinki",
+      "Löyly sauna Helsinki",
+      "isole di Helsinki",
+      "quartiere Eira",
+      "natura urbana Finlandia",
+      "cultura nordica",
+      "architettura nordica"
+    ],
+    "meta_description": "Esplora Helsinki tra mare, isole e design nordico. Visita la Cattedrale di Helsinki, Piazza del Senato, Suomenlinna, Design District e quartiere Eira, rilassati in sauna sul mare e scopri la cultura e la natura della capitale finlandese.",
+    "tiktok": true
   },
   {
-    "codice": "new-york-christmas",
-    "paese": "usa",
-    "titolo": "Natale a New York, luci, mercatini e magia",
-    "descrizione": "Scopri la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela. Un viaggio indimenticabile per vivere l’inverno nella città più famosa del mondo.",
-    "keywords": ["Natale New York", "mercatini di Natale New York", "piste di pattinaggio NYC", "viaggio inverno New York", "cosa fare a Natale NYC", "Grande Mela Natale"],
-    "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili."
+    "codice": "stoccolma",
+    "paese": "svezia",
+    "titolo": "Stoccolma nordica – Isole, musei e design scandinavo",
+    "descrizione": "Scopri Stoccolma tra le sue isole, i quartieri storici di Gamla Stan e i musei iconici come il Vasa Museum e l’Abba Museum. Vivi l’atmosfera del design scandinavo, passeggia nei parchi e lungo il mare, e immergiti in una città che unisce cultura, natura e sostenibilità, per un’esperienza autentica della capitale svedese.",
+    "keywords": [
+      "Stoccolma viaggio",
+      "visitare Stoccolma",
+      "Stoccolma cosa vedere",
+      "Stoccolma isole",
+      "Gamla Stan Stoccolma",
+      "Vasa Museum",
+      "Abba Museum",
+      "Skansen Stoccolma",
+      "Fotografiska Stoccolma",
+      "Södermalm",
+      "Djurgården",
+      "design scandinavo",
+      "turismo sostenibile Svezia",
+      "cultura nordica"
+    ],
+    "meta_description": "Esplora Stoccolma tra le isole, i quartieri storici di Gamla Stan, musei come il Vasa Museum e l’Abba Museum, e scopri il design scandinavo, i parchi e la cultura sostenibile della capitale svedese.",
+    "tiktok": true
   },
   {
     "codice": "maldive-autentiche",
@@ -32,52 +85,12 @@
     "meta_description": "Scopri le Maldive autentiche tra spiagge, villaggi locali e tradizioni. Un viaggio unico per relax, natura e cultura sulle isole maldiviane."
   },
   {
-    "codice": "marrakech",
-    "paese": "marocco",
-    "titolo": "Marrakech, il cuore pulsante del Marocco",
-    "descrizione": "Scopri Marrakech tra i profumi dei souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto. Un viaggio autentico nel cuore della città rossa, tra cultura, storia e atmosfere indimenticabili.",
-    "keywords": ["Marrakech viaggio", "cosa vedere Marrakech", "Medina Marrakech", "souks Marrakech", "deserto Marocco", "turismo culturale Marocco", "palazzi moreschi Marrakech"],
-    "meta_description": "Vivi Marrakech tra souk, Medina, palazzi moreschi e deserti. Cultura, tradizioni e atmosfere uniche nel cuore della città rossa del Marocco."
-  },
-  {
-    "codice": "amsterdam",
-    "paese": "olanda",
-    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
-    "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
-    "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
-    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi."
-  },
-  {
-    "codice": "transilvania",
-    "paese": "romania",
-    "titolo": "Transilvania: castelli, leggende e borghi medievali",
-    "descrizione": "Esplora la Transilvania tra castelli leggendari, villaggi pittoreschi e paesaggi montani. Un viaggio tra misteri, tradizioni e atmosfere da fiaba nel cuore della Romania.",
-    "keywords": ["Transilvania viaggio", "castelli Transilvania", "borghi medievali Romania", "leggende Transilvania", "turismo culturale Romania", "paesaggi Transilvania"],
-    "meta_description": "Scopri la Transilvania tra castelli, borghi medievali e paesaggi montani. Un viaggio tra mistero, leggende e tradizioni nel cuore della Romania."
-  },
-  {
-    "codice": "transilvania-maramures",
-    "paese": "romania",
-    "titolo": "Transilvania e Maramureș: tra castelli, borghi e tradizioni",
-    "descrizione": "Scopri castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș. Un viaggio autentico tra storia, cultura e natura.",
-    "keywords": ["Transilvania e Maramureș viaggio", "castelli medievali Romania", "borghi pittoreschi Maramureș", "tradizioni Romania", "paesaggi Transilvania", "turismo culturale Romania"],
-    "meta_description": "Esplora Transilvania e Maramureș tra castelli, borghi e paesaggi mozzafiato. Un itinerario autentico tra cultura, storia e tradizioni uniche della Romania."
-  },
-  {
-    "codice": "london-christmas",
-    "paese": "uk",
-    "titolo": "Natale a Londra: luci, mercatini e atmosfere",
-    "descrizione": "Vivi il Natale a Londra tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Esperienze magiche e atmosfere da sogno nella capitale inglese durante le feste.",
-    "keywords": ["Natale Londra", "mercatini di Natale Londra", "Oxford Street luci Natale", "viaggio inverno Londra", "Hyde Park mercatini", "Tamigi Londra Natale"],
-    "meta_description": "Scopri Londra a Natale tra luci, mercatini e il Tamigi illuminato. Un viaggio indimenticabile tra atmosfere magiche e feste nella capitale inglese."
-  },
-  {
-    "codice": "unusual-london",
-    "paese": "uk",
-    "titolo": "Londra insolita: arte urbana e angoli nascosti",
-    "descrizione": "Scopri la Londra più autentica e sorprendente: tunnel di graffiti, canali silenziosi, cortili segreti e le note di Camden Town. Un itinerario per chi cerca esperienze uniche e fuori dal comune.",
-    "keywords": ["Londra insolita", "arte urbana Londra", "Camden Town Londra", "canali Londra", "tour Londra alternativo", "angoli nascosti Londra"],
-    "meta_description": "Vivi Londra insolita tra arte urbana, Camden Town, canali e cortili segreti. Un viaggio unico e sorprendente fuori dal comune nella capitale inglese."
+    "codice": "berlino",
+    "paese": "germania",
+    "titolo": "Berlino: storia, arte urbana e libertà",
+    "descrizione": "Tra resti del passato e creatività senza confini, Berlino è un viaggio tra storia, murales, arte urbana e vita vibrante. Scopri una città che unisce memoria, innovazione e cultura contemporanea.",
+    "keywords": ["Berlino viaggio", "arte urbana Berlino", "murales Berlino", "storia Berlino", "cultura Berlino", "tour Berlino", "viaggio urbano Berlino"],
+    "meta_description": "Scopri Berlino tra storia, arte urbana e murales. Un viaggio tra cultura, creatività e libertà nella capitale vibrante della Germania."
   },
   {
     "codice": "cracovia-auschwitz",
@@ -88,28 +101,20 @@
     "meta_description": "Esplora Cracovia tra piazze storiche e Auschwitz. Un viaggio tra memoria, storia e cultura nel cuore della Polonia con esperienze indimenticabili."
   },
   {
-    "codice": "uk-south",
-    "paese": "uk",
-    "titolo": "Inghilterra del Sud: campagna, castelli e scogliere",
-    "descrizione": "Esplora la campagna inglese tra villaggi pittoreschi, castelli storici e scogliere mozzafiato della costa meridionale. Un viaggio tra natura, cultura e tradizioni senza tempo.",
-    "keywords": ["inghilterra del sud itinerari", "Inghilterra del Sud viaggio", "dover", "canterbury", "leeds", "brighton", "southampton", "Stonehenge", "Windsor", "Salisbury", "campagna inglese", "castelli Inghilterra", "scogliere costa sud", "villaggi pittoreschi UK", "turismo natura UK"],
-    "meta_description": "Scopri l’Inghilterra del Sud tra castelli, villaggi e scogliere. Un viaggio tra natura, cultura e tradizioni senza tempo nella campagna inglese."
+    "codice": "marrakech",
+    "paese": "marocco",
+    "titolo": "Marrakech, il cuore pulsante del Marocco",
+    "descrizione": "Scopri Marrakech tra i profumi dei souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto. Un viaggio autentico nel cuore della città rossa, tra cultura, storia e atmosfere indimenticabili.",
+    "keywords": ["Marrakech viaggio", "cosa vedere Marrakech", "Medina Marrakech", "souks Marrakech", "deserto Marocco", "turismo culturale Marocco", "palazzi moreschi Marrakech"],
+    "meta_description": "Vivi Marrakech tra souk, Medina, palazzi moreschi e deserti. Cultura, tradizioni e atmosfere uniche nel cuore della città rossa del Marocco."
   },
   {
-    "codice": "new-york-estate",
+    "codice": "new-york-christmas",
     "paese": "usa",
-    "titolo": "Estate a New York: città, parchi e skyline",
-    "descrizione": "Vivi l’estate a New York tra parchi verdi, rooftop panoramici, musei e passeggiate lungo il fiume. Goditi la città al ritmo estivo tra arte, cultura e panorami iconici.",
-    "keywords": ["New York estate", "cosa fare New York estate", "parchi New York", "skyline NYC", "musei New York", "rooftop New York", "viaggio estate New York"],
-    "meta_description": "Scopri New York in estate tra parchi, musei, rooftop e passeggiate lungo il fiume. Vivi la città al ritmo estivo con panorami e esperienze indimenticabili."
-  },
-  {
-    "codice": "toronto-niagara",
-    "paese": "canada",
-    "titolo": "Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima",
-    "descrizione": "Un viaggio tra la modernità di Toronto e la maestosità delle Cascate del Niagara. Scopri l’anima del Canada tra paesaggi spettacolari, esperienze urbane e natura incontaminata.",
-    "keywords": ["Toronto viaggio", "Cascate del Niagara", "Canada turismo", "cosa vedere Toronto", "tour Niagara Falls", "natura Canada", "esperienze Toronto Niagara"],
-    "meta_description": "Esplora Toronto e le Cascate del Niagara in Canada. Un viaggio tra città moderna e natura spettacolare per esperienze uniche e panorami indimenticabili."
+    "titolo": "Natale a New York, luci, mercatini e magia",
+    "descrizione": "Scopri la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela. Un viaggio indimenticabile per vivere l’inverno nella città più famosa del mondo.",
+    "keywords": ["Natale New York", "mercatini di Natale New York", "piste di pattinaggio NYC", "viaggio inverno New York", "cosa fare a Natale NYC", "Grande Mela Natale"],
+    "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili."
   },
   {
     "codice": "sanfrancisco-sandiego",
@@ -129,6 +134,14 @@
     "meta_description": "On the road in California da San Francisco a Las Vegas tra oceano, deserti, sequoie e città iconiche. Esperienze uniche tra natura e divertimento."
   },
   {
+    "codice": "unusual-london",
+    "paese": "uk",
+    "titolo": "Londra insolita: arte urbana e angoli nascosti",
+    "descrizione": "Scopri la Londra più autentica e sorprendente: tunnel di graffiti, canali silenziosi, cortili segreti e le note di Camden Town. Un itinerario per chi cerca esperienze uniche e fuori dal comune.",
+    "keywords": ["Londra insolita", "arte urbana Londra", "Camden Town Londra", "canali Londra", "tour Londra alternativo", "angoli nascosti Londra"],
+    "meta_description": "Vivi Londra insolita tra arte urbana, Camden Town, canali e cortili segreti. Un viaggio unico e sorprendente fuori dal comune nella capitale inglese."
+  },
+  {
     "codice": "parigi-spring",
     "paese": "francia",
     "titolo": "Tra le strade di Parigi",
@@ -136,21 +149,21 @@
     "keywords": ["Parigi viaggio", "cosa vedere Parigi", "tour Parigi", "vicoli Parigi", "arte Parigi", "atmosfera romantica Parigi", "esperienze Parigi"],
     "meta_description": "Esplora Parigi tra vicoli, piazze e arte. Vivi atmosfere romantiche e momenti indimenticabili nella città delle luci con esperienze autentiche."
   },
-  {
-    "codice": "bangkok-chiangrai",
-    "paese": "thailandia",
-    "titolo": "Thailandia: dal silenzio dei templi al profumo dell’oceano",
-    "descrizione": "Un itinerario che attraversa la Thailandia da Bangkok al nord mistico di Chiang Rai fino alle spiagge dorate di Phuket. Tra spiritualità, natura e mare, un viaggio ricco di emozioni e scoperte.",
-    "keywords": ["Thailandia viaggio", "Bangkok templi", "Chiang Rai turismo", "Phuket spiagge", "Thailandia natura", "Thailandia cultura", "itinerario Thailandia"],
-    "meta_description": "Viaggia in Thailandia da Bangkok a Chiang Rai e Phuket tra templi, natura e spiagge. Scopri cultura e mare in un itinerario ricco di emozioni."
+    {
+    "codice": "dubai",
+    "paese": "uae",
+    "titolo": "Dubai, tra grattacieli, deserto e tradizione",
+    "descrizione": "Vivi Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere storico di Al Fahidi, dal Creek al deserto dorato. Safari in jeep, tramonti spettacolari e esperienze uniche ti aspettano nella città più iconica degli Emirati Arabi Uniti.",
+    "keywords": ["Dubai viaggio", "cosa vedere Dubai", "Burj Khalifa", "Al Fahidi Dubai", "Dubai deserto", "safari Dubai", "Emirati Arabi Uniti turismo"],
+    "meta_description": "Scopri Dubai tra Burj Khalifa, quartiere Al Fahidi, Creek e deserto. Esperienze uniche tra tradizione e modernità negli Emirati Arabi Uniti."    
   },
   {
-    "codice": "berlino",
-    "paese": "germania",
-    "titolo": "Berlino: storia, arte urbana e libertà",
-    "descrizione": "Tra resti del passato e creatività senza confini, Berlino è un viaggio tra storia, murales, arte urbana e vita vibrante. Scopri una città che unisce memoria, innovazione e cultura contemporanea.",
-    "keywords": ["Berlino viaggio", "arte urbana Berlino", "murales Berlino", "storia Berlino", "cultura Berlino", "tour Berlino", "viaggio urbano Berlino"],
-    "meta_description": "Scopri Berlino tra storia, arte urbana e murales. Un viaggio tra cultura, creatività e libertà nella capitale vibrante della Germania."
+    "codice": "abu-dhabi",
+    "paese": "uae",
+    "titolo": "Abu Dhabi, modernità e tradizione",
+    "descrizione": "Scopri Abu Dhabi tra il lungomare della Corniche, la Moschea Bianca, il Louvre e Yas Island. Un viaggio tra arte, spiritualità e modernità, per vivere esperienze autentiche nella capitale degli Emirati Arabi Uniti.",
+    "keywords": ["Abu Dhabi viaggio", "cosa vedere Abu Dhabi", "Emirati Arabi Uniti turismo", "Moschea Bianca Abu Dhabi", "Louvre Abu Dhabi", "Yas Island Abu Dhabi", "tour Abu Dhabi"],
+    "meta_description": "Vivi Abu Dhabi tra Corniche, Moschea Bianca, Louvre e Yas Island. Arte, cultura e modernità in un viaggio unico negli Emirati Arabi Uniti."
   },
   {
     "codice": "chicago",
@@ -159,6 +172,70 @@
     "descrizione": "Esplora Chicago tra skyline iconici, architettura mozzafiato, lungolago e il celebre Navy Pier. Una città vibrante che unisce cultura, divertimento e panorami indimenticabili sul Lago Michigan.",
     "keywords": ["Chicago viaggio", "cosa vedere Chicago", "architettura Chicago", "Navy Pier Chicago", "lungolago Chicago", "skyline Chicago", "tour Chicago"],
     "meta_description": "Vivi Chicago tra architettura iconica, Navy Pier e lungolago. Scopri la città vibrante sul Lago Michigan con esperienze uniche e panorami mozzafiato."
+  },
+  {
+    "codice": "detroit",
+    "paese": "usa",
+    "titolo": "Detroit: Musica, Arte, Motori e... Eminem",
+    "descrizione": "Scopri Detroit in 4 giorni tra musica, arte, motori ed emozioni autentiche. Visita i luoghi iconici di Eminem, la 8 Mile, il suo ristorante, i murales dedicati, il Motown Museum, Hello Records e il Banco dei Pugni. Itinerario conveniente e ideale anche per un on the road nel Michigan.",
+    "keywords": ["Detroit viaggio", "Detroit itinerario 4 giorni", "Eminem Detroit", "Motown Museum", "Hello Records", "Banco dei Pugni Detroit", "on the road Michigan", "cosa vedere Detroit", "tour musicale Detroit", "arte e musica Detroit"],
+    "meta_description": "Visita Detroit in 4 giorni tra musica, arte, motori ed emozioni. Scopri i luoghi di Eminem, Motown Museum, Hello Records e il Banco dei Pugni. Perfetto per un on the road nel Michigan."
+  },
+  {
+    "codice": "toronto-niagara",
+    "paese": "canada",
+    "titolo": "Canada: tra Toronto e le Cascate del Niagara, dove la natura incontra l’anima",
+    "descrizione": "Un viaggio tra la modernità di Toronto e la maestosità delle Cascate del Niagara. Scopri l’anima del Canada tra paesaggi spettacolari, esperienze urbane e natura incontaminata.",
+    "keywords": ["Toronto viaggio", "Cascate del Niagara", "Canada turismo", "cosa vedere Toronto", "tour Niagara Falls", "natura Canada", "esperienze Toronto Niagara"],
+    "meta_description": "Esplora Toronto e le Cascate del Niagara in Canada. Un viaggio tra città moderna e natura spettacolare per esperienze uniche e panorami indimenticabili."
+  },
+  {
+    "codice": "new-york-estate",
+    "paese": "usa",
+    "titolo": "Estate a New York: città, parchi e skyline",
+    "descrizione": "Vivi l’estate a New York tra parchi verdi, rooftop panoramici, musei e passeggiate lungo il fiume. Goditi la città al ritmo estivo tra arte, cultura e panorami iconici.",
+    "keywords": ["New York estate", "cosa fare New York estate", "parchi New York", "skyline NYC", "musei New York", "rooftop New York", "viaggio estate New York"],
+    "meta_description": "Scopri New York in estate tra parchi, musei, rooftop e passeggiate lungo il fiume. Vivi la città al ritmo estivo con panorami e esperienze indimenticabili."
+  },
+  {
+    "codice": "amsterdam",
+    "paese": "olanda",
+    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
+    "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
+    "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
+    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi."
+  },
+  {
+    "codice": "transilvania-maramures",
+    "paese": "romania",
+    "titolo": "Transilvania e Maramureș: tra castelli, borghi e tradizioni",
+    "descrizione": "Scopri castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș. Un viaggio autentico tra storia, cultura e natura.",
+    "keywords": ["Transilvania e Maramureș viaggio", "castelli medievali Romania", "borghi pittoreschi Maramureș", "tradizioni Romania", "paesaggi Transilvania", "turismo culturale Romania"],
+    "meta_description": "Esplora Transilvania e Maramureș tra castelli, borghi e paesaggi mozzafiato. Un itinerario autentico tra cultura, storia e tradizioni uniche della Romania."
+  },
+  {
+    "codice": "uk-south",
+    "paese": "uk",
+    "titolo": "Inghilterra del Sud: campagna, castelli e scogliere",
+    "descrizione": "Esplora la campagna inglese tra villaggi pittoreschi, castelli storici e scogliere mozzafiato della costa meridionale. Un viaggio tra natura, cultura e tradizioni senza tempo.",
+    "keywords": ["inghilterra del sud itinerari", "Inghilterra del Sud viaggio", "dover", "canterbury", "leeds", "brighton", "southampton", "Stonehenge", "Windsor", "Salisbury", "campagna inglese", "castelli Inghilterra", "scogliere costa sud", "villaggi pittoreschi UK", "turismo natura UK"],
+    "meta_description": "Scopri l’Inghilterra del Sud tra castelli, villaggi e scogliere. Un viaggio tra natura, cultura e tradizioni senza tempo nella campagna inglese."
+  },
+  {
+    "codice": "transilvania",
+    "paese": "romania",
+    "titolo": "Transilvania: castelli, leggende e borghi medievali",
+    "descrizione": "Esplora la Transilvania tra castelli leggendari, villaggi pittoreschi e paesaggi montani. Un viaggio tra misteri, tradizioni e atmosfere da fiaba nel cuore della Romania.",
+    "keywords": ["Transilvania viaggio", "castelli Transilvania", "borghi medievali Romania", "leggende Transilvania", "turismo culturale Romania", "paesaggi Transilvania"],
+    "meta_description": "Scopri la Transilvania tra castelli, borghi medievali e paesaggi montani. Un viaggio tra mistero, leggende e tradizioni nel cuore della Romania."
+  },
+  {
+    "codice": "london-christmas",
+    "paese": "uk",
+    "titolo": "Natale a Londra: luci, mercatini e atmosfere",
+    "descrizione": "Vivi il Natale a Londra tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Esperienze magiche e atmosfere da sogno nella capitale inglese durante le feste.",
+    "keywords": ["Natale Londra", "mercatini di Natale Londra", "Oxford Street luci Natale", "viaggio inverno Londra", "Hyde Park mercatini", "Tamigi Londra Natale"],
+    "meta_description": "Scopri Londra a Natale tra luci, mercatini e il Tamigi illuminato. Un viaggio indimenticabile tra atmosfere magiche e feste nella capitale inglese."
   },
   {
     "codice": "sharm-el-sheik",
@@ -177,11 +254,11 @@
     "meta_description": "Vivi Santo Domingo tra spiagge, musica caraibica e storia coloniale. Un viaggio indimenticabile tra cultura, relax e ritmo dei Caraibi."
   },
   {
-    "codice": "detroit",
-    "paese": "usa",
-    "titolo": "Detroit: Musica, Arte, Motori e... Eminem",
-    "descrizione": "Scopri Detroit in 4 giorni tra musica, arte, motori ed emozioni autentiche. Visita i luoghi iconici di Eminem, la 8 Mile, il suo ristorante, i murales dedicati, il Motown Museum, Hello Records e il Banco dei Pugni. Itinerario conveniente e ideale anche per un on the road nel Michigan.",
-    "keywords": ["Detroit viaggio", "Detroit itinerario 4 giorni", "Eminem Detroit", "Motown Museum", "Hello Records", "Banco dei Pugni Detroit", "on the road Michigan", "cosa vedere Detroit", "tour musicale Detroit", "arte e musica Detroit"],
-    "meta_description": "Visita Detroit in 4 giorni tra musica, arte, motori ed emozioni. Scopri i luoghi di Eminem, Motown Museum, Hello Records e il Banco dei Pugni. Perfetto per un on the road nel Michigan."
+    "codice": "bangkok-chiangrai",
+    "paese": "thailandia",
+    "titolo": "Thailandia: dal silenzio dei templi al profumo dell’oceano",
+    "descrizione": "Un itinerario che attraversa la Thailandia da Bangkok al nord mistico di Chiang Rai fino alle spiagge dorate di Phuket. Tra spiritualità, natura e mare, un viaggio ricco di emozioni e scoperte.",
+    "keywords": ["Thailandia viaggio", "Bangkok templi", "Chiang Rai turismo", "Phuket spiagge", "Thailandia natura", "Thailandia cultura", "itinerario Thailandia"],
+    "meta_description": "Viaggia in Thailandia da Bangkok a Chiang Rai e Phuket tra templi, natura e spiagge. Scopri cultura e mare in un itinerario ricco di emozioni."
   }
 ]
