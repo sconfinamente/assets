@@ -1,0 +1,41 @@
+[
+	{
+		"id": "root",
+		"en": {
+			"name": "",
+			"url": "/en"
+		},
+		"es": {
+			"name": "",
+			"url": "/es"
+		},
+		"fr": {
+			"name": "",
+			"url": "/fr"
+		},
+		"zh": {
+			"name": "",
+			"url": "/zh"
+		},
+		"ru": {
+			"name": "",
+			"url": "/ru"
+		},
+		"ar": {
+			"name": "",
+			"url": "/ar"
+		}
+	},
+	{
+		"id": "about",
+		"en": {
+			"name": "About sconfinamente"
+		},
+		"fr": {
+			"name": "À propos de sconfinamente"
+		},
+		"es": {
+			"name": "Acerca de sconfinamente"
+		}
+	}
+]
