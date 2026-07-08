@@ -17,9 +17,4 @@ Il viaggio si chiude a **San Diego**, dove il ritmo rallenta, il mare abbraccia 
     <div class="col-md-12 align-center mb-4">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HiumP0T544Oy7JE5jMfrAs2hYHGYLcs&ehbc=2E312F"></iframe>
     </div>
-    <div class="col-md-12 align-center">
-        <div class="flickr-embed-wrapper">
-            <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330821712" title="California Dream: da San Francisco a San Diego lungo la Highway 1"><img src="https://live.staticflickr.com/65535/54975291808_efe876c89e_c.jpg" alt="California Dream: da San Francisco a San Diego lungo la Highway 1"/></a>
-        </div>
-    </div>
 </div>

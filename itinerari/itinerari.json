@@ -23,7 +23,11 @@
       "viaggio Lapponia inverno"
     ],
     "meta_description": "Esplora la Lapponia finlandese a Rovaniemi tra aurore boreali, foreste innevate e villaggi tradizionali. Vivi safari con husky e renne, escursioni nella natura artica e momenti di benessere in sauna, oltre il Circolo Polare Artico.",
-    "tiktok": true
+    "tiktok": true,
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720331535550",
+      "cover": "https://live.staticflickr.com/65535/55050080026_618830ea7d_h.jpg"
+    }
   },
   {
     "codice": "helsinki",
@@ -82,7 +86,11 @@
     "titolo": "Maldive autentiche",
     "descrizione": "Esplora le Maldive tra spiagge paradisiache, villaggi locali e tradizioni autentiche. Un itinerario per immergersi nella vita quotidiana delle isole e vivere un Natale o un’estate diversa dal solito.",
     "keywords": ["Maldive viaggio", "vacanza Maldive autentiche", "spiagge Maldive", "villaggi Maldive", "turismo sostenibile Maldive", "esperienze Maldive"],
-    "meta_description": "Scopri le Maldive autentiche tra spiagge, villaggi locali e tradizioni. Un viaggio unico per relax, natura e cultura sulle isole maldiviane."
+    "meta_description": "Scopri le Maldive autentiche tra spiagge, villaggi locali e tradizioni. Un viaggio unico per relax, natura e cultura sulle isole maldiviane.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330549770",
+      "cover": "https://live.staticflickr.com/65535/54947844081_a0c721902c_c.jpg"
+    }
   },
   {
     "codice": "berlino",
@@ -106,7 +114,11 @@
     "titolo": "Marrakech, il cuore pulsante del Marocco",
     "descrizione": "Scopri Marrakech tra i profumi dei souk, i colori della Medina, i palazzi moreschi e il fascino senza tempo del deserto. Un viaggio autentico nel cuore della città rossa, tra cultura, storia e atmosfere indimenticabili.",
     "keywords": ["Marrakech viaggio", "cosa vedere Marrakech", "Medina Marrakech", "souks Marrakech", "deserto Marocco", "turismo culturale Marocco", "palazzi moreschi Marrakech"],
-    "meta_description": "Vivi Marrakech tra souk, Medina, palazzi moreschi e deserti. Cultura, tradizioni e atmosfere uniche nel cuore della città rossa del Marocco."
+    "meta_description": "Vivi Marrakech tra souk, Medina, palazzi moreschi e deserti. Cultura, tradizioni e atmosfere uniche nel cuore della città rossa del Marocco.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330572038",
+      "cover": "https://live.staticflickr.com/65535/54946978847_2e77952da5_c.jpg"
+    }
   },
   {
     "codice": "new-york-christmas",
@@ -114,7 +126,11 @@
     "titolo": "Natale a New York, luci, mercatini e magia",
     "descrizione": "Scopri la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela. Un viaggio indimenticabile per vivere l’inverno nella città più famosa del mondo.",
     "keywords": ["Natale New York", "mercatini di Natale New York", "piste di pattinaggio NYC", "viaggio inverno New York", "cosa fare a Natale NYC", "Grande Mela Natale"],
-    "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili."
+    "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330393356",
+      "cover": "https://live.staticflickr.com/65535/54930853642_d481405c33_c.jpg"
+    }
   },
   {
     "codice": "sanfrancisco-sandiego",
@@ -123,7 +139,11 @@
     "descrizione": "Un on the road lungo la leggendaria Highway 1, tra scogliere, onde e tramonti mozzafiato. Dalla baia di San Francisco alle spiagge di San Diego, un viaggio tra libertà, natura e città iconiche della California.",
     "keywords": ["California viaggio", "San Francisco San Diego", "Highway 1 road trip", "California on the road", "spiagge California", "tramonti California", "tour San Francisco San Diego"],
     "meta_description": "Viaggio on the road lungo la Highway 1 dalla baia di San Francisco a San Diego. Scogliere, spiagge e tramonti per un’esperienza indimenticabile in California.",
-    "tiktok": true
+    "tiktok": true,
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330821712",
+      "cover": "https://live.staticflickr.com/65535/54975291808_efe876c89e_c.jpg"
+    }
   },
   {
     "codice": "sanfrancisco-lasvegas",
@@ -155,7 +175,11 @@
     "titolo": "Dubai, tra grattacieli, deserto e tradizione",
     "descrizione": "Vivi Dubai tra modernità e tradizione: dal Burj Khalifa al quartiere storico di Al Fahidi, dal Creek al deserto dorato. Safari in jeep, tramonti spettacolari e esperienze uniche ti aspettano nella città più iconica degli Emirati Arabi Uniti.",
     "keywords": ["Dubai viaggio", "cosa vedere Dubai", "Burj Khalifa", "Al Fahidi Dubai", "Dubai deserto", "safari Dubai", "Emirati Arabi Uniti turismo"],
-    "meta_description": "Scopri Dubai tra Burj Khalifa, quartiere Al Fahidi, Creek e deserto. Esperienze uniche tra tradizione e modernità negli Emirati Arabi Uniti."    
+    "meta_description": "Scopri Dubai tra Burj Khalifa, quartiere Al Fahidi, Creek e deserto. Esperienze uniche tra tradizione e modernità negli Emirati Arabi Uniti.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330410468",
+      "cover": "https://live.staticflickr.com/65535/54930804287_c7a973ef0f_c.jpg"
+    }
   },
   {
     "codice": "abu-dhabi",
@@ -207,7 +231,11 @@
     "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
     "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
     "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
-    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi."
+    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330584409",
+      "cover": "https://live.staticflickr.com/65535/54947883456_4be5b5280d_c.jpg"
+    }
   },
   {
     "codice": "transilvania-maramures",
@@ -215,7 +243,11 @@
     "titolo": "Transilvania e Maramureș: tra castelli, borghi e tradizioni",
     "descrizione": "Scopri castelli medievali, villaggi pittoreschi e paesaggi mozzafiato tra le montagne della Transilvania e le tradizioni uniche del Maramureș. Un viaggio autentico tra storia, cultura e natura.",
     "keywords": ["Transilvania e Maramureș viaggio", "castelli medievali Romania", "borghi pittoreschi Maramureș", "tradizioni Romania", "paesaggi Transilvania", "turismo culturale Romania"],
-    "meta_description": "Esplora Transilvania e Maramureș tra castelli, borghi e paesaggi mozzafiato. Un itinerario autentico tra cultura, storia e tradizioni uniche della Romania."
+    "meta_description": "Esplora Transilvania e Maramureș tra castelli, borghi e paesaggi mozzafiato. Un itinerario autentico tra cultura, storia e tradizioni uniche della Romania.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330606764",
+      "cover": "https://live.staticflickr.com/65535/54950135256_7987d9db81_c.jpg"
+    }
   },
   {
     "codice": "uk-south",
@@ -223,7 +255,11 @@
     "titolo": "Inghilterra del Sud: campagna, castelli e scogliere",
     "descrizione": "Esplora la campagna inglese tra villaggi pittoreschi, castelli storici e scogliere mozzafiato della costa meridionale. Un viaggio tra natura, cultura e tradizioni senza tempo.",
     "keywords": ["inghilterra del sud itinerari", "Inghilterra del Sud viaggio", "dover", "canterbury", "leeds", "brighton", "southampton", "Stonehenge", "Windsor", "Salisbury", "campagna inglese", "castelli Inghilterra", "scogliere costa sud", "villaggi pittoreschi UK", "turismo natura UK"],
-    "meta_description": "Scopri l’Inghilterra del Sud tra castelli, villaggi e scogliere. Un viaggio tra natura, cultura e tradizioni senza tempo nella campagna inglese."
+    "meta_description": "Scopri l’Inghilterra del Sud tra castelli, villaggi e scogliere. Un viaggio tra natura, cultura e tradizioni senza tempo nella campagna inglese.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330531603",
+      "cover": "https://live.staticflickr.com/65535/54943422636_01d7b9ac4f_c.jpg"
+    }
   },
   {
     "codice": "transilvania",
@@ -231,7 +267,11 @@
     "titolo": "Transilvania: castelli, leggende e borghi medievali",
     "descrizione": "Esplora la Transilvania tra castelli leggendari, villaggi pittoreschi e paesaggi montani. Un viaggio tra misteri, tradizioni e atmosfere da fiaba nel cuore della Romania.",
     "keywords": ["Transilvania viaggio", "castelli Transilvania", "borghi medievali Romania", "leggende Transilvania", "turismo culturale Romania", "paesaggi Transilvania"],
-    "meta_description": "Scopri la Transilvania tra castelli, borghi medievali e paesaggi montani. Un viaggio tra mistero, leggende e tradizioni nel cuore della Romania."
+    "meta_description": "Scopri la Transilvania tra castelli, borghi medievali e paesaggi montani. Un viaggio tra mistero, leggende e tradizioni nel cuore della Romania.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330576916",
+      "cover": "https://live.staticflickr.com/65535/54950087326_004278b91e_c.jpg"
+    }
   },
   {
     "codice": "london-christmas",

@@ -13,8 +13,3 @@ Nei quartieri storici come **Greenwich Village**, **SoHo** e **Little Italy**, l
 Il suono dei campanelli, il profumo intenso di vin brulé, cioccolata calda e biscotti appena sfornati, tutto si mescola in un unico ricordo sensoriale. Le crociere sul **fiume Hudson**, con Manhattan illuminata come un gioiello, offrono una prospettiva che toglie il respiro: grattacieli e monumenti scintillano sopra l’acqua, e il vento porta con sé storie di milioni di passi percorsi su queste strade.  
 
 New York a Natale è un’esperienza che **accende i sensi**: ogni luce, ogni sorriso, ogni profumo rimane impresso nella memoria. Non è soltanto una città da vedere: è un mondo da vivere, respirare e assaporare, dove ogni momento diventa una piccola magia che resta nel cuore. E se si ha la fortuna di veder scendere qualche fiocco di neve, tutto diventa veramente magico!
-
-<div class="flickr-embed-wrapper">
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330393356" title="Natale a New York, luci, mercatini e magia">
-<img src="https://live.staticflickr.com/65535/54930853642_d481405c33_c.jpg" alt="Natale a New York, luci, mercatini e magia"/></a>
-</div>

@@ -14,8 +14,3 @@ Nessun viaggio a Dubai sarebbe completo senza vivere l’esperienza del **desert
 Prenditi il tempo per vivere Dubai con calma, alternando momenti di **scoperta e relax**. Dedica una giornata intera al deserto, esplorando le dune e godendoti la cena sotto il cielo stellato. Visita **Deira** e **Al Fahidi** nelle prime ore del mattino, quando l’atmosfera è più autentica, e riserva il tramonto per **The Palm** o l’**Aura Skypool**, momenti perfetti per osservare come Dubai fonde passato e futuro in un unico, indimenticabile paesaggio.  
 Non perdere una traversata in **dhow sul Creek**, il modo più suggestivo per sentire la città respirare tra storia e modernità.
 
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330410468" title="Dubai, tra grattacieli, deserto e tradizione">
-        <img src="https://live.staticflickr.com/65535/54930804287_c7a973ef0f_c.jpg" alt="Dubai, tra grattacieli, deserto e tradizione"/>
-    </a>
-</div>

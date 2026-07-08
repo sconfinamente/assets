@@ -11,7 +11,3 @@ Per chi ama l’avventura, il **deserto di Agafay** offre un’esperienza intens
 ### Consiglio
 
 Per cogliere l’anima autentica di Marrakech, lasciati trasportare senza meta nella Medina, osservando e ascoltando ciò che ti circonda. Alla sera, un tè alla menta su una terrazza che affaccia su Jemaa el-Fna mentre la piazza si accende di luci e suoni, diventa un momento di pura magia. Scegliere un riad tradizionale ti permetterà di vivere la città da vicino, tra cortili illuminati dalle lanterne e atmosfere intime che raccontano storie antiche.
-
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330572038" title="Marrakesh, il cuore pulsante del Marocco"><img src="https://live.staticflickr.com/65535/54946978847_2e77952da5_c.jpg" alt="Marrakesh, il cuore pulsante del Marocco"/></a>
-</div>

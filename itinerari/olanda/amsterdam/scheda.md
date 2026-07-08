@@ -12,7 +12,3 @@ Un viaggio tra armonia e disordine, tra storia e modernità, dove la libertà è
 
 Al tramonto, sali su un battello per vedere Amsterdam da un’altra prospettiva, dove ogni ponte e ogni casa raccontano un frammento di storia.  
 La notte, cammina lungo i **canali illuminati**, lasciandoti incantare dai riflessi dorati sull’acqua e dalla magia di una città che non smette mai di sorprendere.
-
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330584409" title="Amsterdam, tra canali, biciclette e riflessi dorati"><img src="https://live.staticflickr.com/65535/54947883456_4be5b5280d_c.jpg" alt="Amsterdam, tra canali, biciclette e riflessi dorati"/></a>
-</div>

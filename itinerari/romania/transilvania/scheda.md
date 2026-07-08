@@ -11,7 +11,3 @@ Tra castelli misteriosi, villaggi pittoreschi e montagne spettacolari, la Transi
 ### Consiglio
 
 Indossa scarpe comode e porta una giacca impermeabile: il clima può cambiare rapidamente tra montagne e valli. Fermati in una delle **osterie locali** per assaporare la cucina tradizionale rumena, dai **ciorba** (zuppe) ai **sarmale** (involtini di cavolo), e vivi la Transilvania come un vero viaggiatore curioso.
-
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330576916" title="Transilvania: castelli, leggende e borghi medievali"><img src="https://live.staticflickr.com/65535/54950087326_004278b91e_c.jpg" alt="Transilvania: castelli, leggende e borghi medievali"/></a>
-</div>

@@ -13,7 +13,3 @@ Tra castelli leggendari, villaggi pittoreschi e panorami da sogno, questo itiner
 ### Consiglio
 
 Indossa scarpe comode e porta una giacca impermeabile: il clima può cambiare rapidamente tra montagne e valli. Assaggia i piatti tradizionali locali, come **ciorba**, **sarmale** e dolci tipici, e concediti il piacere di una notte immersa nella vita autentica dei villaggi del Maramureș.
-
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/203856126@N06/albums/72177720330606764" title="Transilvania e Maramureș: tra castelli, borghi e tradizioni"><img src="https://live.staticflickr.com/65535/54950135256_7987d9db81_c.jpg" alt="Transilvania e Maramureș: tra castelli, borghi e tradizioni"/></a>
-</div>
