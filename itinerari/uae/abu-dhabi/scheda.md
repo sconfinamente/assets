@@ -11,12 +11,3 @@ Infine, raggiungi **Yas Island**, l’isola dedicata al divertimento, dove parch
 ### Consiglio
 Percorri la città con calma, lasciandoti trasportare dalla luce unica della Corniche, dall’eleganza delle Etihad Towers e dalla maestosità della moschea.  
 Dedica qualche ora a **Yas Island**: è il luogo perfetto per rilassarsi, divertirsi e vivere un lato più giocoso della città, ideale sia per chi viaggia in famiglia sia per chi cerca esperienze più dinamiche.
-
-<div class="flickr-embed-wrapper">
-    <a data-flickr-embed="true" data-header="true" data-footer="true" 
-        href="https://www.flickr.com/photos/203856126@N06/albums/72177720330382383" 
-        title="Abu Dhabi, modernità e tradizione">
-        <img src="https://live.staticflickr.com/65535/54928325417_df1363f7d0_c.jpg" 
-                alt="Abu Dhabi, modernità e tradizione"/>
-    </a>
-</div>
