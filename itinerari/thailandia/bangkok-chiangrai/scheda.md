@@ -5,6 +5,14 @@ Da **Bangkok**, città vibrante e inarrestabile, si sale verso il **nord verde e
 
 ---
 
+<div class="row">
+    <div class="col-md-12 align-center">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F"></iframe>
+    </div>
+</div>
+
+---
+
 ### Bangkok: il battito moderno della tradizione
 Nella capitale, il ritmo è incessante.  
 Tra mercati galleggianti e templi scintillanti, Bangkok regala un’immersione unica nella cultura thailandese.  
@@ -39,9 +47,3 @@ Sorseggiare un cocktail al tramonto sulla spiaggia significa chiudere il cerchio
 ### Un viaggio che unisce mondi
 Dalla **frenesia urbana** alla **spiritualità delle montagne**, fino alla **pace del mare**, questo itinerario in Thailandia è un racconto di contrasti e armonie.  
 Ogni tappa è una sfumatura diversa dello stesso sorriso thailandese, quello che ti resta nel cuore molto dopo il ritorno. 🌅
-
-<div class="row">
-    <div class="col-md-12 align-center">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_XjzcKRStZ3kSWOCsh4tuMoiApb9r88&ehbc=2E312F"></iframe>
-    </div>
-</div>

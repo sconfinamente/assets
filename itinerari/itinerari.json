@@ -223,7 +223,11 @@
     "titolo": "Estate a New York: città, parchi e skyline",
     "descrizione": "Vivi l’estate a New York tra parchi verdi, rooftop panoramici, musei e passeggiate lungo il fiume. Goditi la città al ritmo estivo tra arte, cultura e panorami iconici.",
     "keywords": ["New York estate", "cosa fare New York estate", "parchi New York", "skyline NYC", "musei New York", "rooftop New York", "viaggio estate New York"],
-    "meta_description": "Scopri New York in estate tra parchi, musei, rooftop e passeggiate lungo il fiume. Vivi la città al ritmo estivo con panorami e esperienze indimenticabili."
+    "meta_description": "Scopri New York in estate tra parchi, musei, rooftop e passeggiate lungo il fiume. Vivi la città al ritmo estivo con panorami e esperienze indimenticabili.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334592852",
+      "cover": "https://live.staticflickr.com/65535/55383240998_b839b41c49_c.jpg"
+    }
   },
   {
     "codice": "amsterdam",

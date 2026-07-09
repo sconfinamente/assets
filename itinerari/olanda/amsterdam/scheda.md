@@ -16,6 +16,14 @@ Amsterdam affascina per il suo equilibrio tra storia e modernità. Il centro sto
 
 ---
 
+<div class="row">
+    <div class="col-md-12 align-center mb-4">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qH_khuhMPxX4Ex9fpZVnRJC6ElQLTjQ&ehbc=2E312F"></iframe>
+    </div>
+</div>
+
+---
+
 ### Piazza Dam
 
 Il cuore della città è Piazza Dam, dominata dal Palazzo Reale e dalla Nieuwe Kerk. È il punto di partenza ideale per iniziare a esplorare Amsterdam.
@@ -116,9 +124,3 @@ Durante un weekend ad Amsterdam vale la pena provare alcune specialità locali:
 Un weekend ad Amsterdam è sufficiente per lasciarsi conquistare dalla sua atmosfera rilassata, dai canali storici e dai quartieri ricchi di fascino. Tra arte, storia e buona cucina, la capitale olandese offre un perfetto equilibrio tra cultura e qualità della vita, regalando un'esperienza indimenticabile in ogni stagione.
 Al tramonto, sali su un battello per vedere Amsterdam da un’altra prospettiva, dove ogni ponte e ogni casa raccontano un frammento di storia.  
 La notte, cammina lungo i **canali illuminati**, lasciandoti incantare dai riflessi dorati sull’acqua e dalla magia di una città che non smette mai di sorprendere.
-
-<div class="row">
-    <div class="col-md-12 align-center mb-4">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1qH_khuhMPxX4Ex9fpZVnRJC6ElQLTjQ&ehbc=2E312F"></iframe>
-    </div>
-</div>
