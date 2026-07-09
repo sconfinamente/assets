@@ -238,6 +238,18 @@
     }
   },
   {
+    "codice": "zaanse-schans",
+    "paese": "olanda",
+    "titolo": "Zaanse Schans: il villaggio dei mulini a vento",
+    "descrizione": "Scopri uno dei luoghi più iconici dei Paesi Bassi tra mulini storici, case tradizionali, formaggi tipici e botteghe artigiane.",
+    "keywords": ["zaanse schans", "zaanse schans amsterdam", "mulini a vento olanda", "villaggio dei mulini", "escursione da amsterdam", "cosa vedere a zaanse schans", "zaanse schans guida", "formaggi olandesi", "zoccoli in legno", "paesi bassi itinerario", "villaggio tradizionale olanda"],
+    "meta_description": "Scopri Zaanse Schans, il celebre villaggio dei mulini a vento vicino ad Amsterdam. Guida completa con cosa vedere, come arrivare, prodotti tipici e consigli per la visita.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334589885",
+      "cover": "https://live.staticflickr.com/65535/55383225039_b11599cfc5_c.jpg"
+    }
+  },  
+  {
     "codice": "transilvania-maramures",
     "paese": "romania",
     "titolo": "Transilvania e Maramureș: tra castelli, borghi e tradizioni",
