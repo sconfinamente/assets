@@ -6,6 +6,15 @@ Un viaggio a Sofia a Natale è un'esperienza che unisce cultura, tradizioni loca
 
 ---
 
+
+<div class="row">
+    <div class="col-md-12 align-center">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1uIJv7n9-freZjLImkZoZw3bS7AMot7w&ehbc=2E312F" width="640" height="480"></iframe>
+    </div>
+</div>
+
+---
+
 ### Tra mercati tradizionali e anima autentica della città
 
 Il nostro itinerario inizia dal **Ponte dei Leoni**, uno dei luoghi simbolo di Sofia. Questo elegante ponte, decorato con quattro statue di leoni, rappresenta uno degli accessi storici al centro cittadino e introduce perfettamente all'atmosfera della capitale bulgara.
