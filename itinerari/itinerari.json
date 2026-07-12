@@ -333,7 +333,11 @@
     "titolo": "Santo Domingo: tra ritmo caraibico e storia coloniale",
     "descrizione": "Cuore pulsante dei Caraibi, Santo Domingo combina spiagge da sogno, musica che vibra nell’aria e un’anima coloniale ricca di storia. Un viaggio tra cultura, relax e ritmo caraibico indimenticabile.",
     "keywords": ["Santo Domingo viaggio", "spiagge Santo Domingo", "musica caraibica", "storia Santo Domingo", "turismo caraibico", "vacanza Caraibi", "esperienze Santo Domingo"],
-    "meta_description": "Vivi Santo Domingo tra spiagge, musica caraibica e storia coloniale. Un viaggio indimenticabile tra cultura, relax e ritmo dei Caraibi."
+    "meta_description": "Vivi Santo Domingo tra spiagge, musica caraibica e storia coloniale. Un viaggio indimenticabile tra cultura, relax e ritmo dei Caraibi.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334648071",
+      "cover": "https://live.staticflickr.com/65535/55388367062_fa6483b963_z.jpg"
+    }
   },
   {
     "codice": "sharm-el-sheik",
