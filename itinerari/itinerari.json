@@ -81,6 +81,32 @@
     "tiktok": true
   },
   {
+    "codice": "sofia",
+    "paese": "bulgaria",
+    "titolo": "Sofia a Natale: un viaggio tra storia, luci e tradizioni",
+    "descrizione": "Scopri Sofia a Natale: mercatini natalizi, luminarie, chiese ortodosse, monumenti e tutte le attrazioni da visitare nella capitale della Bulgaria durante il periodo più magico dell'anno.",
+    "keywords": [
+      "sofia",
+      "sofia bulgaria",
+      "cosa vedere a sofia",
+      "capitale della bulgaria",
+      "itinerario sofia",
+      "weekend a sofia",
+      "guida sofia",
+      "cattedrale alexander nevski",
+      "terme di sofia",
+      "bulgaria itinerario",
+      "viaggio in bulgaria",
+      "cosa fare a sofia"
+    ],
+    "meta_description": "Guida a Sofia a Natale: scopri i mercatini natalizi, cosa vedere, itinerari, attrazioni e consigli per visitare la capitale della Bulgaria durante le festività.",
+    "tiktok": true,
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334646871",
+      "cover": "https://live.staticflickr.com/65535/55389111876_5d5c18bcfe_c.jpg"
+    }
+  },
+  {
     "codice": "maldive-autentiche",
     "paese": "maldive",
     "titolo": "Maldive autentiche",
@@ -230,18 +256,6 @@
     }
   },
   {
-    "codice": "amsterdam",
-    "paese": "olanda",
-    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
-    "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
-    "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
-    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi.",
-    "flickr": {
-      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330584409",
-      "cover": "https://live.staticflickr.com/65535/54947883456_4be5b5280d_c.jpg"
-    }
-  },
-  {
     "codice": "zaanse-schans",
     "paese": "olanda",
     "titolo": "Zaanse Schans: il villaggio dei mulini a vento",
@@ -252,7 +266,19 @@
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334589885",
       "cover": "https://live.staticflickr.com/65535/55383225039_b11599cfc5_c.jpg"
     }
-  },  
+  },   
+  {
+    "codice": "amsterdam",
+    "paese": "olanda",
+    "titolo": "Amsterdam: tra canali, biciclette e riflessi dorati",
+    "descrizione": "Vivi Amsterdam tra canali pittoreschi, ponti storici e biciclette che animano la città. Un viaggio lento tra atmosfere uniche, arte urbana e scorci romantici della capitale dei Paesi Bassi.",
+    "keywords": ["Amsterdam viaggio", "cosa vedere Amsterdam", "canali Amsterdam", "biciclette Amsterdam", "arte urbana Amsterdam", "tour romantico Amsterdam", "Paesi Bassi turismo"],
+    "meta_description": "Esplora Amsterdam tra canali, ponti storici e biciclette. Un viaggio unico tra arte urbana, atmosfere romantiche e scorci suggestivi dei Paesi Bassi.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330584409",
+      "cover": "https://live.staticflickr.com/65535/54947883456_4be5b5280d_c.jpg"
+    }
+  }, 
   {
     "codice": "transilvania-maramures",
     "paese": "romania",
@@ -298,14 +324,6 @@
     "meta_description": "Scopri Londra a Natale tra luci, mercatini e il Tamigi illuminato. Un viaggio indimenticabile tra atmosfere magiche e feste nella capitale inglese."
   },
   {
-    "codice": "sharm-el-sheik",
-    "paese": "egitto",
-    "titolo": "Sharm el-Sheikh: tra deserto e barriera corallina",
-    "descrizione": "Tra le acque turchesi del Mar Rosso e il silenzio del Sinai, Sharm el-Sheikh unisce relax, immersioni e avventura. Scopri paesaggi sottomarini, spiagge paradisiache e atmosfere mistiche.",
-    "keywords": ["Sharm el-Sheikh viaggio", "Mar Rosso immersioni", "deserto Sinai", "spiagge Sharm el-Sheikh", "relax Egitto", "turismo avventura Sharm", "escursioni Sharm el-Sheikh"],
-    "meta_description": "Scopri Sharm el-Sheikh tra Mar Rosso, deserto e spiagge paradisiache. Relax, immersioni e avventura in un viaggio indimenticabile in Egitto."
-  },
-  {
     "codice": "santo-domingo",
     "paese": "caraibi",
     "titolo": "Santo Domingo: tra ritmo caraibico e storia coloniale",
@@ -313,6 +331,14 @@
     "keywords": ["Santo Domingo viaggio", "spiagge Santo Domingo", "musica caraibica", "storia Santo Domingo", "turismo caraibico", "vacanza Caraibi", "esperienze Santo Domingo"],
     "meta_description": "Vivi Santo Domingo tra spiagge, musica caraibica e storia coloniale. Un viaggio indimenticabile tra cultura, relax e ritmo dei Caraibi."
   },
+  {
+    "codice": "sharm-el-sheik",
+    "paese": "egitto",
+    "titolo": "Sharm el-Sheikh: tra deserto e barriera corallina",
+    "descrizione": "Tra le acque turchesi del Mar Rosso e il silenzio del Sinai, Sharm el-Sheikh unisce relax, immersioni e avventura. Scopri paesaggi sottomarini, spiagge paradisiache e atmosfere mistiche.",
+    "keywords": ["Sharm el-Sheikh viaggio", "Mar Rosso immersioni", "deserto Sinai", "spiagge Sharm el-Sheikh", "relax Egitto", "turismo avventura Sharm", "escursioni Sharm el-Sheikh"],
+    "meta_description": "Scopri Sharm el-Sheikh tra Mar Rosso, deserto e spiagge paradisiache. Relax, immersioni e avventura in un viaggio indimenticabile in Egitto."
+  },  
   {
     "codice": "bangkok-chiangrai",
     "paese": "thailandia",

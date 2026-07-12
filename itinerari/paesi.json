@@ -1,4 +1,5 @@
 [
+  { "codice": "bulgaria", "label": "Bulgaria" }, 
   { "codice": "canada", "label": "Canada" }, 
   { "codice": "caraibi", "label": "Caraibi" }, 
   { "codice": "uae", "label": "Emirati Arabi Uniti" },
@@ -6,7 +7,6 @@
   { "codice": "finlandia", "label": "Finlandia" },
   { "codice": "francia", "label": "Francia" },
   { "codice": "germania", "label": "Germania" },
-  { "codice": "uk", "label": "Inghilterra" },
   { "codice": "maldive", "label": "Maldive" },
   { "codice": "marocco", "label": "Marocco" },
   { "codice": "olanda", "label": "Olanda" },
@@ -14,5 +14,6 @@
   { "codice": "romania", "label": "Romania" },
   { "codice": "svezia", "label": "Svezia" },
   { "codice": "thailandia", "label": "Thailandia" },
+  { "codice": "uk", "label": "Inghilterra" },
   { "codice": "usa", "label": "Stati Uniti" }  
 ]
