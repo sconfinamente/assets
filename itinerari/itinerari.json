@@ -78,7 +78,11 @@
       "cultura nordica"
     ],
     "meta_description": "Esplora Stoccolma tra le isole, i quartieri storici di Gamla Stan, musei come il Vasa Museum e l’Abba Museum, e scopri il design scandinavo, i parchi e la cultura sostenibile della capitale svedese.",
-    "tiktok": true
+    "tiktok": true,
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334708771",
+      "cover": "https://live.staticflickr.com/65535/55397890205_15403b9c68_z.jpg"
+    }
   },
   {
     "codice": "sofia",
