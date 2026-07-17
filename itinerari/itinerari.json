@@ -51,10 +51,36 @@
       "quartiere Eira",
       "natura urbana Finlandia",
       "cultura nordica",
-      "architettura nordica"
+      "architettura nordica",
+      "Moomin Helsinki",
+      "Muumit Helsinki",
+      "Moomin Finlandia",
+      "Muumit Finlandia",
+      "Moomin Shop Helsinki",
+      "negozio Moomin Helsinki",
+      "Tove Jansson",
+      "Tove Jansson Helsinki",
+      "personaggi Moomin",
+      "casa dei Moomin",
+      "cosa comprare a Helsinki",
+      "souvenir Helsinki",
+      "shopping Helsinki",
+      "Moomin World",
+      "Naantali Moomin World",
+      "parco Moomin Finlandia",
+      "cartoni Moomin",
+      "museo Tove Jansson",
+      "cultura finlandese",
+      "icone della Finlandia",
+      "attrazioni Helsinki",
+      "centro storico Helsinki"
     ],
     "meta_description": "Esplora Helsinki tra mare, isole e design nordico. Visita la Cattedrale di Helsinki, Piazza del Senato, Suomenlinna, Design District e quartiere Eira, rilassati in sauna sul mare e scopri la cultura e la natura della capitale finlandese.",
-    "tiktok": true
+    "tiktok": true,
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334729068",
+      "cover": "https://live.staticflickr.com/65535/55399008041_595caac43a_z.jpg"
+    }
   },
   {
     "codice": "stoccolma",
