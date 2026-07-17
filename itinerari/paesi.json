@@ -1,7 +1,7 @@
 [
   { "codice": "bulgaria", "label": "Bulgaria", "iso2": "BG" },
   { "codice": "canada", "label": "Canada", "iso2": "CA" },
-  { "codice": "caraibi", "label": "Caraibi", "iso2": "" },
+  { "codice": "caraibi", "label": "Caraibi", "flag": "/itinerari/caraibi/flag.png" },
   { "codice": "uae", "label": "Emirati Arabi Uniti", "iso2": "AE" },
   { "codice": "egitto", "label": "Egitto", "iso2": "EG" },
   { "codice": "finlandia", "label": "Finlandia", "iso2": "FI" },
