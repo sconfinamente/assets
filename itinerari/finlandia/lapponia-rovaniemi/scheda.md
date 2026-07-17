@@ -10,7 +10,7 @@ Il punto di partenza per esplorare la Lapponia finlandese è quasi sempre **Rova
 
 Conosciuta in tutto il mondo come la **città ufficiale di Babbo Natale**, Rovaniemi riesce a unire servizi, cultura e natura selvaggia. Da qui partono la maggior parte delle escursioni verso le foreste artiche, le fattorie di renne, i safari con gli husky e le uscite alla ricerca dell'aurora boreale.
 
-Nonostante sia il principale centro abitato della regione, bastano pochi minuti per ritrovarsi immersi in un paesaggio fatto di silenzio, neve e boschi infiniti. :contentReference[oaicite:1]{index=1}
+Nonostante sia il principale centro abitato della regione, bastano pochi minuti per ritrovarsi immersi in un paesaggio fatto di silenzio, neve e boschi infiniti.
 
 ---
 
