@@ -1,6 +1,6 @@
 Elegante, moderna e incredibilmente vivibile, **Stoccolma** è una delle capitali più affascinanti d'Europa. Costruita su **14 isole** collegate da oltre cinquanta ponti, la città regala un perfetto equilibrio tra storia, architettura, cultura e natura. Passeggiando tra vicoli medievali, quartieri dal design minimalista e lungomare panoramici, si scopre una destinazione che riesce a sorprendere in ogni stagione.
 
-L'acqua è protagonista assoluta: il lago Mälaren incontra il Mar Baltico creando scorci spettacolari, mentre traghetti e battelli permettono di spostarsi facilmente da un'isola all'altra, regalando una prospettiva unica sulla città. Non è un caso che Stoccolma venga spesso definita la **"Venezia del Nord"**. :contentReference[oaicite:0]{index=0}
+L'acqua è protagonista assoluta: il lago Mälaren incontra il Mar Baltico creando scorci spettacolari, mentre traghetti e battelli permettono di spostarsi facilmente da un'isola all'altra, regalando una prospettiva unica sulla città. Non è un caso che Stoccolma venga spesso definita la **"Venezia del Nord"**.
 
 ---
 
@@ -10,7 +10,7 @@ Il punto di partenza ideale è **Gamla Stan**, il centro storico e l'anima più 
 
 Qui si trovano alcuni dei monumenti più importanti della capitale, come il **Palazzo Reale**, la **Cattedrale di Storkyrkan** e la celebre **Stortorget**, la piazza simbolo della città. Ogni angolo racconta secoli di storia, tra antiche botteghe, caffetterie tradizionali e negozi di artigianato locale.
 
-Per vivere davvero l'atmosfera di Gamla Stan il consiglio è quello di passeggiare senza una meta precisa, lasciandosi guidare dalla curiosità tra vicoli stretti e scorci fotografici. :contentReference[oaicite:1]{index=1}
+Per vivere davvero l'atmosfera di Gamla Stan il consiglio è quello di passeggiare senza una meta precisa, lasciandosi guidare dalla curiosità tra vicoli stretti e scorci fotografici.
 
 ---
 
@@ -20,7 +20,7 @@ Tra tutte le attrazioni cittadine, il **Museo Vasa** è probabilmente quella pi�
 
 Al suo interno è custodita la **Vasa**, una gigantesca nave da guerra del XVII secolo affondata durante il suo viaggio inaugurale nel 1628 e recuperata dopo oltre tre secoli. Oggi rappresenta la nave storica meglio conservata al mondo, con circa il 98% della struttura originale ancora intatta.
 
-La visita è coinvolgente anche per chi non è appassionato di storia: il museo racconta la vita dell'equipaggio, le tecniche di costruzione navale e il complesso recupero del relitto attraverso installazioni multimediali e ricostruzioni. :contentReference[oaicite:2]{index=2}
+La visita è coinvolgente anche per chi non è appassionato di storia: il museo racconta la vita dell'equipaggio, le tecniche di costruzione navale e il complesso recupero del relitto attraverso installazioni multimediali e ricostruzioni.
 
 ---
 
@@ -30,7 +30,7 @@ A pochi minuti dal centro si trova **Djurgården**, un'enorme isola immersa nel 
 
 Qui si concentrano alcuni dei musei più importanti della Svezia, come il Museo Vasa, Skansen, il primo museo all'aperto del mondo, l'ABBA Museum e il Nordiska Museet. Ma Djurgården è anche il luogo perfetto per rilassarsi passeggiando tra boschi, giardini, piste ciclabili e lungomare.
 
-Durante la bella stagione è una delle zone preferite dagli abitanti per fare picnic o semplicemente godersi qualche ora nella natura. :contentReference[oaicite:3]{index=3}
+Durante la bella stagione è una delle zone preferite dagli abitanti per fare picnic o semplicemente godersi qualche ora nella natura.
 
 ---
 
@@ -40,7 +40,7 @@ Se Gamla Stan rappresenta la storia, **Södermalm** racconta il volto più conte
 
 Questo quartiere è famoso per la sua atmosfera bohémien, le boutique indipendenti, i negozi vintage, le gallerie d'arte e i locali dove assaporare la cucina nordica moderna.
 
-Passeggiando tra le sue vie si scoprono murales, caffetterie di design e numerosi punti panoramici. Tra i più belli c'è **Monteliusvägen**, una passeggiata sopraelevata da cui si gode una vista spettacolare sul centro storico e sul Municipio, particolarmente suggestiva al tramonto. :contentReference[oaicite:4]{index=4}
+Passeggiando tra le sue vie si scoprono murales, caffetterie di design e numerosi punti panoramici. Tra i più belli c'è **Monteliusvägen**, una passeggiata sopraelevata da cui si gode una vista spettacolare sul centro storico e sul Municipio, particolarmente suggestiva al tramonto.
 
 ---
 
@@ -50,7 +50,7 @@ Affacciato sul mare, il **Palazzo Reale** è uno dei palazzi reali più grandi d
 
 L'evento più seguito dai visitatori è il tradizionale **cambio della guardia**, che ogni giorno richiama centinaia di persone nella piazza antistante.
 
-Gli interni ospitano appartamenti reali, musei e la ricca Armeria Reale, permettendo di scoprire secoli di storia della famiglia reale svedese. :contentReference[oaicite:5]{index=5}
+Gli interni ospitano appartamenti reali, musei e la ricca Armeria Reale, permettendo di scoprire secoli di storia della famiglia reale svedese.
 
 ---
 
