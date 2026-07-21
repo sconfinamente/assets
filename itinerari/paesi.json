@@ -13,7 +13,7 @@
   { "codice": "olanda", "label": "Olanda", "iso2": "NL" },
   { "codice": "polonia", "label": "Polonia", "iso2": "PL" },
   { "codice": "romania", "label": "Romania", "iso2": "RO" },
-  { "codice": "stati-uniti", "label": "Stati Uniti", "iso2": "US" },
+  { "codice": "usa", "label": "Stati Uniti", "iso2": "US" },
   { "codice": "svezia", "label": "Svezia", "iso2": "SE" },
   { "codice": "thailandia", "label": "Thailandia", "iso2": "TH" }
 ]
