@@ -18,6 +18,10 @@ La cosa più bella? Mentre voi dormite, il treno continua a viaggiare. Al risveg
 
 È una soluzione comoda, sostenibile e, soprattutto, estremamente suggestiva.
 
+Per vivere questa esperienza unica e prenotare il vostro viaggio verso la Lapponia, potete acquistare i biglietti direttamente dal sito ufficiale delle ferrovie finlandesi:
+
+✨ [Prenota il tuo viaggio sul Santa Claus Express →](https://www.vr.fi/en/santa-claus-express)
+
 ---
 
 ### Le cabine: piccole, ma incredibilmente confortevoli
