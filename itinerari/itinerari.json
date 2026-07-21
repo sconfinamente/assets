@@ -148,7 +148,16 @@
       "cultura nordica"
     ],
     "meta_description": "Esplora Stoccolma tra le isole, i quartieri storici di Gamla Stan, musei come il Vasa Museum e l’Abba Museum, e scopri il design scandinavo, i parchi e la cultura sostenibile della capitale svedese.",
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7589760343451208982",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7589760343451208982",
+        "titolo": "Stoccolma in inverno"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7638282355542592790",
+        "titolo": "Abba Museum"
+      }
+    ],
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334708771",
       "cover": "https://live.staticflickr.com/65535/55397890205_15403b9c68_z.jpg"
@@ -230,7 +239,16 @@
     "descrizione": "Scopri la magia del Natale a New York tra luci scintillanti, mercatini natalizi, piste di pattinaggio e atmosfere da film nella Grande Mela. Un viaggio indimenticabile per vivere l’inverno nella città più famosa del mondo.",
     "keywords": ["Natale New York", "mercatini di Natale New York", "piste di pattinaggio NYC", "viaggio inverno New York", "cosa fare a Natale NYC", "Grande Mela Natale"],
     "meta_description": "Vivi il Natale a New York tra luci, mercatini, piste di pattinaggio e atmosfere da film nella Grande Mela. Esperienze magiche e indimenticabili.",
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7575483583285054742",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7575483583285054742",
+        "titolo": "Natale a New York"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7567171097855266071",
+        "titolo": "Dyker Heights"
+      }
+    ],
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330393356",
       "cover": "https://live.staticflickr.com/65535/54930853642_d481405c33_c.jpg"
@@ -246,7 +264,21 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330821712",
       "cover": "https://live.staticflickr.com/65535/54975291808_efe876c89e_c.jpg"
-    }
+    },
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7630390728908213526",
+        "titolo": "San Francisco Cable car"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7615342028154572054",
+        "titolo": "Alcatraz island"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7580699995805011222",
+        "titolo": "San Diego, CA"
+      }
+    ]
   },
   {
     "codice": "sanfrancisco-lasvegas",
@@ -254,7 +286,21 @@
     "titolo": "California Dream: da San Francisco a Las Vegas tra giganti, deserti e città fantasma",
     "descrizione": "Attraversa la California da ovest a est: dalle onde del Pacifico ai deserti infiniti. Un viaggio tra sequoie giganti, vallate di granito e città iconiche fino alla magia luminosa di Las Vegas.",
     "keywords": ["California viaggio", "San Francisco Las Vegas", "road trip California", "deserto California", "sequoie California", "Las Vegas turismo", "on the road USA"],
-    "meta_description": "On the road in California da San Francisco a Las Vegas tra oceano, deserti, sequoie e città iconiche. Esperienze uniche tra natura e divertimento."
+    "meta_description": "On the road in California da San Francisco a Las Vegas tra oceano, deserti, sequoie e città iconiche. Esperienze uniche tra natura e divertimento.",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7632019068765179159",
+        "titolo": "Yosemite National Park"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7578460691368054038",
+        "titolo": "California on the road"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7630390728908213526",
+        "titolo": "San Francisco Cable car"
+      }
+    ]
   },
   {
     "codice": "unusual-london",
@@ -282,7 +328,17 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330410468",
       "cover": "https://live.staticflickr.com/65535/54930804287_c7a973ef0f_c.jpg"
-    }
+    },
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7661671984727706913",
+        "titolo": "Dubai desert"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7563035894865857814",
+        "titolo": "Aura Skypool Dubai"
+      }
+    ]
   },
   {
     "codice": "abu-dhabi",
@@ -312,7 +368,17 @@
     "titolo": "Detroit: Musica, Arte, Motori e... Eminem",
     "descrizione": "Scopri Detroit in 4 giorni tra musica, arte, motori ed emozioni autentiche. Visita i luoghi iconici di Eminem, la 8 Mile, il suo ristorante, i murales dedicati, il Motown Museum, Hello Records e il Banco dei Pugni. Itinerario conveniente e ideale anche per un on the road nel Michigan.",
     "keywords": ["Detroit viaggio", "Detroit itinerario 4 giorni", "Eminem Detroit", "Motown Museum", "Hello Records", "Banco dei Pugni Detroit", "on the road Michigan", "cosa vedere Detroit", "tour musicale Detroit", "arte e musica Detroit"],
-    "meta_description": "Visita Detroit in 4 giorni tra musica, arte, motori ed emozioni. Scopri i luoghi di Eminem, Motown Museum, Hello Records e il Banco dei Pugni. Perfetto per un on the road nel Michigan."
+    "meta_description": "Visita Detroit in 4 giorni tra musica, arte, motori ed emozioni. Scopri i luoghi di Eminem, Motown Museum, Hello Records e il Banco dei Pugni. Perfetto per un on the road nel Michigan.",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7611231600252062998",
+        "titolo": "Motown Museum"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7645606341351869729",
+        "titolo": "The Heidelberg Poject"
+      }
+    ]
   },
   {
     "codice": "toronto-niagara",
@@ -373,7 +439,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330606764",
       "cover": "https://live.staticflickr.com/65535/54950135256_7987d9db81_c.jpg"
-    }
+    },
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7653793294480117014"
   },
   {
     "codice": "uk-south",
@@ -385,7 +452,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330531603",
       "cover": "https://live.staticflickr.com/65535/54943422636_01d7b9ac4f_c.jpg"
-    }
+    },
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7635618653957901590"
   },
   {
     "codice": "transilvania",
@@ -397,7 +465,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330576916",
       "cover": "https://live.staticflickr.com/65535/54950087326_004278b91e_c.jpg"
-    }
+    },
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7625765415830048022"
   },
   {
     "codice": "london-christmas",
