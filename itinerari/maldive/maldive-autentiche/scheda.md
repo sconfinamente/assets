@@ -76,25 +76,25 @@ Di vedere bambini giocare sulla spiaggia al tramonto, artigiani intenti a realiz
 
 Soggiornare su un'isola locale non significa rinunciare alle esperienze che hanno reso celebri le Maldive. Al contrario, ogni giorno è possibile partire alla scoperta di alcuni degli scenari più spettacolari dell'Oceano Indiano.
 
-#### Snorkeling nei reef e giardini sommersi
+### Snorkeling nei reef e giardini sommersi
 
 Le acque cristalline custodiscono alcune delle barriere coralline più ricche del pianeta.
 
 Maschera e pinne sono tutto ciò che serve per immergersi tra coralli variopinti, pesci tropicali, tartarughe marine e straordinari giardini sommersi, dove ogni immersione regala nuovi colori, nuove forme e nuove emozioni.
 
-#### Nuotare con gli squali e incontrare le mante
+### Nuotare con gli squali e incontrare le mante
 
 Le escursioni permettono di vivere incontri davvero emozionanti con la fauna marina.
 
 Potrai nuotare insieme agli squali nutrice, animali curiosi ma innocui per l'uomo, osservare l'eleganza delle mante giganti mentre danzano nell'acqua e, nei periodi più favorevoli, vivere l'indimenticabile esperienza di incontrare il maestoso squalo balena.
 
-#### Alla ricerca dei delfini
+### Alla ricerca dei delfini
 
 Quando il sole inizia a calare, molte imbarcazioni prendono il largo per cercare i delfini.
 
 Spesso sono loro ad avvicinarsi alle barche, giocando tra le onde e regalando uno spettacolo naturale che rende ogni tramonto ancora più magico.
 
-#### Le spettacolari sandbank
+### Le spettacolari sandbank
 
 Tra le esperienze più iconiche ci sono le escursioni verso le sandbank, piccoli banchi di sabbia bianchissima che emergono dal mare turchese.
 
