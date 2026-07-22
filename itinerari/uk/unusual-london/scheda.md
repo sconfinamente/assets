@@ -24,6 +24,6 @@ Le facciate esplodono di tinte pastello, le caffetterie profumano di spezie e so
 
 È qui, tra **arte, acqua e musica**, che Londra svela la sua anima più vera: quella che non si mostra, ma che resta — nei dettagli, nei colori, nelle emozioni che ti porti via.
 
-### Perché andarci
+## Perché andarci
 
 Per scoprire che Londra non è solo una città da visitare, ma **una storia da sentire** — tra graffi, luci e respiri di vita.

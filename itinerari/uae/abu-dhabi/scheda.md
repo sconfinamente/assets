@@ -6,7 +6,7 @@ Abu Dhabi non è una destinazione da vivere di corsa. È una città che invita a
 
 ---
 
-### La Corniche: il lungomare simbolo della città
+## La Corniche: il lungomare simbolo della città
 
 Uno dei modi migliori per iniziare a conoscere Abu Dhabi è passeggiare lungo la **Corniche**, il celebre lungomare che si estende per diversi chilometri affacciandosi sul Golfo Persico.
 
@@ -18,7 +18,7 @@ Le piste ciclabili, i giardini curati, le aree verdi e i numerosi punti panorami
 
 ---
 
-### Tra grattacieli iconici e panorami sul Golfo
+## Tra grattacieli iconici e panorami sul Golfo
 
 Proseguendo lungo la costa si raggiungono le spettacolari **Etihad Towers**, uno dei simboli più riconoscibili di Abu Dhabi.
 
@@ -30,7 +30,7 @@ Poco distante si trova il vivace **Marina Mall**, uno dei centri commerciali pi�
 
 ---
 
-### La Grande Moschea Sheikh Zayed: il capolavoro di Abu Dhabi
+## La Grande Moschea Sheikh Zayed: il capolavoro di Abu Dhabi
 
 Ci sono luoghi che riescono a lasciare senza parole ancora prima di essere visitati. La **Grande Moschea Sheikh Zayed** è uno di questi.
 
@@ -44,7 +44,7 @@ Visitare la moschea significa anche comprendere meglio la cultura degli Emirati 
 
 ---
 
-### Il Louvre Abu Dhabi: un ponte tra Oriente e Occidente
+## Il Louvre Abu Dhabi: un ponte tra Oriente e Occidente
 
 Tra le esperienze più sorprendenti della città c'è senza dubbio la visita al **Louvre Abu Dhabi**, un museo che rappresenta molto più di una semplice collezione d'arte.
 
@@ -58,7 +58,7 @@ Anche l'edificio stesso, sospeso tra il mare e il cielo, è parte integrante del
 
 ---
 
-### Yas Island: divertimento, sport e adrenalina
+## Yas Island: divertimento, sport e adrenalina
 
 Se il centro di Abu Dhabi racconta la sua anima più elegante, **Yas Island** mostra invece il volto più dinamico e divertente della capitale.
 
@@ -72,7 +72,7 @@ Ma Yas Island non è solo adrenalina. Le spiagge, il porto turistico, i beach cl
 
 ---
 
-### Tra lusso, tradizione e ospitalità emiratina
+## Tra lusso, tradizione e ospitalità emiratina
 
 Uno degli aspetti che colpisce maggiormente di Abu Dhabi è la sua capacità di coniugare lusso e autenticità.
 
@@ -82,7 +82,7 @@ La città riesce così a offrire un'esperienza completa: monumenti straordinari,
 
 ---
 
-### Un viaggio tra eleganza e meraviglia
+## Un viaggio tra eleganza e meraviglia
 
 Abu Dhabi è una destinazione che sorprende proprio per il suo equilibrio.
 
@@ -90,6 +90,6 @@ Abu Dhabi è una destinazione che sorprende proprio per il suo equilibrio.
 
 Visitare Abu Dhabi significa scoprire un volto diverso degli Emirati Arabi Uniti, più tranquillo, raffinato e autentico. Un viaggio fatto di panorami spettacolari, architetture iconiche e tramonti indimenticabili, capace di lasciare il ricordo di una città che conquista con discrezione, senza mai avere bisogno di ostentare la propria bellezza.
 
-### Consigli per il viaggio
+## Consigli per il viaggio
 
 Il periodo migliore per visitare **Abu Dhabi** va da **novembre ad aprile**, quando le temperature sono più miti e permettono di esplorare la città con maggiore tranquillità. Organizza la visita alla **Grande Moschea Sheikh Zayed** nelle ultime ore del pomeriggio per ammirarla illuminata dalla luce del tramonto, concediti una passeggiata serale lungo la **Corniche** e dedica almeno un'intera giornata a **Yas Island**, soprattutto se desideri visitare i parchi tematici o assistere a eventi sportivi internazionali.

@@ -4,5 +4,5 @@ Nei parchi cittadini, prova l’emozione di **pattinare sul ghiaccio**, circonda
 
 Il Natale a Londra è un viaggio dei sensi: tra luci, suoni, profumi e sorrisi, la città offre esperienze autentiche e momenti che resteranno nel cuore.
 
-### Consiglio
+## Consiglio
 Porta con te **scarpe comode e un cappotto caldo**, perché Londra in inverno regala emozioni intense ma le temperature possono essere rigide. Lasciati trasportare dalle luci, dai mercatini e dalla musica, e vivi un Natale **indimenticabile e autentico**, come in una vera fiaba.

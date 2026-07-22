@@ -12,6 +12,6 @@ Un altro spettacolo da non perdere è la **East Side Gallery**, dove il Muro div
 
 Tra il **Reichstag**, il **Tiergarten** e le piazze dei vecchi quartieri industriali, si percepisce una città che **non smette mai di reinventarsi**, dove la storia e la modernità camminano fianco a fianco, creando un ritmo unico e coinvolgente.  
 
-### Consiglio
+## Consiglio
 
 Dedica almeno 3 giorni per visitare i principali luoghi storici e i quartieri alternativi.

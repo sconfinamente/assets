@@ -8,7 +8,7 @@ Quando il sole sorge e si apre la tendina della cabina, ci si ritrova davanti un
 
 ---
 
-### Cos'è il Santa Claus Express
+## Cos'è il Santa Claus Express
 
 Il **Santa Claus Express** è il treno notturno gestito dalla compagnia ferroviaria finlandese **VR**, che collega ogni giorno Helsinki con Rovaniemi e altre località del nord della Finlandia.
 
@@ -24,7 +24,7 @@ Per vivere questa esperienza unica e prenotare il vostro viaggio verso la Lappon
 
 ---
 
-### Le cabine: piccole, ma incredibilmente confortevoli
+## Le cabine: piccole, ma incredibilmente confortevoli
 
 Prima della partenza immaginavamo una classica cuccetta ferroviaria.
 
@@ -38,7 +38,7 @@ Non aspettatevi il lusso di un hotel: il bello sta proprio nella semplicità. Do
 
 ---
 
-### La nostra serata sul treno
+## La nostra serata sul treno
 
 Una delle cose che ricorderemo con più affetto è proprio la serata trascorsa nella nostra cabina.
 
@@ -56,7 +56,7 @@ Non c'era fretta. Non c'erano coincidenze da prendere. Solo noi, il rumore regol
 
 ---
 
-### Addormentarsi a Helsinki, svegliarsi in Lapponia
+## Addormentarsi a Helsinki, svegliarsi in Lapponia
 
 È difficile spiegare la sensazione del risveglio.
 
@@ -72,7 +72,7 @@ Anche chi non ama particolarmente i treni finisce inevitabilmente per emozionars
 
 ---
 
-### Il ristorante di bordo
+## Il ristorante di bordo
 
 Il Santa Claus Express dispone di una carrozza ristorante dove è possibile acquistare cena, colazione, snack, bevande calde e prodotti tipici finlandesi.
 
@@ -82,7 +82,7 @@ Noi abbiamo preferito ordinare la cena e gustarcela direttamente nella nostra ca
 
 ---
 
-### È possibile portare anche l'auto
+## È possibile portare anche l'auto
 
 Una curiosità che non tutti conoscono riguarda la possibilità di trasportare la propria automobile o motocicletta.
 
@@ -92,7 +92,7 @@ Il Santa Claus Express dispone infatti di apposite carrozze dove caricare il vei
 
 ---
 
-### Alcuni consigli prima di partire
+## Alcuni consigli prima di partire
 
 Per vivere al meglio l'esperienza vi consigliamo di:
 
@@ -104,7 +104,7 @@ Per vivere al meglio l'esperienza vi consigliamo di:
 
 ---
 
-### Vale davvero la pena?
+## Vale davvero la pena?
 
 Se state organizzando un viaggio in Lapponia, la nostra risposta è sì, senza alcun dubbio.
 

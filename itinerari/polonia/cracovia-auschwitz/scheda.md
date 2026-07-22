@@ -8,6 +8,6 @@ Tornando in città, la vita riprende il suo ritmo: il **Castello del Wawel** si 
 
 Cracovia non si visita: **si sente, si ascolta e si lascia dentro**.
 
-### Consiglio
+## Consiglio
 
 Dedica un’intera giornata alla visita di Auschwitz e Birkenau, per vivere questo luogo con calma, consapevolezza e rispetto, entrando davvero nella profondità della memoria storica.

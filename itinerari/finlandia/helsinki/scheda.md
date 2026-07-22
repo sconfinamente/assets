@@ -4,7 +4,7 @@ Spesso considerata la porta d'ingresso della Finlandia, Helsinki conquista con i
 
 ---
 
-### Piazza del Senato e la Cattedrale di Helsinki
+## Piazza del Senato e la Cattedrale di Helsinki
 
 Il simbolo della città è senza dubbio la **Cattedrale di Helsinki**, con la sua imponente facciata bianca e le caratteristiche cupole verdi che dominano lo skyline.
 
@@ -14,7 +14,7 @@ Salire la grande scalinata della cattedrale permette inoltre di ammirare uno dei
 
 ---
 
-### Suomenlinna, la fortezza sul mare
+## Suomenlinna, la fortezza sul mare
 
 A soli quindici minuti di traghetto dal centro si trova **Suomenlinna**, una delle attrazioni più importanti della Finlandia e patrimonio UNESCO.
 
@@ -24,7 +24,7 @@ Passeggiare tra le antiche fortificazioni permette di scoprire oltre due secoli 
 
 ---
 
-### La Chiesa nella Roccia
+## La Chiesa nella Roccia
 
 Tra gli edifici più sorprendenti della città c'è la celebre **Temppeliaukio Church**, conosciuta come la Chiesa nella Roccia.
 
@@ -34,7 +34,7 @@ L'acustica eccezionale la rende anche una delle sale da concerto più apprezzate
 
 ---
 
-### Il Design District
+## Il Design District
 
 Helsinki è considerata una delle capitali mondiali del design.
 
@@ -46,7 +46,7 @@ Qui si trovano anche numerosi negozi dei marchi più famosi della Finlandia, com
 
 ---
 
-### Alla scoperta dei Moomin, i personaggi simbolo della Finlandia
+## Alla scoperta dei Moomin, i personaggi simbolo della Finlandia
 
 Passeggiando per Helsinki è impossibile non imbattersi nei simpatici **Moomin** (in finlandese *Muumit*), i celebri personaggi creati dalla scrittrice e illustratrice **Tove Jansson**. Queste creature bianche dall'aspetto che ricorda piccoli ippopotami sono molto più di un semplice cartone animato: rappresentano uno dei simboli culturali più amati della Finlandia e accompagnano intere generazioni fin dagli anni Quaranta.
 
@@ -56,7 +56,7 @@ Anche molti caffè e librerie celebrano l'universo creato da Tove Jansson, rende
 
 ---
 
-### Il Mercato Coperto e Piazza del Mercato
+## Il Mercato Coperto e Piazza del Mercato
 
 Uno dei luoghi più autentici della città è il **Kauppatori**, il mercato affacciato sul porto.
 
@@ -66,7 +66,7 @@ Poco distante si trova il suggestivo **Vecchio Mercato Coperto**, inaugurato nel
 
 ---
 
-### Oodi, la biblioteca del futuro
+## Oodi, la biblioteca del futuro
 
 Helsinki sorprende anche con la sua incredibile **Biblioteca Centrale Oodi**, considerata una delle biblioteche più innovative al mondo.
 
@@ -76,7 +76,7 @@ L'edificio stesso è un capolavoro di architettura contemporanea e rappresenta p
 
 ---
 
-### Le saune finlandesi
+## Le saune finlandesi
 
 Non si può visitare Helsinki senza vivere una delle tradizioni più importanti della cultura finlandese: la sauna.
 
@@ -86,7 +86,7 @@ La città ospita numerose saune pubbliche affacciate direttamente sul mare, dove
 
 ---
 
-### Helsinki in inverno: un'eleganza silenziosa
+## Helsinki in inverno: un'eleganza silenziosa
 
 Durante l'inverno Helsinki cambia completamente volto.
 
@@ -98,7 +98,7 @@ Chi ama il Natale troverà mercatini tradizionali, decorazioni eleganti e un cli
 
 ---
 
-### Il mare e l'arcipelago
+## Il mare e l'arcipelago
 
 Uno degli aspetti più sorprendenti di Helsinki è il rapporto con il mare.
 
@@ -108,7 +108,7 @@ In estate è possibile fare crociere panoramiche, kayak, escursioni in biciclett
 
 ---
 
-### Come muoversi
+## Come muoversi
 
 Helsinki è una città estremamente semplice da visitare.
 
@@ -118,7 +118,7 @@ Muoversi con i mezzi pubblici è veloce, sostenibile e permette di raggiungere f
 
 ---
 
-### Quando visitare Helsinki
+## Quando visitare Helsinki
 
 Ogni stagione regala emozioni diverse.
 
@@ -132,7 +132,7 @@ La **primavera**, infine, è ideale per visitare la città con meno turisti e te
 
 ---
 
-### Perché visitare Helsinki
+## Perché visitare Helsinki
 
 Helsinki è una città che conquista senza bisogno di eccessi. Qui il design incontra la natura, il mare si fonde con l'architettura e la qualità della vita si percepisce in ogni dettaglio.
 

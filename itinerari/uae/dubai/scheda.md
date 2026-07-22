@@ -6,7 +6,7 @@ Dubai è una città di contrasti. Qui il passato e il futuro convivono senza mai
 
 ---
 
-### Tra i grattacieli della Downtown Dubai
+## Tra i grattacieli della Downtown Dubai
 
 Il viaggio inizia nel cuore pulsante della città, dove l'orizzonte è dominato dal profilo inconfondibile del **Burj Khalifa**, l'edificio più alto del mondo.
 
@@ -18,7 +18,7 @@ Poco distante, **Business Bay** racconta il volto più moderno della città, con
 
 ---
 
-### Deira: dove tutto è cominciato
+## Deira: dove tutto è cominciato
 
 Per conoscere davvero Dubai bisogna lasciare per qualche ora il mondo dei grattacieli e raggiungere **Deira**, il quartiere dove la storia commerciale della città è ancora viva.
 
@@ -30,7 +30,7 @@ Ogni angolo racconta la storia di una città nata grazie al commercio e alla nav
 
 ---
 
-### Il Dubai Creek e l'anima autentica della città
+## Il Dubai Creek e l'anima autentica della città
 
 Il **Dubai Creek** rappresenta il luogo dove tutto ebbe origine.
 
@@ -42,7 +42,7 @@ Attraversare il Creek è una delle esperienze più autentiche che si possano viv
 
 ---
 
-### Al Fahidi: la Dubai che il tempo ha conservato
+## Al Fahidi: la Dubai che il tempo ha conservato
 
 Sulla sponda opposta del Creek si trova **Al Fahidi Historical District**, uno dei quartieri più affascinanti della città.
 
@@ -54,7 +54,7 @@ Passeggiare senza una meta precisa è il modo migliore per scoprire la sua atmos
 
 ---
 
-### Dubai Marina e Palm Jumeirah: il volto più elegante della città
+## Dubai Marina e Palm Jumeirah: il volto più elegante della città
 
 Nel pomeriggio il viaggio prosegue verso una delle zone più moderne e spettacolari dell'emirato.
 
@@ -68,7 +68,7 @@ Per concludere la giornata non c'è luogo migliore dell'**Aura Skypool**, la pis
 
 ---
 
-### Il deserto: dove nasce la vera anima di Dubai
+## Il deserto: dove nasce la vera anima di Dubai
 
 Per quanto straordinaria possa essere la città, è nel deserto che si scoprono le radici più profonde dell'emirato.
 
@@ -84,7 +84,7 @@ La serata continua nei tradizionali campi beduini, dove una cena sotto le stelle
 
 ---
 
-### Una città dai mille volti
+## Una città dai mille volti
 
 Dubai è molto più di una destinazione fatta di record e architetture spettacolari.
 
@@ -94,6 +94,6 @@ Ogni quartiere racconta una storia diversa, ogni panorama offre una prospettiva 
 
 Dubai non è soltanto una meta da vedere almeno una volta nella vita: è un luogo da vivere con curiosità, lasciandosi sorprendere dai suoi contrasti, dalla sua energia e dalla capacità di trasformare anche ciò che sembrava impossibile in realtà.
 
-### Consigli per il viaggio
+## Consigli per il viaggio
 
 Il periodo migliore per visitare **Dubai** è compreso tra **novembre e marzo**, quando le temperature sono ideali per esplorare la città e vivere le attività all'aperto. Dedica la mattina ai quartieri storici di **Deira** e **Al Fahidi**, quando l'atmosfera è più autentica e i souk iniziano ad animarsi. Raggiungi il **Burj Khalifa** poco prima del tramonto per ammirare la città con la luce del giorno e poi illuminata di notte. Non rinunciare a una traversata in **abra** sul **Dubai Creek** e riserva almeno una giornata intera al **deserto**: è lì, tra il silenzio delle dune e il cielo stellato, che si scopre l'anima più autentica degli Emirati Arabi Uniti.

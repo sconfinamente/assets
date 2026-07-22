@@ -8,7 +8,7 @@ Il **Navy Pier** è una tappa imperdibile: ruote panoramiche che si riflettono s
 
 Non dimenticare di esplorare **Lincoln Park** e altri quartieri storici: ogni angolo della città è un invito a scoprire il suo cuore pulsante. Chicago non si visita frettolosamente: **va assaporata**, tra skyline, lungolago e scorci che restano impressi nella memoria.
 
-### Consiglio
+## Consiglio
 
 Dedica almeno 3 giorni per vivere la città a pieno.  
 - Ammira il **Millennium Park** e il suo “Fagiolo”, simbolo di Chicago e cornice di scatti indimenticabili.  

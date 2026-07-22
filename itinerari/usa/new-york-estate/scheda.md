@@ -16,7 +16,7 @@ Questo itinerario attraversa le anime più diverse della Grande Mela: la frenesi
 
 ---
 
-### Midtown Manhattan: il primo incontro con la New York dei sogni
+## Midtown Manhattan: il primo incontro con la New York dei sogni
 
 Il primo impatto con New York difficilmente lascia indifferenti. Nel cuore di Manhattan tutto sembra più grande, più veloce e più luminoso.
 
@@ -28,7 +28,7 @@ Proseguendo verso nord si raggiunge il **Rockefeller Center**, uno dei complessi
 
 ---
 
-### Tra grattacieli e architettura: il fascino della Manhattan verticale
+## Tra grattacieli e architettura: il fascino della Manhattan verticale
 
 New York è una città che si guarda con il naso all'insù. I suoi grattacieli non sono soltanto edifici, ma simboli di ambizione, innovazione e creatività.
 
@@ -40,7 +40,7 @@ Per vivere Manhattan dall'alto, il **SUMMIT One Vanderbilt** offre una delle esp
 
 ---
 
-### Hudson Yards, High Line e la nuova anima di Manhattan
+## Hudson Yards, High Line e la nuova anima di Manhattan
 
 Negli ultimi anni New York ha cambiato volto anche grazie a quartieri completamente reinventati.
 
@@ -52,7 +52,7 @@ Da qui parte una delle passeggiate più belle della città: la **High Line**, un
 
 ---
 
-### Lower Manhattan: storia, memoria e rinascita
+## Lower Manhattan: storia, memoria e rinascita
 
 La parte meridionale di Manhattan racconta alcune delle pagine più importanti della storia americana.
 
@@ -64,7 +64,7 @@ Camminare tra Wall Street, Broadway e gli edifici storici di questa zona signifi
 
 ---
 
-### Libertà e oceano: dalla Statua della Libertà a Coney Island
+## Libertà e oceano: dalla Statua della Libertà a Coney Island
 
 New York non è soltanto grattacieli. La città ha anche un forte legame con l'acqua.
 
@@ -76,7 +76,7 @@ Una sosta da **Nathan's Famous**, storico locale famoso per i suoi hot dog, è u
 
 ---
 
-### Central Park e i grandi musei: la pausa verde della città
+## Central Park e i grandi musei: la pausa verde della città
 
 In mezzo ai grattacieli esiste un luogo dove New York cambia completamente ritmo.
 
@@ -88,7 +88,7 @@ Prima di lasciare questa zona vale la pena passare davanti al **Dakota Building*
 
 ---
 
-### Greenwich Village, SoHo e l'anima creativa di New York
+## Greenwich Village, SoHo e l'anima creativa di New York
 
 Esiste una New York lontana dai grandi viali e dai grattacieli, fatta di strade alberate, piccoli locali e palazzi in mattoni.
 
@@ -100,7 +100,7 @@ Una pausa da **Joe's Pizza** permette di assaggiare una delle pizze più famose 
 
 ---
 
-### Chelsea, Meatpacking District e gli ultimi angoli da scoprire
+## Chelsea, Meatpacking District e gli ultimi angoli da scoprire
 
 Gli ultimi momenti a New York possono essere dedicati a quartieri pieni di creatività.
 
@@ -112,7 +112,7 @@ Tra negozi particolari e design si possono scoprire luoghi come **Fishs Eddy**, 
 
 ---
 
-### Vivere New York in estate: un'esperienza da ricordare
+## Vivere New York in estate: un'esperienza da ricordare
 
 New York non si lascia conoscere completamente in pochi giorni, perché ogni quartiere possiede una propria identità e ogni strada può regalare una sorpresa.
 
@@ -122,7 +122,7 @@ La Grande Mela non è solo una città da fotografare. È un luogo da ascoltare, 
 
 ---
 
-### Consigli per il viaggio
+## Consigli per il viaggio
 
 Organizza le visite dividendo la città per quartieri, così da ridurre gli spostamenti e goderti meglio ogni zona.
 

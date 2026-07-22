@@ -6,7 +6,7 @@ Ma Santo Domingo non è soltanto la capitale della Repubblica Dominicana: è il 
 
 ---
 
-### La Zona Colonial: passeggiare dentro la storia
+## La Zona Colonial: passeggiare dentro la storia
 
 Il cuore della città è la splendida **Zona Colonial**, dichiarata **Patrimonio dell'Umanità UNESCO**, uno dei centri storici meglio conservati di tutto il continente americano.
 
@@ -20,7 +20,7 @@ La maestosa **Cattedrale Primada de América**, la prima cattedrale del continen
 
 ---
 
-### Una città che vive nelle sue strade
+## Una città che vive nelle sue strade
 
 La vera anima di Santo Domingo non si trova soltanto nei suoi monumenti, ma nelle persone che la abitano.
 
@@ -32,7 +32,7 @@ Questa spontaneità è forse il ricordo più bello che Santo Domingo lascia ai s
 
 ---
 
-### Il mare dei Caraibi sempre a portata di mano
+## Il mare dei Caraibi sempre a portata di mano
 
 Pur essendo una grande città, Santo Domingo conserva un rapporto profondo con il mare.
 
@@ -44,7 +44,7 @@ Qui le giornate scorrono lentamente tra bagni nelle acque cristalline, snorkelin
 
 ---
 
-### Quando il sole tramonta, Santo Domingo cambia volto
+## Quando il sole tramonta, Santo Domingo cambia volto
 
 Il momento più magico arriva quando il caldo della giornata lascia spazio alla brezza della sera.
 
@@ -56,7 +56,7 @@ Non serve conoscere i passi: qui conta soltanto lasciarsi trasportare dall'atmos
 
 ---
 
-### I sapori della Repubblica Dominicana
+## I sapori della Repubblica Dominicana
 
 Santo Domingo è anche un viaggio attraverso i sapori.
 
@@ -66,7 +66,7 @@ Ogni pasto diventa un'occasione per conoscere meglio la cultura locale, magari a
 
 ---
 
-### Un viaggio che resta nel cuore
+## Un viaggio che resta nel cuore
 
 Santo Domingo riesce a sorprendere perché non è soltanto una destinazione di mare e di sole.
 
@@ -78,6 +78,6 @@ Qui si passa con naturalezza dalla visita di monumenti antichi a un tuffo nel ma
 
 Perché Santo Domingo non è soltanto una meta da visitare: è un'emozione da vivere, un viaggio che rimane dentro molto tempo dopo il ritorno a casa.
 
-### Consigli per il viaggio
+## Consigli per il viaggio
 
 Il periodo migliore per visitare Santo Domingo è compreso tra **dicembre e aprile**, quando il clima è più secco, le temperature sono piacevoli e l'umidità è meno intensa. Dedica almeno una giornata intera alla **Zona Colonial**, esplorandola senza fretta, e concediti una serata tra i suoi locali storici per vivere l'atmosfera più autentica della città. Se hai qualche giorno in più, raggiungi **Boca Chica** o **Juan Dolio**: in meno di un'ora potrai passare dalle antiche strade coloniali alle acque cristalline dei Caraibi.

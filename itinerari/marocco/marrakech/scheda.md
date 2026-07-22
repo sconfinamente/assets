@@ -8,6 +8,6 @@ Al sorgere del sole, un **volo in mongolfiera sopra la Palmeraie** regala una pr
 
 Per chi ama l’avventura, il **deserto di Agafay** offre un’esperienza intensa tra dune di sabbia e rocce: un giro in **dune buggy** o su un **cammello** al tramonto accende i sensi e regala emozioni forti, tra il vento sul viso e la luce che trasforma il paesaggio in un quadro vivo.  
 
-### Consiglio
+## Consiglio
 
 Per cogliere l’anima autentica di Marrakech, lasciati trasportare senza meta nella Medina, osservando e ascoltando ciò che ti circonda. Alla sera, un tè alla menta su una terrazza che affaccia su Jemaa el-Fna mentre la piazza si accende di luci e suoni, diventa un momento di pura magia. Scegliere un riad tradizionale ti permetterà di vivere la città da vicino, tra cortili illuminati dalle lanterne e atmosfere intime che raccontano storie antiche.

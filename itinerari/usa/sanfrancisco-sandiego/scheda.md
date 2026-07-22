@@ -12,25 +12,25 @@ Da **San Francisco** a **San Diego**, ogni tappa racconta un volto diverso della
 
 ---
 
-### San Francisco, il punto di partenza
+## San Francisco, il punto di partenza
 
 Il viaggio prende il via da **San Francisco**, una delle città simbolo della California. Prima di partire vale la pena dedicarle almeno un paio di giorni per visitare i suoi quartieri più caratteristici, passeggiare lungo il waterfront e attraversare il celebre **Golden Gate Bridge**, che rappresenta il perfetto inizio di questa avventura.
 
 Da **Fisherman's Wharf** alle ripide strade di **Lombard Street**, passando per **North Beach**, **Chinatown** e le eleganti case vittoriane di **Alamo Square**, San Francisco offre un mix unico di cultura, storia e panorami mozzafiato.
 
-### Monterey, tra oceano e storia
+## Monterey, tra oceano e storia
 
 Seguendo la costa verso sud si raggiunge **Monterey**, una cittadina affacciata sul Pacifico che conserva il fascino dell'antico porto di pescatori.
 
 Il celebre **Cannery Row**, reso famoso dai romanzi di John Steinbeck, oggi ospita negozi, ristoranti e locali vista mare. Poco distante si trova il rinomato **Monterey Bay Aquarium**, uno dei più importanti acquari al mondo, mentre lungo il porto è facile osservare otarie, leoni marini e numerose specie di uccelli marini.
 
-### Carmel-by-the-Sea
+## Carmel-by-the-Sea
 
 A pochi minuti da Monterey sorge **Carmel-by-the-Sea**, uno dei borghi più eleganti e romantici della California.
 
 Le sue stradine sono costellate di gallerie d'arte, boutique indipendenti, piccole librerie e caffetterie, mentre la spiaggia di sabbia bianca offre uno dei panorami più suggestivi della costa californiana. È il luogo ideale per rallentare il ritmo del viaggio e concedersi una passeggiata tra il mare e le caratteristiche casette immerse nel verde.
 
-### Big Sur, il tratto più spettacolare della Highway 1
+## Big Sur, il tratto più spettacolare della Highway 1
 
 Per molti viaggiatori **Big Sur** rappresenta il momento più emozionante dell'intero itinerario.
 
@@ -38,37 +38,37 @@ Qui la Highway 1 si snoda tra scogliere vertiginose e montagne che precipitano d
 
 Ogni curva offre una prospettiva diversa sul Pacifico e invita a fermarsi per ammirare una natura ancora selvaggia e incontaminata.
 
-### Morro Bay
+## Morro Bay
 
 Proseguendo lungo la costa si arriva a **Morro Bay**, un tranquillo villaggio marinaro dominato dall'imponente **Morro Rock**, un gigantesco monolite vulcanico che emerge dalle acque del Pacifico.
 
 Il porto è animato da pescherecci, ristoranti di pesce e colonie di lontre marine che spesso si possono osservare mentre galleggiano tra le onde. L'atmosfera rilassata rende Morro Bay una delle soste più piacevoli del viaggio.
 
-### San Luis Obispo
+## San Luis Obispo
 
 Poco distante si trova **San Luis Obispo**, una cittadina universitaria famosa per il suo clima mite e l'atmosfera accogliente.
 
 Passeggiare nel centro storico significa scoprire edifici storici, mercatini, caffetterie e locali dove assaporare la cucina californiana. È una tappa perfetta per spezzare il viaggio e vivere la California più autentica, lontano dalle grandi metropoli.
 
-### Solvang
+## Solvang
 
 Lasciando la costa per qualche chilometro si raggiunge **Solvang**, un piccolo villaggio fondato da immigrati danesi che sorprende per la sua architettura europea.
 
 Mulini a vento, case a graticcio, pasticcerie tradizionali e negozi di artigianato fanno sembrare questo angolo della California un piccolo paese della Danimarca. È una sosta insolita e piacevole, ideale per una passeggiata e per assaggiare i dolci tipici della tradizione scandinava.
 
-### Santa Barbara
+## Santa Barbara
 
 Ritornando verso il mare si incontra **Santa Barbara**, una delle città più eleganti della costa californiana.
 
 Le sue spiagge, il lungomare costellato di palme e gli edifici in stile coloniale spagnolo le hanno fatto guadagnare il soprannome di "Riviera Americana". Il centro storico, ricco di ristoranti, boutique e gallerie, invita a passeggiare senza fretta, mentre il porto turistico regala splendide viste sull'oceano.
 
-### Los Angeles
+## Los Angeles
 
 Lungo il percorso non può mancare una sosta a **Los Angeles**, una metropoli immensa che racchiude infinite anime.
 
 Dalle spiagge di **Santa Monica**, **Venice Beach** e **Malibu** ai quartieri di Hollywood e Beverly Hills, la città offre un mix unico di cultura, spettacolo e vita all'aria aperta. Ogni zona ha una personalità diversa e racconta un frammento dell'immaginario californiano conosciuto in tutto il mondo.
 
-### San Diego, il gran finale
+## San Diego, il gran finale
 
 L'ultima tappa del viaggio è **San Diego**, città dal clima mite tutto l'anno e dall'atmosfera rilassata.
 
@@ -76,13 +76,13 @@ Qui il ritmo rallenta nuovamente. Le spiagge di **La Jolla**, il fascino storico
 
 È una città che invita a godersi il mare, i tramonti e la cucina locale prima di concludere uno degli itinerari più belli degli Stati Uniti.
 
-### Un viaggio che racconta la vera California
+## Un viaggio che racconta la vera California
 
 Percorrere la Highway 1 significa attraversare paesaggi sempre diversi, dove l'oceano è il filo conduttore di un viaggio ricco di emozioni. Dalle grandi città ai piccoli villaggi costieri, dalle spiagge selvagge alle scogliere di Big Sur, ogni tappa offre qualcosa di unico.
 
 È un itinerario da vivere lentamente, fermandosi nei punti panoramici, assaggiando la cucina locale e lasciandosi sorprendere da quella continua alternanza tra natura, cultura e libertà che rende la California una delle destinazioni più amate al mondo.
 
-### Consigli per il viaggio
+## Consigli per il viaggio
 
 Dedica almeno **7-10 giorni** all'itinerario per goderti ogni tappa senza fretta. Controlla sempre le condizioni della **Highway 1**, poiché occasionalmente alcuni tratti possono essere chiusi per frane o lavori di manutenzione.
 

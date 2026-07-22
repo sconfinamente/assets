@@ -1,4 +1,4 @@
-### Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia
+## Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia
 
 La **Thailandia** è un viaggio dei sensi, un equilibrio perfetto tra **spiritualità, natura e meraviglia**.  
 Da **Bangkok**, città vibrante e inarrestabile, si sale verso il **nord verde e sacro di Chiang Mai e Chiang Rai**, per poi scendere verso sud, dove **Phuket** accoglie con il profumo del mare e tramonti infiniti.  
@@ -13,7 +13,7 @@ Da **Bangkok**, città vibrante e inarrestabile, si sale verso il **nord verde e
 
 ---
 
-### Bangkok: il battito moderno della tradizione
+## Bangkok: il battito moderno della tradizione
 Nella capitale, il ritmo è incessante.  
 Tra mercati galleggianti e templi scintillanti, Bangkok regala un’immersione unica nella cultura thailandese.  
 Il **Wat Arun** e il **Wat Pho** custodiscono secoli di spiritualità e arte millenaria, mentre il **Gran Palazzo Reale** incanta con la sua architettura regale.  
@@ -23,7 +23,7 @@ Attraversare il fiume **Chao Phraya al tramonto** regala uno spettacolo indiment
 
 ---
 
-### Verso nord: Chiang Mai e Chiang Rai, tra templi e montagne
+## Verso nord: Chiang Mai e Chiang Rai, tra templi e montagne
 Un volo o un treno notturno ti porta verso il nord, dove la vita rallenta e la spiritualità si fa respiro.  
 A **Chiang Mai**, circondata da colline e foreste, i templi antichi come il **Wat Phra That Doi Suthep** emergono tra nuvole e cielo, creando un’atmosfera sospesa nel tempo.  
 Le botteghe artigiane, i mercati locali e i corsi di cucina rivelano la Thailandia più autentica, fatta di gesti semplici e tradizioni vive.
@@ -34,7 +34,7 @@ Un soggiorno in un **eco-lodge tra le risaie** è il modo migliore per immergers
 
 ---
 
-### Phuket: il sogno tropicale
+## Phuket: il sogno tropicale
 Dopo il silenzio delle montagne, il sud avvolge con il suono del mare.  
 **Phuket** è il volto solare della Thailandia: spiagge dorate, acque trasparenti e tramonti infuocati.  
 Dalle **isole Phi Phi**, scenari da film, alla **Baia di Phang Nga**, con scogliere calcaree che emergono dal mare come sculture naturali, ogni angolo è un invito a lasciarsi stupire.  
@@ -44,6 +44,6 @@ Sorseggiare un cocktail al tramonto sulla spiaggia significa chiudere il cerchio
 
 ---
 
-### Un viaggio che unisce mondi
+## Un viaggio che unisce mondi
 Dalla **frenesia urbana** alla **spiritualità delle montagne**, fino alla **pace del mare**, questo itinerario in Thailandia è un racconto di contrasti e armonie.  
 Ogni tappa è una sfumatura diversa dello stesso sorriso thailandese, quello che ti resta nel cuore molto dopo il ritorno. 🌅

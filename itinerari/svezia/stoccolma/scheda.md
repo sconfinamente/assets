@@ -4,7 +4,7 @@ L'acqua è protagonista assoluta: il lago Mälaren incontra il Mar Baltico crean
 
 ---
 
-### Gamla Stan, il cuore medievale della città
+## Gamla Stan, il cuore medievale della città
 
 Il punto di partenza ideale è **Gamla Stan**, il centro storico e l'anima più antica di Stoccolma. Le sue stradine acciottolate, le case color ocra, gialle e rosse e le piccole piazze sembrano uscite da una fiaba nordica.
 
@@ -14,7 +14,7 @@ Per vivere davvero l'atmosfera di Gamla Stan il consiglio è quello di passeggia
 
 ---
 
-### Il Museo Vasa, il simbolo di Stoccolma
+## Il Museo Vasa, il simbolo di Stoccolma
 
 Tra tutte le attrazioni cittadine, il **Museo Vasa** è probabilmente quella più iconica.
 
@@ -24,7 +24,7 @@ La visita è coinvolgente anche per chi non è appassionato di storia: il museo 
 
 ---
 
-### Djurgården, l'isola verde dei musei
+## Djurgården, l'isola verde dei musei
 
 A pochi minuti dal centro si trova **Djurgården**, un'enorme isola immersa nel verde che rappresenta il polmone della città.
 
@@ -34,7 +34,7 @@ Durante la bella stagione è una delle zone preferite dagli abitanti per fare pi
 
 ---
 
-### Södermalm, il quartiere creativo
+## Södermalm, il quartiere creativo
 
 Se Gamla Stan rappresenta la storia, **Södermalm** racconta il volto più contemporaneo della capitale.
 
@@ -44,7 +44,7 @@ Passeggiando tra le sue vie si scoprono murales, caffetterie di design e numeros
 
 ---
 
-### Il Palazzo Reale e il cambio della guardia
+## Il Palazzo Reale e il cambio della guardia
 
 Affacciato sul mare, il **Palazzo Reale** è uno dei palazzi reali più grandi d'Europa e ancora oggi rappresenta la residenza ufficiale della monarchia svedese per le cerimonie di Stato.
 
@@ -54,7 +54,7 @@ Gli interni ospitano appartamenti reali, musei e la ricca Armeria Reale, permett
 
 ---
 
-### Una città da vivere sull'acqua
+## Una città da vivere sull'acqua
 
 Uno degli aspetti più affascinanti di Stoccolma è il rapporto con l'acqua.
 
@@ -64,7 +64,7 @@ Per chi ha qualche ora in più, vale la pena partecipare a una mini crociera tra
 
 ---
 
-### Design, fika e stile di vita svedese
+## Design, fika e stile di vita svedese
 
 Visitare Stoccolma significa anche immergersi nella cultura svedese.
 
@@ -74,7 +74,7 @@ La città è inoltre una delle capitali mondiali del design: negozi di arredamen
 
 ---
 
-### Come muoversi
+## Come muoversi
 
 Gli spostamenti sono estremamente semplici grazie a una rete efficiente di metropolitana, autobus, tram e traghetti.
 
@@ -84,7 +84,7 @@ Chi ama camminare scoprirà però che gran parte delle principali attrazioni è 
 
 ---
 
-### Quando visitare Stoccolma
+## Quando visitare Stoccolma
 
 Ogni stagione offre un volto diverso della città.
 
@@ -106,7 +106,7 @@ Visitare Stoccolma in inverno significa vivere l'autentica atmosfera scandinava:
 
 ---
 
-### Perché visitare Stoccolma
+## Perché visitare Stoccolma
 
 Stoccolma conquista grazie alla sua capacità di unire eleganza, innovazione e tradizione. In pochi chilometri si passa da vicoli medievali a quartieri all'avanguardia, da musei unici al mondo a immense aree verdi affacciate sull'acqua.
 

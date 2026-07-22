@@ -10,7 +10,7 @@ Un viaggio tra armonia e disordine, tra storia e modernità, dove la libertà è
 
 Amsterdam è una città perfetta da visitare in un fine settimana. Compatta, ricca di storia e attraversata da suggestivi canali, permette di scoprire le sue principali attrazioni anche in soli due giorni. Tra musei di fama mondiale, quartieri storici, mercati e caffè affacciati sull'acqua, ogni passeggiata regala scorci unici e un'atmosfera rilassata.
 
-### Perché visitare Amsterdam
+## Perché visitare Amsterdam
 
 Amsterdam affascina per il suo equilibrio tra storia e modernità. Il centro storico, dichiarato Patrimonio UNESCO, conserva eleganti edifici del Secolo d'Oro, mentre quartieri creativi e spazi verdi raccontano il volto contemporaneo della città. Grazie alle brevi distanze e all'efficiente rete di trasporti, è una destinazione ideale anche per un weekend.
 
@@ -24,81 +24,81 @@ Amsterdam affascina per il suo equilibrio tra storia e modernità. Il centro sto
 
 ---
 
-### Piazza Dam
+## Piazza Dam
 
 Il cuore della città è Piazza Dam, dominata dal Palazzo Reale e dalla Nieuwe Kerk. È il punto di partenza ideale per iniziare a esplorare Amsterdam.
 
-### Il quartiere dei canali
+## Il quartiere dei canali
 
 Passeggia lungo Herengracht, Keizersgracht e Prinsengracht, i tre canali principali della città. Ponti, biciclette e case storiche creano uno dei paesaggi urbani più iconici d'Europa.
 
-### Jordaan
+## Jordaan
 
 Uno dei quartieri più caratteristici di Amsterdam. Le sue stradine ospitano boutique indipendenti, gallerie d'arte, caffetterie e piccoli cortili nascosti. Qui si trova anche la Casa di Anna Frank.
 
-### Casa di Anna Frank
+## Casa di Anna Frank
 
 Uno dei luoghi simbolo della città. La visita permette di conoscere la storia di Anna Frank e della sua famiglia durante la Seconda Guerra Mondiale. È consigliabile prenotare i biglietti con largo anticipo.
 
-### Tramonto lungo i canali
+## Tramonto lungo i canali
 
 Concludi la giornata passeggiando tra i canali illuminati o concedendoti una crociera serale.
 
 ---
 
-### Museumplein
+## Museumplein
 
 La piazza dei musei ospita alcune delle collezioni più importanti dei Paesi Bassi.
 
-#### Rijksmuseum
+### Rijksmuseum
 
 Il museo nazionale olandese conserva capolavori di Rembrandt, Vermeer e altri grandi maestri.
 
-#### Museo Van Gogh
+### Museo Van Gogh
 
 Una delle raccolte più complete dedicate al celebre pittore olandese.
 
-#### Vondelpark
+### Vondelpark
 
 Il principale parco cittadino è perfetto per una passeggiata o una pausa tra una visita e l'altra.
 
-#### Mercato Albert Cuyp
+### Mercato Albert Cuyp
 
 Il mercato più famoso della città offre street food, prodotti tipici, fiori e souvenir.
 
-#### De Pijp
+### De Pijp
 
 Quartiere giovane e multiculturale, ideale per fermarsi a pranzo o per un aperitivo prima di rientrare.
 
 ---
 
-### I quartieri da esplorare
+## I quartieri da esplorare
 
-#### Jordaan
+### Jordaan
 
 Atmosfera autentica, gallerie d'arte, piccoli locali e la Casa di Anna Frank.
 
-#### De Pijp
+### De Pijp
 
 Una delle zone più vivaci della città, ricca di ristoranti e mercati.
 
-#### Centro Storico
+### Centro Storico
 
 Tra Piazza Dam, i canali e le vie commerciali si concentra gran parte delle principali attrazioni.
 
-#### Quartiere dei Musei
+### Quartiere dei Musei
 
 Perfetto per gli amanti dell'arte e della cultura.
 
 ---
 
-### Come muoversi
+## Come muoversi
 
 Il centro di Amsterdam si visita facilmente a piedi o in bicicletta. Per gli spostamenti più lunghi sono disponibili tram, metropolitana e autobus, tutti ben collegati. Acquistare una carta giornaliera dei trasporti può essere conveniente per chi intende utilizzare spesso i mezzi pubblici.
 
 ---
 
-### Cosa assaggiare
+## Cosa assaggiare
 
 Durante un weekend ad Amsterdam vale la pena provare alcune specialità locali:
 
@@ -110,7 +110,7 @@ Durante un weekend ad Amsterdam vale la pena provare alcune specialità locali:
 
 ---
 
-### Consigli utili
+## Consigli utili
 
 - Prenota con anticipo i musei più famosi.
 - Porta scarpe comode: si cammina molto.
@@ -119,7 +119,7 @@ Durante un weekend ad Amsterdam vale la pena provare alcune specialità locali:
 
 ---
 
-### Conclusione
+## Conclusione
 
 Un weekend ad Amsterdam è sufficiente per lasciarsi conquistare dalla sua atmosfera rilassata, dai canali storici e dai quartieri ricchi di fascino. Tra arte, storia e buona cucina, la capitale olandese offre un perfetto equilibrio tra cultura e qualità della vita, regalando un'esperienza indimenticabile in ogni stagione.
 Al tramonto, sali su un battello per vedere Amsterdam da un’altra prospettiva, dove ogni ponte e ogni casa raccontano un frammento di storia.  

@@ -8,7 +8,7 @@ Per chi cerca spiritualità e storia, una visita al **Monastero di Santa Caterin
 
 Tra **giorni di luce e notti di quiete**, Sharm el-Sheikh è un luogo che parla al cuore: ogni colore — dall’azzurro del mare al rosso del tramonto — è un invito a vivere pienamente, a lasciarsi stupire e a creare ricordi indelebili.
 
-### Consiglio
+## Consiglio
 
 Il periodo migliore per visitare è **ottobre–aprile**.  
 Imperdibile lo snorkeling a **Ras Mohamed** e all’**Isola di Tiran**, l’escursione nel deserto al tramonto con cena beduina e tè alla menta, e la visita al **Monastero di Santa Caterina**.

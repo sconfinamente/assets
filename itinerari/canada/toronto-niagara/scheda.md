@@ -8,7 +8,7 @@ Un viaggio breve ma ricco di emozioni, dove il ritmo della città lascia lentame
 
 ---
 
-### Toronto: una metropoli multiculturale affacciata sul lago
+## Toronto: una metropoli multiculturale affacciata sul lago
 
 Toronto accoglie i suoi visitatori con un skyline moderno e affascinante, dominato dalla **CN Tower**, uno dei simboli più riconoscibili del Canada. La sua silhouette si staglia contro il cielo e accompagna lo sguardo mentre ci si muove tra le strade della città, quasi come un punto di riferimento costante durante la scoperta della metropoli.
 
@@ -18,7 +18,7 @@ Camminare per Toronto significa passare in pochi minuti da quartieri moderni e f
 
 ---
 
-### Tra quartieri creativi e atmosfere autentiche
+## Tra quartieri creativi e atmosfere autentiche
 
 Per conoscere davvero Toronto bisogna allontanarsi dalle classiche immagini dello skyline e lasciarsi guidare dai suoi quartieri più caratteristici.
 
@@ -30,7 +30,7 @@ Poco distante si trova il suggestivo **Distillery District**, un quartiere stori
 
 ---
 
-### Toronto dall'alto e il fascino del waterfront
+## Toronto dall'alto e il fascino del waterfront
 
 Uno dei momenti più emozionanti della visita è salire sulla **CN Tower** e osservare la città dall'alto. La vista permette di comprendere davvero la dimensione di Toronto: una distesa di edifici, quartieri e strade che si estende fino alle acque del lago Ontario.
 
@@ -42,7 +42,7 @@ Scendendo nuovamente a livello strada, il **lungolago** regala una delle esperie
 
 ---
 
-### Verso le Cascate del Niagara: quando la città lascia spazio alla natura
+## Verso le Cascate del Niagara: quando la città lascia spazio alla natura
 
 Lasciando Toronto alle spalle, il paesaggio cambia lentamente. I grattacieli diminuiscono, le strade diventano più tranquille e davanti agli occhi iniziano ad aprirsi gli scenari più rilassati dell'Ontario.
 
@@ -52,7 +52,7 @@ Poi, quasi improvvisamente, arriva il momento in cui il rumore dell'acqua antici
 
 ---
 
-### Le Cascate del Niagara: la potenza della natura
+## Le Cascate del Niagara: la potenza della natura
 
 Davanti alle **Cascate del Niagara** ogni parola sembra insufficiente. L'immensa quantità d'acqua che precipita continuamente crea uno spettacolo maestoso, capace di catturare lo sguardo e lasciare senza fiato.
 
@@ -62,7 +62,7 @@ Il rumore è parte integrante dell'esperienza: un fragore continuo che ricorda q
 
 ---
 
-### Vivere le cascate con tutti i sensi
+## Vivere le cascate con tutti i sensi
 
 Le Cascate del Niagara non sono semplicemente un luogo da fotografare, ma un'esperienza da vivere completamente.
 
@@ -72,7 +72,7 @@ Che siano illuminate durante la sera o avvolte dalla foschia del mattino, le cas
 
 ---
 
-### Un itinerario che racconta l'anima del Canada
+## Un itinerario che racconta l'anima del Canada
 
 Il percorso tra **Toronto e le Cascate del Niagara** racchiude in pochi giorni una delle caratteristiche più affascinanti del Canada: la capacità di unire modernità e natura senza che una prevalga sull'altra.
 

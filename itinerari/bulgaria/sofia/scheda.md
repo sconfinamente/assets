@@ -15,7 +15,7 @@ Un viaggio a Sofia a Natale è un'esperienza che unisce cultura, tradizioni loca
 
 ---
 
-### Tra mercati tradizionali e anima autentica della città
+## Tra mercati tradizionali e anima autentica della città
 
 Il nostro itinerario inizia dal **Ponte dei Leoni**, uno dei luoghi simbolo di Sofia. Questo elegante ponte, decorato con quattro statue di leoni, rappresenta uno degli accessi storici al centro cittadino e introduce perfettamente all'atmosfera della capitale bulgara.
 
@@ -25,7 +25,7 @@ Da qui si raggiunge il **Women's Market**, conosciuto localmente come Zhenski Pa
 
 ---
 
-### Un crocevia di culture nel cuore di Sofia
+## Un crocevia di culture nel cuore di Sofia
 
 Proseguendo verso il centro storico si incontrano alcuni degli edifici più rappresentativi della convivenza culturale che da sempre caratterizza Sofia.
 
@@ -37,7 +37,7 @@ Questa zona è forse il luogo dove Sofia racconta meglio la propria identità: u
 
 ---
 
-### Alla scoperta dell'antica Serdica romana
+## Alla scoperta dell'antica Serdica romana
 
 Camminando nel centro di Sofia si arriva al cuore dell'antica **Serdica**, la città romana da cui ha avuto origine l'attuale capitale bulgara.
 
@@ -49,7 +49,7 @@ Il percorso conduce poi verso il **Largo di Sofia**, uno degli angoli più sceno
 
 ---
 
-### Le icone di Sofia: chiese, monumenti e grandi viali
+## Le icone di Sofia: chiese, monumenti e grandi viali
 
 Sofia è una città profondamente legata alla spiritualità ortodossa e alcune delle sue chiese rappresentano vere e proprie opere d'arte.
 
@@ -59,7 +59,7 @@ L'itinerario prosegue tra luoghi simbolici come il **Ponte delle Aquile**, l'ele
 
 ---
 
-### Sofia a Natale: luci, mercatini e magia invernale
+## Sofia a Natale: luci, mercatini e magia invernale
 
 Quando arriva il pomeriggio e le prime luci iniziano ad accendersi, Sofia cambia volto. Il centro storico diventa ancora più affascinante grazie alle decorazioni natalizie e alle numerose iniziative organizzate durante il periodo delle feste.
 
@@ -71,7 +71,7 @@ Un'altra tappa imperdibile è il **Sofia Christmas Fest presso l'NDK (National P
 
 ---
 
-### Un weekend da vivere lentamente
+## Un weekend da vivere lentamente
 
 Sofia è una destinazione perfetta per chi cerca una capitale europea diversa dal solito, capace di offrire cultura, storia e tradizioni senza la folla delle mete più conosciute.
 

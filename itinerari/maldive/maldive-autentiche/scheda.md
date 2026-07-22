@@ -4,7 +4,7 @@ Scegliere di soggiornare su un'isola locale significa vivere le Maldive in modo 
 
 Qui il tempo ha un ritmo diverso. Ogni incontro diventa un ricordo, ogni chiacchierata un'occasione per conoscere una cultura che ha saputo conservare la propria identità nonostante il turismo internazionale. È proprio questo il privilegio di chi sceglie un'isola locale: non limitarsi ad ammirare le Maldive, ma viverle davvero.
 
-### La quotidianità di un'isola maldiviana
+## La quotidianità di un'isola maldiviana
 
 Le giornate scorrono lentamente, seguendo il ritmo dell'oceano.
 
@@ -12,7 +12,7 @@ Al mattino puoi entrare nei piccoli supermercati dove fanno la spesa gli abitant
 
 Camminando tra le vie del villaggio incontrerai pescatori che preparano le reti, bambini che tornano da scuola, famiglie sedute davanti alle proprie case e persone che ti salutano con naturalezza. Sono piccoli momenti che trasformano una vacanza in un'esperienza di vita.
 
-### Tradizioni, artigianato e cultura
+## Tradizioni, artigianato e cultura
 
 Passeggiando tra le stradine dell'isola scoprirai anche il volto più creativo delle Maldive.
 
@@ -20,7 +20,7 @@ Gli artigiani lavorano ancora oggi seguendo tecniche tramandate da generazioni: 
 
 Acquistare uno di questi oggetti significa portare con sé un ricordo autentico e contribuire direttamente all'economia della comunità che ti sta ospitando.
 
-### I sapori delle Maldive autentiche
+## I sapori delle Maldive autentiche
 
 Anche il cibo racconta una storia diversa.
 
@@ -28,7 +28,7 @@ Qui si mangia come mangiano i maldiviani. Nei piccoli ristoranti locali vengono 
 
 Non troverai i grandi buffet internazionali tipici dei resort, ma una cucina semplice, genuina e profondamente legata al territorio. Ogni piatto racconta la cultura dell'arcipelago e permette di conoscere le Maldive anche attraverso i suoi sapori.
 
-### Una giornata su un'isola locale
+## Una giornata su un'isola locale
 
 Le giornate iniziano presto, accompagnate dal rumore delle onde e dalla brezza dell'oceano. Dopo una colazione tranquilla, il villaggio prende vita: i pescatori rientrano dal mare con il pescato della notte, i bambini raggiungono la scuola, i piccoli negozi aprono le loro porte e le biciclette iniziano a percorrere le stradine di sabbia.
 
@@ -38,7 +38,7 @@ Al rientro il villaggio torna lentamente ad animarsi. È il momento ideale per f
 
 Con il tramonto le famiglie si ritrovano all'aperto, i bambini giocano sulla spiaggia, gli amici si incontrano per chiacchierare e il cielo si colora di sfumature spettacolari. È in questi momenti che ci si rende conto di quanto sia diverso vivere un'isola locale rispetto a soggiornare in un resort.
 
-### Cosa aspettarsi da un'isola locale
+## Cosa aspettarsi da un'isola locale
 
 Chi sceglie un'isola locale non cerca il lusso sfrenato, ma un'esperienza autentica.
 
@@ -48,7 +48,7 @@ Qui non troverai piscine a sfioro, ville sull'acqua o ristoranti aperti ventiqua
 
 È un modo diverso di vivere le Maldive, più semplice, più autentico e, proprio per questo, spesso molto più emozionante.
 
-### Il rispetto della cultura locale
+## Il rispetto della cultura locale
 
 Le Maldive sono un Paese musulmano e le isole locali conservano tradizioni e abitudini profondamente radicate nella vita quotidiana.
 
@@ -58,7 +58,7 @@ Non è una limitazione, ma un'occasione per avvicinarsi con rispetto alla cultur
 
 Scoprirai presto che basta davvero poco per sentirsi perfettamente a proprio agio: un sorriso, un saluto e la curiosità di conoscere uno stile di vita diverso dal nostro vengono sempre ricambiati con gentilezza e ospitalità.
 
-### Perché scegliere un'isola locale
+## Perché scegliere un'isola locale
 
 Le Maldive sono un sogno in qualsiasi modo le si viva, ma un soggiorno su un'isola locale regala qualcosa che nessun resort può offrire.
 
@@ -72,35 +72,35 @@ Di vedere bambini giocare sulla spiaggia al tramonto, artigiani intenti a realiz
 
 È il mare che tutti immaginano quando pensano alle Maldive, ma con un valore aggiunto: la possibilità di scoprire l'anima autentica dell'arcipelago e tornare a casa con ricordi che vanno ben oltre una fotografia perfetta.
 
-### Escursioni tra lagune e oceano
+## Escursioni tra lagune e oceano
 
 Soggiornare su un'isola locale non significa rinunciare alle esperienze che hanno reso celebri le Maldive. Al contrario, ogni giorno è possibile partire alla scoperta di alcuni degli scenari più spettacolari dell'Oceano Indiano.
 
-### Snorkeling nei reef e giardini sommersi
+## Snorkeling nei reef e giardini sommersi
 
 Le acque cristalline custodiscono alcune delle barriere coralline più ricche del pianeta.
 
 Maschera e pinne sono tutto ciò che serve per immergersi tra coralli variopinti, pesci tropicali, tartarughe marine e straordinari giardini sommersi, dove ogni immersione regala nuovi colori, nuove forme e nuove emozioni.
 
-### Nuotare con gli squali e incontrare le mante
+## Nuotare con gli squali e incontrare le mante
 
 Le escursioni permettono di vivere incontri davvero emozionanti con la fauna marina.
 
 Potrai nuotare insieme agli squali nutrice, animali curiosi ma innocui per l'uomo, osservare l'eleganza delle mante giganti mentre danzano nell'acqua e, nei periodi più favorevoli, vivere l'indimenticabile esperienza di incontrare il maestoso squalo balena.
 
-### Alla ricerca dei delfini
+## Alla ricerca dei delfini
 
 Quando il sole inizia a calare, molte imbarcazioni prendono il largo per cercare i delfini.
 
 Spesso sono loro ad avvicinarsi alle barche, giocando tra le onde e regalando uno spettacolo naturale che rende ogni tramonto ancora più magico.
 
-### Le spettacolari sandbank
+## Le spettacolari sandbank
 
 Tra le esperienze più iconiche ci sono le escursioni verso le sandbank, piccoli banchi di sabbia bianchissima che emergono dal mare turchese.
 
 Per qualche ora ci si ritrova circondati soltanto dall'oceano, in uno scenario quasi surreale, perfetto per rilassarsi, fare snorkeling o semplicemente lasciarsi avvolgere dal silenzio della natura.
 
-### Un viaggio che lascia il segno
+## Un viaggio che lascia il segno
 
 Ogni isola racconta una storia fatta di sorrisi, tradizioni e semplicità.
 
