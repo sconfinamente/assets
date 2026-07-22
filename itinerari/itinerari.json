@@ -27,7 +27,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720331535550",
       "cover": "https://live.staticflickr.com/65535/55050080026_618830ea7d_h.jpg"
-    }
+    },
+    "links": ["santa-claus-express","helsinki"]
   },
   {
     "codice": "santa-claus-express",
