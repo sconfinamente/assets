@@ -14,9 +14,10 @@ Non semplici accessori, ma piccoli simboli di curiosità, libertà e voglia di e
 
 ---
 
+### Un pezzo di Sconfinamente nei tuoi viaggi
+
 <div class="row">
     <div class="col-lg-8 col-md-12">
-### Un pezzo di Sconfinamente nei tuoi viaggi
 
 Abbiamo creato questi oggetti pensando a chi, come noi, ama partire, lasciarsi sorprendere dal mondo e collezionare emozioni lungo il cammino.
 
@@ -39,11 +40,11 @@ Ogni oggetto nasce proprio da quella sensazione.
 
 ---
 
+### Non sono solo oggetti, sono ricordi da portare con sé
+
 <div class="row">
     <div class="col-lg-4 col-md-12"><img style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/zaino.webp" /><img style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/borsa.webp" /></div>
     <div class="col-lg-8 col-md-12">
-### Non sono solo oggetti, sono ricordi da portare con sé
-
 Il logo **Sconfinamente** non rappresenta soltanto un nome.
 
 Rappresenta un modo di guardare il mondo:
