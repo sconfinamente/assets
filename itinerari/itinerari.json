@@ -72,7 +72,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334737204",
       "cover": "https://live.staticflickr.com/65535/55399191068_6a5e750de1_z.jpg"
-    }
+    },
+    "links": ["lapponia-rovaniemi","helsinki"]
   },
   {
     "codice": "helsinki",
@@ -125,7 +126,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334729068",
       "cover": "https://live.staticflickr.com/65535/55399008041_595caac43a_z.jpg"
-    }
+    },
+    "links": ["santa-claus-express","lapponia-rovaniemi"]
   },
   {
     "codice": "stoccolma",
@@ -253,7 +255,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330393356",
       "cover": "https://live.staticflickr.com/65535/54930853642_d481405c33_c.jpg"
-    }
+    },
+    "links": ["new-york-estate"]
   },
   {
     "codice": "sanfrancisco-sandiego",
@@ -279,7 +282,8 @@
         "url": "https://www.tiktok.com/@sconfinamente/video/7580699995805011222",
         "titolo": "San Diego, CA"
       }
-    ]
+    ],
+    "links": ["sanfrancisco-lasvegas"]
   },
   {
     "codice": "sanfrancisco-lasvegas",
@@ -301,7 +305,8 @@
         "url": "https://www.tiktok.com/@sconfinamente/video/7630390728908213526",
         "titolo": "San Francisco Cable car"
       }
-    ]
+    ],
+    "links": ["sanfrancisco-sandiego"]
   },
   {
     "codice": "unusual-london",
@@ -339,7 +344,8 @@
         "url": "https://www.tiktok.com/@sconfinamente/video/7563035894865857814",
         "titolo": "Aura Skypool Dubai"
       }
-    ]
+    ],
+    "links": ["abu-dhabi"]
   },
   {
     "codice": "abu-dhabi",
@@ -352,7 +358,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330382383",
       "cover": "https://live.staticflickr.com/65535/54928325417_df1363f7d0_c.jpg"
-    }
+    },
+    "links": ["dubai"]
   },
   {
     "codice": "chicago",
@@ -404,7 +411,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334592852",
       "cover": "https://live.staticflickr.com/65535/55383240998_b839b41c49_c.jpg"
-    }
+    },
+    "links": ["new-york-christmas"]
   },
   {
     "codice": "zaanse-schans",
@@ -416,7 +424,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334589885",
       "cover": "https://live.staticflickr.com/65535/55383225039_b11599cfc5_c.jpg"
-    }
+    },
+    "links": ["amsterdam"]
   },   
   {
     "codice": "amsterdam",
@@ -428,7 +437,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330584409",
       "cover": "https://live.staticflickr.com/65535/54947883456_4be5b5280d_c.jpg"
-    }
+    },
+    "links": ["zaanse-schans"]
   }, 
   {
     "codice": "transilvania-maramures",
@@ -441,7 +451,8 @@
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330606764",
       "cover": "https://live.staticflickr.com/65535/54950135256_7987d9db81_c.jpg"
     },
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7653793294480117014"
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7653793294480117014",
+    "links": ["transilvania"]
   },
   {
     "codice": "uk-south",
@@ -454,7 +465,8 @@
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330531603",
       "cover": "https://live.staticflickr.com/65535/54943422636_01d7b9ac4f_c.jpg"
     },
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7635618653957901590"
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7635618653957901590",
+    "links": ["london-christmas","unusual-london"]
   },
   {
     "codice": "transilvania",
@@ -467,7 +479,8 @@
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720330576916",
       "cover": "https://live.staticflickr.com/65535/54950087326_004278b91e_c.jpg"
     },
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7625765415830048022"
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7625765415830048022",
+    "links": ["transilvania-maramures"]
   },
   {
     "codice": "london-christmas",
@@ -475,7 +488,8 @@
     "titolo": "Natale a Londra: luci, mercatini e atmosfere",
     "descrizione": "Vivi il Natale a Londra tra le luci di Oxford Street, i mercatini di Hyde Park e il fascino del Tamigi illuminato. Esperienze magiche e atmosfere da sogno nella capitale inglese durante le feste.",
     "keywords": ["Natale Londra", "mercatini di Natale Londra", "Oxford Street luci Natale", "viaggio inverno Londra", "Hyde Park mercatini", "Tamigi Londra Natale"],
-    "meta_description": "Scopri Londra a Natale tra luci, mercatini e il Tamigi illuminato. Un viaggio indimenticabile tra atmosfere magiche e feste nella capitale inglese."
+    "meta_description": "Scopri Londra a Natale tra luci, mercatini e il Tamigi illuminato. Un viaggio indimenticabile tra atmosfere magiche e feste nella capitale inglese.",
+    "links": ["uk-south","unusual-london"]
   },
   {
     "codice": "santo-domingo",
