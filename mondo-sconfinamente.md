@@ -8,12 +8,15 @@ Rimane nei ricordi, nelle fotografie, nei racconti che continuiamo a condividere
 
 Da questa idea nasce il **mondo Sconfinamente**: una raccolta di oggetti personalizzati che racchiudono lo spirito del nostro progetto.
 
+Dai **coprivaligia** agli **zaini**, passando per **t-shirt**, **felpe**, **portamonete**, **cappellini**, **penne** e altri accessori da viaggio, ogni oggetto è stato pensato per accompagnarci nelle nostre avventure e trasformare un progetto nato sul web in qualcosa di concreto, da portare sempre con sé.
+
 Non semplici accessori, ma piccoli simboli di curiosità, libertà e voglia di esplorare.
 
 ---
 
 ### Un pezzo di Sconfinamente nei tuoi viaggi
-
+<div class="row">
+    <div class="col-lg-6 col-md-12">
 Abbiamo creato questi oggetti pensando a chi, come noi, ama partire, lasciarsi sorprendere dal mondo e collezionare emozioni lungo il cammino.
 
 Una maglietta indossata durante una nuova avventura, una felpa che accompagna una giornata fredda tra paesaggi innevati, un accessorio che diventa il compagno di viaggio nelle prossime destinazioni.
@@ -21,6 +24,19 @@ Una maglietta indossata durante una nuova avventura, una felpa che accompagna un
 Ogni elemento racconta una storia.
 
 Una storia fatta di strade percorse, luoghi scoperti e momenti da ricordare.
+
+Ma c'è anche un altro motivo che ci ha spinti a creare questa collezione.
+
+Non volevamo realizzare un semplice merchandising.
+
+Volevamo dare forma a quell'emozione che tutti i viaggiatori conoscono bene: il momento in cui si prepara lo zaino, si chiude la valigia e si guarda il biglietto con la consapevolezza che una nuova avventura sta per cominciare.
+
+Ogni oggetto nasce proprio da quella sensazione.
+    </div>
+    <div class="col-lg-6 col-md-12">
+        <img src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/images/francesca-aurora.webp">
+    </div>    
+</div>
 
 ---
 
@@ -37,13 +53,15 @@ Rappresenta un modo di guardare il mondo:
 
 Questi oggetti nascono proprio da questo desiderio: trasformare un progetto fatto di racconti, fotografie e itinerari in qualcosa di reale, da vivere anche lontano dallo schermo.
 
+Ogni volta che uno di questi accessori partirà con noi, porterà con sé un pezzetto della nostra storia e di tutte le esperienze che hanno dato vita a Sconfinamente.
+
 ---
 
 ### Creati per noi, pensati per chi ama viaggiare
 
-Sono gli oggetti che ci accompagnano nelle nostre avventure.
+Sono gli oggetti che ci accompagneranno nelle nostre avventure.
 
-Dalla magia della Lapponia ai colori delle grandi città, dai piccoli borghi nascosti agli angoli più lontani del mondo, Sconfinamente continua a viaggiare insieme a chi ama scoprire.
+Dalla magia della Lapponia ai colori delle grandi città, dai piccoli borghi nascosti agli angoli più lontani del mondo, Sconfinamente continuerà a viaggiare insieme a chi ama scoprire.
 
 Perché ogni viaggio lascia una traccia.
 
@@ -63,6 +81,12 @@ Noi continueremo a partire, raccontare e condividere il nostro modo di viaggiare
 
 E ora anche attraverso piccoli oggetti che portano con sé un pezzetto di Sconfinamente.
 
+Nei prossimi mesi li vedrai comparire nelle fotografie, nei video e nei racconti dei nostri viaggi.
+
+Li troverai tra le strade di una capitale europea, davanti a un'aurora boreale, su una spiaggia tropicale, durante un trekking in montagna o appoggiati su un tavolino mentre programmiamo la prossima partenza.
+
+Perché il modo migliore per raccontare Sconfinamente non è mostrarne il logo, ma continuare a viverlo, un viaggio dopo l'altro.
+
 **Perché il viaggio continua anche dopo il ritorno.**
 
-E qualche volta basta un piccolo dettaglio per sentirsi ancora lontani, con lo zaino pronto e la prossima destinazione davanti agli occhi.
+E qualche volta basta un piccolo dettaglio per sentirsi ancora lontani, con lo zaino pronto e la prossima destinazione già davanti agli occhi.
