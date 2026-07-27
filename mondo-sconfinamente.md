@@ -33,9 +33,7 @@ Volevamo dare forma a quell'emozione che tutti i viaggiatori conoscono bene: il 
 
 Ogni oggetto nasce proprio da quella sensazione.
     </div>
-    <div class="col-lg-6 col-md-12">
-        <img src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/images/francesca-aurora.webp">
-    </div>    
+    <div class="col-lg-6 col-md-12"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/images/francesca-aurora.webp" /></div>
 </div>
 
 ---
