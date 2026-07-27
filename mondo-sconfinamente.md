@@ -16,9 +16,8 @@ Non semplici accessori, ma piccoli simboli di curiosità, libertà e voglia di e
 
 ### Un pezzo di Sconfinamente nei tuoi viaggi
 
-<div class="row">
-    <div class="col-lg-8 col-md-12">
-Abbiamo creato questi oggetti pensando a chi, come noi, ama partire, lasciarsi sorprendere dal mondo e collezionare emozioni lungo il cammino.
+<div class="row align-items-start">
+    <div class="col-lg-8 col-md-12">Abbiamo creato questi oggetti pensando a chi, come noi, ama partire, lasciarsi sorprendere dal mondo e collezionare emozioni lungo il cammino.
 
 Una maglietta indossata durante una nuova avventura, una felpa che accompagna una giornata fredda tra paesaggi innevati, un accessorio che diventa il compagno di viaggio nelle prossime destinazioni.
 
@@ -32,17 +31,15 @@ Non volevamo realizzare un semplice merchandising.
 
 Volevamo dare forma a quell'emozione che tutti i viaggiatori conoscono bene: il momento in cui si prepara lo zaino, si chiude la valigia e si guarda il biglietto con la consapevolezza che una nuova avventura sta per cominciare.
 
-Ogni oggetto nasce proprio da quella sensazione.
-    </div>
-<div class="col-lg-4 col-md-12"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/luggage-cover.webp" /></div>
+Ogni oggetto nasce proprio da quella sensazione.</div><div class="col-lg-4 col-md-12"><img class="img-fluid rounded shadow-sm" style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/luggage-cover.webp" /></div>
 </div>
 
 ---
 
 ### Non sono solo oggetti, sono ricordi da portare con sé
 
-<div class="row">
-    <div class="col-lg-4 col-md-12"><img style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/zaino.webp" /></div>
+<div class="row align-items-start">
+    <div class="col-lg-4 col-md-12"><img class="img-fluid rounded shadow-sm" style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/zaino.webp" /></div>
     <div class="col-lg-8 col-md-12">
 Il logo **Sconfinamente** non rappresenta soltanto un nome.
 
@@ -63,7 +60,7 @@ Ogni volta che uno di questi accessori partirà con noi, porterà con sé un pez
 
 ### Creati per noi, pensati per chi ama viaggiare
 
-<div class="row">
+<div class="row align-items-start">
     <div class="col-lg-8 col-md-12">
 Sono gli oggetti che ci accompagneranno nelle nostre avventure.
 
@@ -77,7 +74,111 @@ A volte è un ricordo.
 
 A volte è un piccolo oggetto che ci fa sorridere e ci ricorda che c'è sempre una nuova destinazione da raggiungere.
     </div>
-    <div class="col-lg-4 col-md-12"><img style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/borsa.webp" /></div>    
+    <div class="col-lg-4 col-md-12"><img class="img-fluid rounded shadow-sm" style="max-width: 100%; margin-bottom: 1em;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/borsa.webp" /></div>    
+</div>
+
+---
+
+## La collezione Sconfinamente
+
+Ogni viaggio è diverso.
+
+C'è quello che parte all'alba con uno zaino in spalla, quello che inizia davanti al tabellone delle partenze di un aeroporto e quello che nasce semplicemente sfogliando una mappa e immaginando la prossima destinazione.
+
+Per accompagnare questi momenti abbiamo creato una piccola collezione di oggetti che utilizzeremo durante i nostri viaggi e che raccontano il modo in cui viviamo ogni nuova partenza.
+
+Non sono semplici accessori: sono compagni di viaggio pensati per essere vissuti, fotografati e portati con noi in giro per il mondo.
+
+---
+
+### 👕 T-shirt e Felpe
+
+<div class="row align-items-start">
+
+<div class="col-12">
+Le nostre <strong>t-shirt</strong> e <strong>felpe</strong> sono pensate per accompagnarci in ogni stagione.
+
+Una passeggiata tra i vicoli di una capitale europea, un tramonto sul mare, una giornata trascorsa tra i mercatini di Natale o una serata davanti a un falò dopo una lunga escursione.
+
+Non rappresentano semplicemente un logo, ma un modo di vivere il viaggio con curiosità, semplicità e voglia di scoprire.
+</div>
+<div class="col-12">
+  <div class="d-flex justify-content-center gap-3 mb-3"><img class="img-fluid rounded shadow-sm" style="max-width:25%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/t-shirt-front.webp"/><img class="img-fluid rounded shadow-sm" style="max-width:25%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/t-shirt-back.webp"/><img class="img-fluid rounded shadow-sm" style="max-width:25%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/felpa-front.webp"/><img class="img-fluid rounded shadow-sm"style="max-width:20%;"src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/felpa-back.webp"/></div></div>
+</div>
+
+---
+
+### 🧢 Cappellino
+
+<div class="row align-items-start">
+
+<div class="col-lg-4 col-md-12">
+
+<img class="img-fluid rounded shadow-sm" style="max-width:100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/cappellino.webp" />
+
+</div>
+
+<div class="col-lg-8 col-md-12">
+Ci sono accessori che finiscono nello zaino e altri che diventano parte del viaggio.
+
+Il cappellino nasce proprio con questa idea: accompagnarci durante le giornate più calde, proteggendoci dal sole mentre esploriamo una città, percorriamo un sentiero o ci rilassiamo davanti al mare.
+
+Piccolo, leggero e sempre pronto a partire.
+
+</div>
+
+</div>
+
+---
+
+### 💰 Portamonete e Penna
+
+<div class="row align-items-start">
+
+<div class="col-lg-8 col-md-12">
+
+Anche i dettagli raccontano una storia.
+
+Il <strong>portamonete</strong> custodisce quelle piccole cose che durante un viaggio utilizziamo continuamente: monete, banconote, tessere, biglietti o ricordi raccolti lungo il cammino.
+
+La <strong>penna</strong>, invece, è dedicata a chi ama annotare un indirizzo trovato per caso, il nome di un ristorante scoperto passeggiando o semplicemente fissare su carta un'emozione prima che il tempo la trasformi in ricordo.
+
+Perché ogni viaggio merita di essere raccontato.
+
+</div>
+
+<div class="col-lg-4 col-md-12">
+
+<img class="img-fluid rounded shadow-sm" style="max-width:100%;margin-bottom:1rem;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/portaspicci.webp" />
+
+<img class="img-fluid rounded shadow-sm" style="max-width:100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/penna.webp" />
+
+</div>
+
+</div>
+
+---
+
+### 🏷️ Targhetta bagaglio
+
+<div class="row align-items-start">
+
+<div class="col-lg-4 col-md-12">
+
+<img class="img-fluid rounded shadow-sm" style="max-width:100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/luggage-tag.webp" />
+
+</div>
+
+<div class="col-lg-8 col-md-12">
+
+Ogni viaggio inizia davanti a una valigia.
+
+La <strong>targhetta bagaglio</strong> è uno di quegli accessori semplici ma indispensabili, pensata per rendere immediatamente riconoscibile il nostro bagaglio e accompagnarci tra aeroporti, stazioni e nuove destinazioni.
+
+Un piccolo dettaglio che racconta, ancora prima di partire, la voglia di esplorare il mondo.
+
+</div>
+
 </div>
 
 ---
