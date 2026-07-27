@@ -61,10 +61,10 @@ Ogni volta che uno di questi accessori partirà con noi, porterà con sé un pez
 
 ---
 
-<div class="row">
-    <div class="col-lg-8 col-md-12">
 ### Creati per noi, pensati per chi ama viaggiare
 
+<div class="row">
+    <div class="col-lg-8 col-md-12">
 Sono gli oggetti che ci accompagneranno nelle nostre avventure.
 
 Dalla magia della Lapponia ai colori delle grandi città, dai piccoli borghi nascosti agli angoli più lontani del mondo, Sconfinamente continuerà a viaggiare insieme a chi ama scoprire.
