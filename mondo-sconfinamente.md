@@ -33,13 +33,16 @@ Volevamo dare forma a quell'emozione che tutti i viaggiatori conoscono bene: il 
 
 Ogni oggetto nasce proprio da quella sensazione.
     </div>
-    <div class="col-lg-6 col-md-12"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/images/francesca-aurora.webp" /></div>
+    <div class="col-lg-6 col-md-12"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/zaino.webp" /><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/borsa.webp" /></div>
 </div>
 
 ---
 
 ### Non sono solo oggetti, sono ricordi da portare con sé
 
+<div class="row">
+<div class="col-lg-6 col-md-12"><img style="max-width: 100%;" src="https://raw.githubusercontent.com/SconfinaMente/assets/refs/heads/main/merch/luggage-cover.webp" /></div>
+    <div class="col-lg-6 col-md-12">
 Il logo **Sconfinamente** non rappresenta soltanto un nome.
 
 Rappresenta un modo di guardare il mondo:
@@ -52,7 +55,9 @@ Rappresenta un modo di guardare il mondo:
 Questi oggetti nascono proprio da questo desiderio: trasformare un progetto fatto di racconti, fotografie e itinerari in qualcosa di reale, da vivere anche lontano dallo schermo.
 
 Ogni volta che uno di questi accessori partirà con noi, porterà con sé un pezzetto della nostra storia e di tutte le esperienze che hanno dato vita a Sconfinamente.
-
+    </div>
+</div>
+    
 ---
 
 ### Creati per noi, pensati per chi ama viaggiare
