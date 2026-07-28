@@ -220,7 +220,11 @@
     "descrizione": "Visita Cracovia tra piazze storiche, monumenti e i luoghi di memoria di Auschwitz. Un viaggio che unisce storia, musica e atmosfere indimenticabili nel cuore della Polonia.",
     "keywords": ["Cracovia viaggio", "cosa vedere Cracovia", "Auschwitz", "Auschwitz visita", "memoria storica Polonia", "piazze Cracovia", "turismo culturale Polonia"],
     "meta_description": "Esplora Cracovia tra piazze storiche e Auschwitz. Un viaggio tra memoria, storia e cultura nel cuore della Polonia con esperienze indimenticabili.",
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7600106607384497430"
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7600106607384497430",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334901609",
+      "cover": "https://live.staticflickr.com/65535/55425710644_b746ca1f59_c.jpg"
+    }
   },
   {
     "codice": "marrakech",
