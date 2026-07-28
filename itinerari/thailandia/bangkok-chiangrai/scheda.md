@@ -1,5 +1,3 @@
-## Tra templi d’oro, giungle e mare cristallino: un viaggio che racchiude l’anima della Thailandia
-
 La **Thailandia** è un viaggio dei sensi, un equilibrio perfetto tra **spiritualità, natura e meraviglia**.  
 Da **Bangkok**, città vibrante e inarrestabile, si sale verso il **nord verde e sacro di Chiang Mai e Chiang Rai**, per poi scendere verso sud, dove **Phuket** accoglie con il profumo del mare e tramonti infiniti.  
 
