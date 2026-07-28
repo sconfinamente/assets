@@ -406,7 +406,11 @@
         "url": "https://www.tiktok.com/@sconfinamente/video/7645606341351869729",
         "titolo": "The Heidelberg Poject"
       }
-    ]
+    ],
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334872380",
+      "cover": "https://live.staticflickr.com/65535/55425779508_a7c5cbf658_c.jpg"
+    }
   },
   {
     "codice": "toronto-niagara",

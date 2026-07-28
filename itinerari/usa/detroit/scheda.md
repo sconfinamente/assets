@@ -1,5 +1,3 @@
-# Detroit: la rinascita della Motor City tra musica, motori, street art e luoghi iconici
-
 C'è una città negli Stati Uniti che ha saputo cadere, reinventarsi e tornare a brillare senza mai dimenticare le proprie radici. **Detroit**, conosciuta in tutto il mondo come la **Motor City**, è molto più della capitale dell'automobile: è la culla della **Motown**, la città che ha dato i natali a **Eminem**, il luogo dove sono nati alcuni dei marchi automobilistici più importanti del pianeta e una metropoli che oggi sorprende con quartieri creativi, murales giganteschi, locali storici e una scena culturale in continua evoluzione.
 
 Visitare Detroit significa andare oltre gli stereotipi e scoprire una città autentica, fatta di persone orgogliose della propria storia, di edifici Art Déco che raccontano il passato industriale americano e di una straordinaria energia creativa che si respira in ogni quartiere.
