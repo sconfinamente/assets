@@ -330,7 +330,8 @@
     "flickr": {
       "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334875817",
       "cover": "https://live.staticflickr.com/65535/55424513477_a6a10a73ca_c.jpg"
-    }
+    },
+    "links": ["london-christmas","uk-south"]
   },
   {
     "codice": "tra-le-strade-di-parigi",
@@ -338,7 +339,11 @@
     "titolo": "Tra le strade di Parigi",
     "descrizione": "Passeggia tra vicoli, piazze e angoli nascosti di Parigi. Scopri arte, architettura e atmosfera romantica della città, lasciandoti sorprendere da esperienze uniche e momenti indimenticabili.",
     "keywords": ["Parigi viaggio", "cosa vedere Parigi", "tour Parigi", "vicoli Parigi", "arte Parigi", "atmosfera romantica Parigi", "esperienze Parigi"],
-    "meta_description": "Esplora Parigi tra vicoli, piazze e arte. Vivi atmosfere romantiche e momenti indimenticabili nella città delle luci con esperienze autentiche."
+    "meta_description": "Esplora Parigi tra vicoli, piazze e arte. Vivi atmosfere romantiche e momenti indimenticabili nella città delle luci con esperienze autentiche.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334872720",
+      "cover": "https://live.staticflickr.com/65535/55425877634_90e5edfbfd_z.jpg"
+    }
   },
     {
     "codice": "dubai",
@@ -537,7 +542,11 @@
     "titolo": "Sharm el-Sheikh: tra deserto e barriera corallina",
     "descrizione": "Tra le acque turchesi del Mar Rosso e il silenzio del Sinai, Sharm el-Sheikh unisce relax, immersioni e avventura. Scopri paesaggi sottomarini, spiagge paradisiache e atmosfere mistiche.",
     "keywords": ["Sharm el-Sheikh viaggio", "Mar Rosso immersioni", "deserto Sinai", "spiagge Sharm el-Sheikh", "relax Egitto", "turismo avventura Sharm", "escursioni Sharm el-Sheikh"],
-    "meta_description": "Scopri Sharm el-Sheikh tra Mar Rosso, deserto e spiagge paradisiache. Relax, immersioni e avventura in un viaggio indimenticabile in Egitto."
+    "meta_description": "Scopri Sharm el-Sheikh tra Mar Rosso, deserto e spiagge paradisiache. Relax, immersioni e avventura in un viaggio indimenticabile in Egitto.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334872615",
+      "cover": "https://live.staticflickr.com/65535/55426084220_4098e643da_z.jpg"
+    }    
   },  
   {
     "codice": "bangkok-chiangrai",
