@@ -384,7 +384,11 @@
     "descrizione": "Esplora Chicago tra skyline iconici, architettura mozzafiato, lungolago e il celebre Navy Pier. Una città vibrante che unisce cultura, divertimento e panorami indimenticabili sul Lago Michigan.",
     "keywords": ["Chicago viaggio", "cosa vedere Chicago", "architettura Chicago", "Navy Pier Chicago", "lungolago Chicago", "skyline Chicago", "tour Chicago"],
     "meta_description": "Vivi Chicago tra architettura iconica, Navy Pier e lungolago. Scopri la città vibrante sul Lago Michigan con esperienze uniche e panorami mozzafiato.",
-    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7580482672749923587"
+    "tiktok": "https://www.tiktok.com/@sconfinamente/video/7580482672749923587",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334893328",
+      "cover": "https://live.staticflickr.com/65535/55425808359_288245418b_c.jpg"
+    }
   },
   {
     "codice": "detroit",
