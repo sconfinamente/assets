@@ -314,7 +314,11 @@
     "titolo": "Londra insolita: arte urbana e angoli nascosti",
     "descrizione": "Scopri la Londra più autentica e sorprendente: tunnel di graffiti, canali silenziosi, cortili segreti e le note di Camden Town. Un itinerario per chi cerca esperienze uniche e fuori dal comune.",
     "keywords": ["Londra insolita", "arte urbana Londra", "Camden Town Londra", "canali Londra", "tour Londra alternativo", "angoli nascosti Londra"],
-    "meta_description": "Vivi Londra insolita tra arte urbana, Camden Town, canali e cortili segreti. Un viaggio unico e sorprendente fuori dal comune nella capitale inglese."
+    "meta_description": "Vivi Londra insolita tra arte urbana, Camden Town, canali e cortili segreti. Un viaggio unico e sorprendente fuori dal comune nella capitale inglese.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334875817",
+      "cover": "https://live.staticflickr.com/65535/55424513477_a6a10a73ca_c.jpg"
+    }
   },
   {
     "codice": "tra-le-strade-di-parigi",
