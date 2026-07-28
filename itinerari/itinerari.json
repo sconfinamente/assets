@@ -211,7 +211,11 @@
     "titolo": "Berlino: storia, arte urbana e libertà",
     "descrizione": "Tra resti del passato e creatività senza confini, Berlino è un viaggio tra storia, murales, arte urbana e vita vibrante. Scopri una città che unisce memoria, innovazione e cultura contemporanea.",
     "keywords": ["Berlino viaggio", "arte urbana Berlino", "murales Berlino", "storia Berlino", "cultura Berlino", "tour Berlino", "viaggio urbano Berlino"],
-    "meta_description": "Scopri Berlino tra storia, arte urbana e murales. Un viaggio tra cultura, creatività e libertà nella capitale vibrante della Germania."
+    "meta_description": "Scopri Berlino tra storia, arte urbana e murales. Un viaggio tra cultura, creatività e libertà nella capitale vibrante della Germania.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720334876347",
+      "cover": "https://live.staticflickr.com/65535/55425566161_44c274a044_c.jpg"
+    }
   },
   {
     "codice": "cracovia-auschwitz",
