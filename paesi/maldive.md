@@ -1,5 +1,3 @@
-# Maldive
-
 Le Maldive non sono soltanto resort di lusso. Dietro alle iconiche water villa si nasconde un arcipelago autentico fatto di isole locali, villaggi di pescatori e una popolazione estremamente accogliente.
 
 Qui puoi nuotare con mante e squali nutrice, esplorare reef corallini spettacolari, raggiungere sandbank incontaminati e vivere tramonti indimenticabili.
