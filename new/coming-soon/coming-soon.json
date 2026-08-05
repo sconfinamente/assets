@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "seattle",
+    "titolo": "Seattle",
+    "paese": "Stati Uniti",
+    "descrizione": "Stiamo preparando una guida completa alla Città di Smeraldo, tra skyline iconici, caffetterie storiche, mercati, quartieri vivaci e panorami sul Pacifico.",
+    "immagine": "/images/coming-soon/seattle",
+    "emoji": "🌧️",
+    "colore": "#3b82f6",
+    "percentuale": 85,
+    "curiosita": [
+      "☕ Alla scoperta del primo Starbucks",
+      "🐟 Il celebre Pike Place Market",
+      "🌆 Tramonti dal Kerry Park",
+      "🚢 Escursioni tra i ferry dello Stato di Washington"
+    ]
+  },
+  {
+    "slug": "olympic-peninsula",
+    "titolo": "Olympic Peninsula",
+    "paese": "Stati Uniti",
+    "descrizione": "Una guida dedicata alla natura più selvaggia dello Stato di Washington, tra foreste pluviali, spiagge incontaminate, montagne e laghi cristallini.",
+    "immagine": "/images/coming-soon/olympic-peninsula",
+    "emoji": "🌲",
+    "colore": "#16a34a",
+    "percentuale": 70,
+    "curiosita": [
+      "🌿 La magica Hoh Rain Forest",
+      "🏖️ Le spiagge di Rialto e Ruby Beach",
+      "🦌 Avvistare cervi, aquile e balene",
+      "🥾 I sentieri dell'Olympic National Park"
+    ]
+  },
+  {
+    "slug": "twilight",
+    "titolo": "Sulle tracce di Twilight",
+    "paese": "Stati Uniti",
+    "descrizione": "Un itinerario dedicato ai luoghi che hanno ispirato la celebre saga di Twilight, tra Forks, La Push, foreste nebbiose e paesaggi che sembrano usciti direttamente dai film.",
+    "immagine": "/images/coming-soon/twilight",
+    "emoji": "🌙",
+    "colore": "#6c5ce7",
+    "percentuale": 55,
+    "curiosita": [
+      "🧛 Visitare la cittadina di Forks",
+      "🌊 Passeggiare sulle spiagge di La Push",
+      "🌲 Le foreste che hanno ispirato la saga",
+      "📸 Tutti gli spot imperdibili per i fan"
+    ]
+  },
+  {
+    "slug": "the-last-of-us",
+    "titolo": "Nel mondo di The Last of Us",
+    "paese": "Stati Uniti",
+    "descrizione": "Un viaggio tra le location reali che hanno ispirato o rappresentato il mondo di The Last of Us, con un focus speciale sulla Seattle del secondo capitolo.",
+    "immagine": "/images/coming-soon/the-last-of-us",
+    "emoji": "🍄",
+    "colore": "#4b5563",
+    "percentuale": 40,
+    "curiosita": [
+      "🎮 I luoghi di Seattle esplorati nel gioco",
+      "🏚️ Le ambientazioni post-apocalittiche",
+      "📷 Confronto tra realtà e videogioco",
+      "🧭 Un itinerario per i fan della saga"
+    ]
+  }
+]

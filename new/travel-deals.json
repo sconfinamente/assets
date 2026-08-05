@@ -1,0 +1,54 @@
+[
+  {
+    "destinazione": "Madeira",
+    "paese": "Portogallo",
+    "partenza": "Roma",
+    "prezzo": 49,
+    "periodo": "Fine settembre",
+    "durata": "4-5 giorni",
+    "descrizione": "L'isola perfetta per chi cerca natura, trekking e oceano con temperature ideali.",
+    "link": "/itinerari/portogallo/madeira",
+    "tag": "Miglior prezzo",
+    "visibleUntil": "2026-09-25",
+    "priority": 1
+  },
+  {
+    "destinazione": "Cracovia",
+    "paese": "Polonia",
+    "partenza": "Roma",
+    "prezzo": 29,
+    "periodo": "Ottobre",
+    "durata": "Weekend",
+    "descrizione": "Una delle città europee con il miglior rapporto qualità-prezzo.",
+    "link": "/itinerari/polonia/cracovia",
+    "tag": "Weekend",
+    "visibleUntil": "2026-10-15",
+    "priority": 2
+  },
+  {
+    "destinazione": "Stoccolma",
+    "paese": "Svezia",
+    "partenza": "Roma",
+    "prezzo": 59,
+    "periodo": "Inizio dicembre",
+    "durata": "3-4 giorni",
+    "descrizione": "Mercatini di Natale, atmosfera nordica e giornate perfette per una fuga invernale.",
+    "link": "/itinerari/svezia/stoccolma",
+    "tag": "Natale",
+    "visibleUntil": "2026-12-15",
+    "priority": 3
+  },
+  {
+    "destinazione": "Parigi",
+    "paese": "Francia",
+    "partenza": "Roma",
+    "prezzo": 59,
+    "periodo": "Ponte 8 dicembre",
+    "durata": "3-4 giorni",
+    "descrizione": "Mercatini di Natale a Parigi.",
+    "link": "/itinerari/francia/parigi",
+    "tag": "Natale",
+    "visibleUntil": "2026-12-15",
+    "priority": 3
+  }
+]

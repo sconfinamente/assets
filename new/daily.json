@@ -1,0 +1,127 @@
+[
+  {
+    "codice": "lapponia-rovaniemi",
+    "paese": "finlandia",
+    "message": "Tra foreste innevate e cieli che si accendono di aurore boreali, la Lapponia sussurra il silenzio del Nord."
+  },
+  {
+    "codice": "helsinki",
+    "paese": "finlandia",
+    "message": "Helsinki accoglie con discrezione, eppure ogni angolo racconta la luce, il mare e il design nordico."
+  },
+  {
+    "codice": "stoccolma",
+    "paese": "svezia",
+    "message": "Stoccolma si svela tra isole, musei iconici e il fascino del design scandinavo."
+  },
+  {
+    "message": "Lasciati sorprendere dal contrasto tra deserto e mare, dove il futuro incontra la tradizione.",
+    "paese": "uae",
+    "codice": "abu-dhabi"
+  },
+  {
+    "message": "Ogni tramonto a Dubai è un invito a sognare più in grande.",
+    "paese": "uae",
+    "codice": "dubai"
+  },
+  {
+    "message": "C’è un posto dove le luci non si spengono mai: Natale a New York.",
+    "paese": "usa",
+    "codice": "new-york-christmas"
+  },
+  {
+    "message": "A volte la pace ha il suono delle onde sulle isole maldiviane.",
+    "paese": "maldive",
+    "codice": "maldive-autentiche"
+  },
+  {
+    "message": "Perditi tra i colori e i profumi della Medina, e ritrova te stesso a Marrakech.",
+    "paese": "marocco",
+    "codice": "marrakech"
+  },
+  {
+    "message": "Nelle leggende della Transilvania si nasconde la magia dei luoghi antichi.",
+    "paese": "romania",
+    "codice": "transilvania"
+  },
+  {
+    "message": "Tra le montagne della Romania, ogni borgo racconta una storia.",
+    "paese": "romania",
+    "codice": "transilvania-maramures"
+  },
+  {
+    "message": "A Londra, anche l’inverno ha la luce di una fiaba.",
+    "paese": "uk",
+    "codice": "london-christmas"
+  },
+  {
+    "message": "C’è una Londra che non conosci: seguila nei suoi angoli nascosti.",
+    "paese": "uk",
+    "codice": "unusual-london"
+  },
+  {
+    "message": "Tra le scogliere e i castelli dell’Inghilterra del Sud si respira la poesia del tempo.",
+    "paese": "uk",
+    "codice": "uk-south"
+  },
+  {
+    "message": "L’estate a New York è un film che non smette mai di girare.",
+    "paese": "usa",
+    "codice": "new-york-estate"
+  },
+  {
+    "message": "Ascolta il fragore delle cascate e il silenzio del Canada che emoziona.",
+    "paese": "canada",
+    "codice": "toronto-niagara"
+  },
+  {
+    "message": "La libertà ha il profumo dell’oceano lungo la Highway 1.",
+    "paese": "usa",
+    "codice": "sanfrancisco-sandiego"
+  },
+  {
+    "message": "Ogni strada di Parigi è un invito a rallentare e meravigliarsi.",
+    "paese": "francia",
+    "codice": "tra-le-strade-di-parigi"
+  },
+  {
+    "message": "Dal silenzio dei templi al profumo dell’oceano, la Thailandia ti accoglie con grazia.",
+    "paese": "thailandia",
+    "codice": "bangkok-chiangrai"
+  },
+  {
+    "message": "Perditi tra i canali di Amsterdam, dove il vento profuma di pane caldo e tulipani, ogni ponte è una fotografia, ogni bicicletta una storia in movimento.",
+    "paese": "olanda",
+    "codice": "amsterdam"
+  },
+  {
+    "message": "Da San Francisco a Las Vegas, tra giganti silenziosi, deserti che bruciano e città fantasma che sussurrano ancora storie di polvere e sogni.",
+    "paese": "usa",
+    "codice": "sanfrancisco-lasvegas"
+  },
+  {
+    "message": "Camminiamo tra i vicoli di Cracovia, dove la storia sussurra e la memoria si fa silenzio.",
+    "paese": "polonia",
+    "codice": "cracovia-auschwitz"
+  },
+  {
+    "message": "Tra la storia del Muro e la libertà dei suoi quartieri alternativi, ogni muro racconta un passato, ogni vicolo pulsa di creatività e vita urbana. Lasciati trasportare dall'anima di Berlino.",
+    "paese": "germania",
+    "codice": "berlino"
+  },
+  {
+    "message": "Lasciati portare dal vento della famosa Windy city, la meravigliosa Chicago, un viaggio tra skyline mozzafiato e vita urbana vibrante.",
+    "paese": "usa",
+    "codice": "chicago"
+  },
+  {
+    "message": "Il mare è un acquario a cielo aperto, il deserto un silenzio che parla.  A Sharm el-Sheikh, tra la barriera corallina di Ras Mohamed e un tè caldo sotto le stelle del Sinai.",
+    "paese": "egitto",
+    "codice": "sharm-el-sheik"
+  },
+  {
+    "message": "Tra il ritmo del merengue e il profumo del mare, a Santo Domingo la storia coloniale si mescola ai sorrisi dei Caraibi.",
+    "paese": "caraibi",
+    "codice": "santo-domingo"
+  }
+]
