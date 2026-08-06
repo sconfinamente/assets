@@ -1,3 +1,92 @@
 [
-  
+    {
+        "codice": "parigi",
+        "destinazione": "Parigi",
+        "paese": "francia",
+        "partenza": "Roma",
+        "budget": {
+        "valuta": "EUR",
+        "volo": {
+            "prezzo": 87,
+            "nota": "volo A/R"
+        },
+        "alloggio": {
+            "prezzo": 91,
+            "notti": 3,
+            "nota": "camera/appartamento per soggiorno"
+        },
+        "totale": 178,
+        "nota": "stima per persona, esclusi pasti, trasporti e attività"
+        },
+        "tools": {
+        "voli": [
+            {
+            "nome": "Google Voli",
+            "url": "https://www.google.it/travel/flights/booking?tfs=CBwQAhpAEgoyMDI2LTEyLTAzIiAKA0ZDTxIKMjAyNi0xMi0wMxoDT1JZKgJUTzIEMzkxOWoHCAESA0ZDT3IHCAESA09SWRpAEgoyMDI2LTEyLTA2IiAKA09SWRIKMjAyNi0xMi0wNhoDRkNPKgJUTzIEMzkxOGoHCAESA09SWXIHCAESA0ZDT0ABQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJZGxWeGVqTXlhMUYyZFhkQlJHaFhTMmRDUnkwdExTMHRMUzB0TFdWcVkyWXlOVUZCUVVGQlIzQXdaalp2UzBoR1RsVkJFZ1pVVHpNNU1UZ2FDd2o0aHdFUUFob0RSVlZTT0J4dzc1d0ISAggAIgA&hl=it&gl=IT&authuser=0&gsas=1&curr=EUR",
+            "descrizione": "Confronta prezzi e combinazioni"
+            }
+        ],
+        "alloggi": [
+            {
+            "nome": "Booking",
+            "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&sid=586d2a0c2742fc3dcf3b7efaa46be22c&aid=2311236&ss=Centro+di+Parigi%2C+Parigi%2C+%C3%8Ele-de-France%2C+Francia&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2281&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7f691a14aaba54de37901037def282c0&checkin=2026-12-03&checkout=2026-12-06&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Bfc%3D2%3Broomfacility%3D38%3Breview_score%3D80%3Bprice%3DEUR-min-300-1%3Bdi%3D9580&order=price",
+            "descrizione": "Hotel e appartamenti"
+            }
+        ]
+        },
+        "periodo": "3-6 dicembre",
+        "durata": "3-4 giorni",
+        "descrizione": "Parigi a dicembre tra mercatini di Natale, luminarie sugli Champs-Élysées, vetrine storiche e l’atmosfera romantica della città.",
+        "motivazione": "Il periodo pre-natalizio è uno dei momenti più affascinanti per visitare Parigi: le luminarie trasformano i grandi boulevard, i mercatini animano piazze e giardini e la città assume un’atmosfera unica.",
+        "visitato": true,
+        "itinerario": "tra-le-strade-di-parigi",
+        "tag": "Natale",
+        "visibleUntil": "2026-12-01",
+        "priority": 3
+    },
+    {
+        "codice": "new-york",
+        "destinazione": "New York",
+        "paese": "usa",
+        "partenza": "Roma",
+        "budget": {
+            "valuta": "EUR",
+            "volo": {
+                "prezzo": 579,
+                "nota": "volo A/R"
+            },
+            "alloggio": {
+            "prezzo": 500,
+            "notti": 7,
+            "nota": "camera/appartamento per soggiorno"
+            },
+            "totale": 1079,
+            "nota": "stima per persona, esclusi pasti, trasporti e attività"
+        },
+        "tools": {
+            "voli": [
+            {
+                "nome": "Google Voli",
+                "url": "https://www.google.it/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTAyKABqDAgCEggvbS8wNmM2MnINCAISCS9tLzAyXzI4NhorEgoyMDI2LTEyLTA5KABqDQgCEgkvbS8wMl8yODZyDAgCEggvbS8wNmM2MkABSAFwAYIBCwj___________8BmAEB&tfu=EgYIACACKAEiAA&authuser",
+                "descrizione": "Confronta prezzi e combinazioni"
+            }
+            ],
+            "alloggi": [
+            {
+                "nome": "Booking",
+                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Centro+di+New+York%2C+New+York%2C+New+York%2C+Stati+Uniti&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2306&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4c0f5e1e6c080856&checkin=2026-12-02&checkout=2026-12-09&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Bfc%3D2%3Bprice%3DEUR-min-350-1&order=price",
+                "descrizione": "Hotel e appartamenti"
+            }
+            ]
+        },
+        "periodo": "2-9 dicembre",
+        "durata": "7 giorni",
+        "descrizione": "New York nel periodo natalizio tra l'albero del Rockefeller Center, le luminarie di Manhattan, i mercatini di Bryant Park e l'atmosfera magica della città che si prepara al Natale.",
+        "motivazione": "L'inizio di dicembre è uno dei periodi più spettacolari per visitare New York: le decorazioni natalizie sono già ovunque, i grandi magazzini sfoggiano le celebri vetrine, Central Park assume un fascino invernale e la città offre un mix unico di energia, shopping e atmosfere da film.",
+        "visitato": true,
+        "itinerario": "new-york-christmas",
+        "tag": "Natale",
+        "visibleUntil": "2026-11-30",
+        "priority": 1
+    }    
 ]
