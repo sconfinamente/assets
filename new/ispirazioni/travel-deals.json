@@ -18,6 +18,27 @@
       "totale": 229,
       "nota": "stima per persona, esclusi pasti, trasporti e attività"
     },
+    "tools": {
+      "voli": [
+        {
+          "nome": "Google Voli",
+          "url": "https://www.google.com/travel/flights",
+          "descrizione": "Confronta prezzi e combinazioni"
+        },
+        {
+          "nome": "Skyscanner",
+          "url": "https://www.skyscanner.it",
+          "descrizione": "Trova le offerte più convenienti"
+        }
+      ],
+      "alloggi": [
+        {
+          "nome": "Booking",
+          "url": "https://www.booking.com",
+          "descrizione": "Hotel e appartamenti"
+        }
+      ]
+    },
     "periodo": "Fine settembre",
     "durata": "4-5 giorni",
     "descrizione": "L'isola perfetta per chi cerca natura, trekking e oceano con temperature ideali.",
@@ -45,7 +66,28 @@
       },
       "totale": 229,
       "nota": "stima per persona, esclusi pasti, trasporti e attività"
-    },   
+    },
+    "tools": {
+      "voli": [
+        {
+          "nome": "Google Voli",
+          "url": "https://www.google.com/travel/flights",
+          "descrizione": "Confronta prezzi e combinazioni"
+        },
+        {
+          "nome": "Skyscanner",
+          "url": "https://www.skyscanner.it",
+          "descrizione": "Trova le offerte più convenienti"
+        }
+      ],
+      "alloggi": [
+        {
+          "nome": "Booking",
+          "url": "https://www.booking.com",
+          "descrizione": "Hotel e appartamenti"
+        }
+      ]
+    },
     "periodo": "Ottobre",
     "durata": "Weekend",
     "descrizione": "Una delle città europee con il miglior rapporto qualità-prezzo.",
@@ -75,6 +117,27 @@
       "totale": 229,
       "nota": "stima per persona, esclusi pasti, trasporti e attività"
     },
+    "tools": {
+      "voli": [
+        {
+          "nome": "Google Voli",
+          "url": "https://www.google.com/travel/flights",
+          "descrizione": "Confronta prezzi e combinazioni"
+        },
+        {
+          "nome": "Skyscanner",
+          "url": "https://www.skyscanner.it",
+          "descrizione": "Trova le offerte più convenienti"
+        }
+      ],
+      "alloggi": [
+        {
+          "nome": "Booking",
+          "url": "https://www.booking.com",
+          "descrizione": "Hotel e appartamenti"
+        }
+      ]
+    },
     "periodo": "Inizio dicembre",
     "durata": "3-4 giorni",
     "descrizione": "Mercatini di Natale, atmosfera nordica e giornate perfette per una fuga invernale.",
@@ -103,6 +166,27 @@
       },
       "totale": 229,
       "nota": "stima per persona, esclusi pasti, trasporti e attività"
+    },
+    "tools": {
+      "voli": [
+        {
+          "nome": "Google Voli",
+          "url": "https://www.google.com/travel/flights",
+          "descrizione": "Confronta prezzi e combinazioni"
+        },
+        {
+          "nome": "Skyscanner",
+          "url": "https://www.skyscanner.it",
+          "descrizione": "Trova le offerte più convenienti"
+        }
+      ],
+      "alloggi": [
+        {
+          "nome": "Booking",
+          "url": "https://www.booking.com",
+          "descrizione": "Hotel e appartamenti"
+        }
+      ]
     },
     "periodo": "Ponte 8 dicembre",
     "durata": "3-4 giorni",
