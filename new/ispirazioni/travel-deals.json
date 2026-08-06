@@ -4,7 +4,20 @@
     "destinazione": "Madeira",
     "paese": "portogallo",
     "partenza": "Roma",
-    "prezzo": 49,
+    "budget": {
+      "valuta": "EUR",
+      "volo": {
+        "prezzo": 49,
+        "nota": "volo A/R"
+      },
+      "alloggio": {
+        "prezzo": 180,
+        "notti": 4,
+        "nota": "camera/appartamento per soggiorno"
+      },
+      "totale": 229,
+      "nota": "stima per persona, esclusi pasti, trasporti e attività"
+    },
     "periodo": "Fine settembre",
     "durata": "4-5 giorni",
     "descrizione": "L'isola perfetta per chi cerca natura, trekking e oceano con temperature ideali.",
@@ -19,7 +32,20 @@
     "destinazione": "Cracovia",
     "paese": "polonia",
     "partenza": "Roma",
-    "prezzo": 29,
+    "budget": {
+      "valuta": "EUR",
+      "volo": {
+        "prezzo": 49,
+        "nota": "volo A/R"
+      },
+      "alloggio": {
+        "prezzo": 180,
+        "notti": 4,
+        "nota": "camera/appartamento per soggiorno"
+      },
+      "totale": 229,
+      "nota": "stima per persona, esclusi pasti, trasporti e attività"
+    },   
     "periodo": "Ottobre",
     "durata": "Weekend",
     "descrizione": "Una delle città europee con il miglior rapporto qualità-prezzo.",
@@ -35,7 +61,20 @@
     "destinazione": "Stoccolma",
     "paese": "svezia",
     "partenza": "Roma",
-    "prezzo": 59,
+    "budget": {
+      "valuta": "EUR",
+      "volo": {
+        "prezzo": 49,
+        "nota": "volo A/R"
+      },
+      "alloggio": {
+        "prezzo": 180,
+        "notti": 4,
+        "nota": "camera/appartamento per soggiorno"
+      },
+      "totale": 229,
+      "nota": "stima per persona, esclusi pasti, trasporti e attività"
+    },
     "periodo": "Inizio dicembre",
     "durata": "3-4 giorni",
     "descrizione": "Mercatini di Natale, atmosfera nordica e giornate perfette per una fuga invernale.",
@@ -51,7 +90,20 @@
     "destinazione": "Parigi",
     "paese": "francia",
     "partenza": "Roma",
-    "prezzo": 59,
+    "budget": {
+      "valuta": "EUR",
+      "volo": {
+        "prezzo": 49,
+        "nota": "volo A/R"
+      },
+      "alloggio": {
+        "prezzo": 180,
+        "notti": 4,
+        "nota": "camera/appartamento per soggiorno"
+      },
+      "totale": 229,
+      "nota": "stima per persona, esclusi pasti, trasporti e attività"
+    },
     "periodo": "Ponte 8 dicembre",
     "durata": "3-4 giorni",
     "descrizione": "Mercatini di Natale a Parigi.",
