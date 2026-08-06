@@ -23,6 +23,7 @@
     "durata": "Weekend",
     "descrizione": "Una delle città europee con il miglior rapporto qualità-prezzo.",
     "visitato": true,
+    "itinerario": "cracovia-auschwitz",
     "tag": "Weekend",
     "visibleUntil": "2026-10-15",
     "priority": 2
@@ -37,6 +38,7 @@
     "durata": "3-4 giorni",
     "descrizione": "Mercatini di Natale, atmosfera nordica e giornate perfette per una fuga invernale.",
     "visitato": true,
+    "itinerario": "stoccolma",
     "tag": "Natale",
     "visibleUntil": "2026-12-15",
     "priority": 3
@@ -51,6 +53,7 @@
     "durata": "3-4 giorni",
     "descrizione": "Mercatini di Natale a Parigi.",
     "visitato": true,
+    "itinerario": "tra-le-strade-di-parigi",
     "tag": "Natale",
     "visibleUntil": "2026-12-15",
     "priority": 3
