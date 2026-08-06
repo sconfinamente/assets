@@ -1,7 +1,7 @@
 [
   {
     "destinazione": "Madeira",
-    "paese": "Portogallo",
+    "paese": "portogallo",
     "partenza": "Roma",
     "prezzo": 49,
     "periodo": "Fine settembre",
@@ -14,7 +14,7 @@
   },
   {
     "destinazione": "Cracovia",
-    "paese": "Polonia",
+    "paese": "polonia",
     "partenza": "Roma",
     "prezzo": 29,
     "periodo": "Ottobre",
@@ -27,7 +27,7 @@
   },
   {
     "destinazione": "Stoccolma",
-    "paese": "Svezia",
+    "paese": "svezia",
     "partenza": "Roma",
     "prezzo": 59,
     "periodo": "Inizio dicembre",
@@ -40,7 +40,7 @@
   },
   {
     "destinazione": "Parigi",
-    "paese": "Francia",
+    "paese": "francia",
     "partenza": "Roma",
     "prezzo": 59,
     "periodo": "Ponte 8 dicembre",
