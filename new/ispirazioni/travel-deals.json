@@ -1,5 +1,6 @@
 [
   {
+    "codice": "madeira",
     "destinazione": "Madeira",
     "paese": "portogallo",
     "partenza": "Roma",
@@ -13,6 +14,7 @@
     "priority": 1
   },
   {
+    "codice": "cracovia",
     "destinazione": "Cracovia",
     "paese": "polonia",
     "partenza": "Roma",
@@ -26,6 +28,7 @@
     "priority": 2
   },
   {
+    "codice": "stoccolma",
     "destinazione": "Stoccolma",
     "paese": "svezia",
     "partenza": "Roma",
@@ -39,6 +42,7 @@
     "priority": 3
   },
   {
+    "codice": "parigi",
     "destinazione": "Parigi",
     "paese": "francia",
     "partenza": "Roma",
