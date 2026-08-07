@@ -87,6 +87,11 @@
                     "nome": "Go City Explorer Pass",
                     "url": "https://gocity.com/new-york",
                     "descrizione": "Scegli solo le attrazioni che ti interessano"
+                },
+                {
+                    "nome": "The New York Pass",
+                    "url": "https://www.newyorkpass.com/",
+                    "descrizione": "Accesso a oltre 100 attrazioni"
                 }
             ]
         },
