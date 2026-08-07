@@ -71,11 +71,23 @@
             }
             ],
             "alloggi": [
-            {
-                "nome": "Booking",
-                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Centro+di+New+York%2C+New+York%2C+New+York%2C+Stati+Uniti&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2306&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4c0f5e1e6c080856&checkin=2026-12-02&checkout=2026-12-09&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Bfc%3D2%3Bprice%3DEUR-min-350-1&order=price",
-                "descrizione": "Hotel e appartamenti"
-            }
+                {
+                    "nome": "Booking",
+                    "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Centro+di+New+York%2C+New+York%2C+New+York%2C+Stati+Uniti&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2306&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=4c0f5e1e6c080856&checkin=2026-12-02&checkout=2026-12-09&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Breview_score%3D80%3Broomfacility%3D38%3Bfc%3D2%3Bprice%3DEUR-min-350-1&order=price",
+                    "descrizione": "Hotel e appartamenti"
+                }
+            ],
+            "altro": [
+                {
+                    "nome": "New York CityPASS",
+                    "url": "https://www.citypass.com/new-york",
+                    "descrizione": "Pass per risparmiare sulle attrazioni"
+                },
+                {
+                    "nome": "Go City Explorer Pass",
+                    "url": "https://gocity.com/new-york",
+                    "descrizione": "Scegli solo le attrazioni che ti interessano"
+                }
             ]
         },
         "periodo": "2-9 dicembre",

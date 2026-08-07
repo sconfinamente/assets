@@ -19,7 +19,3 @@ Il periodo è ideale per vivere Parigi in versione natalizia senza i prezzi più
 Perfetto per coppie, amici e per chi vuole regalarsi una settimana in una delle città più belle del mondo durante uno dei periodi più suggestivi dell’anno.
 
 Se il tuo obiettivo è fare un viaggio che unisca cultura, gastronomia e atmosfera natalizia, questo deal per Parigi è difficile da battere.
-
----
-
-*I prezzi possono variare in base alla disponibilità di voli e hotel al momento della prenotazione.*
