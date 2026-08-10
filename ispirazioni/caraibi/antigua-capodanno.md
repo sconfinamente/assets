@@ -2,7 +2,7 @@
 
 Quando si pensa ai Caraibi, la prima immagine che viene in mente è spesso quella di resort di lusso, spiagge private e vacanze da migliaia di euro. In realtà Antigua può essere una sorpresa: **anche a Capodanno è possibile organizzare un viaggio con un budget molto più contenuto**, soprattutto se si sceglie un appartamento invece di un resort all inclusive.
 
-Io ho preparato un preventivo per **10 giorni, dal 29 dicembre all’8 gennaio**, calcolato su una prenotazione per **2 persone**, e il risultato è decisamente più accessibile di quanto molti immaginino.
+Abbiamo preparato un preventivo per **10 giorni, dal 29 dicembre all’8 gennaio**, calcolato su una prenotazione per **2 persone**, e il risultato è decisamente più accessibile di quanto molti immaginino.
 
 ---
 
@@ -39,7 +39,7 @@ Con un’auto a noleggio puoi cambiare spiaggia ogni giorno e vedere il lato pi�
 
 ---
 
-## Il mio consiglio
+## Il nostro consiglio
 
 Se sogni i Caraibi ma pensi che siano fuori budget, **Antigua a Capodanno è una delle destinazioni che prenderei seriamente in considerazione**.
 
