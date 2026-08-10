@@ -135,15 +135,15 @@
         "alloggi": [
             {
                 "nome": "Booking",
-                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Antigua&ssne=Antigua&ssne_untouched=Antigua&efdco=1&lang=it&dest_id=1214&dest_type=region&checkin=2026-12-30&checkout=2027-01-08&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Broomfacility%3D38%3Boos%3D1%3Bfc%3D2&order=price",
+                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Antigua&ssne=Antigua&ssne_untouched=Antigua&efdco=1&lang=it&dest_id=1214&dest_type=region&checkin=2026-12-30&checkout=2027-01-08&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Broomfacility%3D38%3Boos%3D1%3Bfc%3D2&order=price&chal_t=1786345956631&force_referer=#map_opened",
                 "descrizione": "Appartamenti e guesthouse ad Antigua"
             }
         ],
         "altro": [
             {
                 "nome": "Noleggio auto Antigua",
-                "url": "https://www.discovercars.com/",
-                "descrizione": "Il modo più pratico per esplorare l'isola"
+                "url": "https://cars.booking.com/search-results?adplat=cross_product_bar&aid=2311236&coordinates=17.086122512817383%2C-61.79478454589844&cor=it&doDay=8&doHour=14&doMinute=0&doMonth=1&doYear=2027&driversAge=30&dropCoordinates=17.086122512817383%2C-61.79478454589844&dropFtsType=&dropLocation=-1&dropLocationName=Antigua&ftsType=A&intent=direct&label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&location=-1&locationName=Antigua&prefcurrency=EUR&preflang=it&puDay=30&puHour=16&puMinute=30&puMonth=12&puYear=2026&locationIata=&dropLocationIata=&filterCriteria_sortBy=PRICE&filterCriteria_sortAscending=true",
+                "descrizione": "Il modo più pratico ed economico per esplorare l'isola"
             }
         ]
         },
