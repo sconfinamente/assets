@@ -103,6 +103,58 @@
         "itinerario": "new-york-christmas",
         "tag": "Natale",
         "visibleUntil": "2026-11-30",
+        "priority": 2
+    },
+    {
+        "codice": "antigua-capodanno",
+        "destinazione": "Antigua",
+        "paese": "caraibi",
+        "partenza": "Roma",
+        "budget": {
+        "valuta": "EUR",
+        "volo": {
+            "prezzo": 914,
+            "nota": "volo A/R"
+        },
+        "alloggio": {
+            "prezzo": 850,
+            "notti": 9,
+            "nota": "appartamento con cucina per 2 persone"
+        },
+        "totale": 1339,
+        "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
+        },
+        "tools": {
+        "voli": [
+            {
+                "nome": "Google Voli",
+                "url": "https://www.google.com/travel/flights?tfs=CBoQAhphEgoyMDI2LTEyLTI5Ih8KA0ZDTxIKMjAyNi0xMi0yORoDTEhSKgJCQTIDNTYxIiAKA0xHVxIKMjAyNi0xMi0zMBoDQU5VKgJCQTIEMjE1N2oHCAESA0ZDT3IHCAESA0FOVRphEgoyMDI3LTAxLTA4IiAKA0FOVRIKMjAyNy0wMS0wOBoDTEdXKgJCQTIEMjE1NiIfCgNMSFISCjIwMjctMDEtMDkaA0ZDTyoCQkEyAzU1MmoHCAESA0FOVXIHCAESA0ZDT0ABSAFSA0VVUnpoQ2pSSWJXVTFWMkZQYlZWVVJrbEJWbTFEVEZGQ1J5MHRMUzB0TFMwdExYZGlZbU56TkVGQlFVRkJSM0ExWTJoVlQyVlpTbUZCRWdFeUdnc0k4YXNHRUFJYUEwVlZVamdYY0llcUJ3PT0&curr=EUR&hl=it&gl=IT&gsas=1&authuser=0&sa=X&ved=0CBMQ2I8EahcKEwjg_tzmuZWWAxUAAAAAHQAAAAAQIA",
+                "descrizione": "Confronta prezzi e combinazioni"
+            }
+        ],
+        "alloggi": [
+            {
+                "nome": "Booking",
+                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Antigua&ssne=Antigua&ssne_untouched=Antigua&efdco=1&lang=it&dest_id=1214&dest_type=region&checkin=2026-12-30&checkout=2027-01-08&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Broomfacility%3D38%3Boos%3D1%3Bfc%3D2&order=price",
+                "descrizione": "Appartamenti e guesthouse ad Antigua"
+            }
+        ],
+        "altro": [
+            {
+                "nome": "Noleggio auto Antigua",
+                "url": "https://www.discovercars.com/",
+                "descrizione": "Il modo più pratico per esplorare l'isola"
+            }
+        ]
+        },
+        "periodo": "29 dicembre - 8 gennaio",
+        "durata": "10 giorni effettivi",
+        "descrizione": "Capodanno ai Caraibi tra spiagge di sabbia bianca, mare turchese, tramonti spettacolari e un clima perfetto nel pieno dell'inverno europeo.",
+        "motivazione": "Antigua è una delle destinazioni più sorprendenti per chi sogna i Caraibi senza spendere una fortuna. Evitando i resort all inclusive e scegliendo un appartamento con cucina, è possibile ridurre molto il costo del soggiorno, fare la spesa nei supermercati locali e vivere l'isola in modo più autentico. Il budget è calcolato su una prenotazione per 2 persone, che permette di dividere il costo dell'alloggio e rendere questa destinazione molto più accessibile di quanto si pensi. Il periodo di Capodanno è alta stagione, ma prenotando con anticipo si trovano ancora voli e appartamenti a prezzi interessanti.",
+        "visitato": true,
+        "itinerario": "antigua-capodanno",
+        "tag": "Capodanno",
+        "visibleUntil": "2026-12-20",
         "priority": 1
-    }    
+    }
 ]
