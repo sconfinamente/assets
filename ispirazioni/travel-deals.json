@@ -113,7 +113,7 @@
         "budget": {
         "valuta": "EUR",
         "volo": {
-            "prezzo": 914,
+            "prezzo": 922,
             "nota": "volo A/R"
         },
         "alloggio": {
@@ -121,7 +121,7 @@
             "notti": 9,
             "nota": "appartamento con cucina per 2 persone"
         },
-        "totale": 1339,
+        "totale": 1347,
         "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
