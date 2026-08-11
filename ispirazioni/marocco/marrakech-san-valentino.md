@@ -1,4 +1,4 @@
-# Marrakech a San Valentino: quando l’amore profuma di spezie
+### Marrakech a San Valentino: quando l’amore profuma di spezie
 
 Quando pensiamo a San Valentino, ci vengono subito in mente alcune delle città più romantiche d’Europa: Parigi, Venezia, Praga. Ma se invece di scegliere una destinazione già vista e rivista volessimo qualcosa di diverso?
 
@@ -8,7 +8,7 @@ Perché bastano poche ore di volo per ritrovarsi in un mondo completamente diver
 
 Marrakech non è romantica nel modo più classico. È una città da vivere insieme, lasciandosi sorprendere da quello che succede lungo il percorso.
 
-## Perdersi nella Medina
+#### Perdersi nella Medina
 
 Una delle cose che amiamo di Marrakech è proprio la possibilità di non avere sempre una meta.
 
@@ -20,7 +20,7 @@ Non tutto deve essere programmato.
 
 A volte i ricordi più belli nascono proprio da quello che non avevamo previsto.
 
-## Dormire in un riad
+#### Dormire in un riad
 
 Se c'è un'esperienza che secondo noi rende Marrakech ancora più speciale, è soggiornare in un **riad tradizionale**.
 
@@ -32,7 +32,7 @@ E magari fermarsi sulla terrazza con un tè alla menta mentre il sole scende sul
 
 Sono proprio questi momenti, più che le attrazioni da spuntare da una lista, a rendere speciale una fuga di coppia.
 
-## Un San Valentino lontano dai cliché
+#### Un San Valentino lontano dai cliché
 
 Marrakech ci piace anche perché non ha bisogno di essere trasformata in una destinazione romantica.
 
@@ -44,7 +44,7 @@ Non servono grandi gesti.
 
 A volte basta sedersi insieme, osservare la città e rendersi conto di essere dall'altra parte del Mediterraneo.
 
-## Rallentare e concedersi un hammam
+#### Rallentare e concedersi un hammam
 
 Dopo aver esplorato la città, possiamo anche decidere di rallentare.
 
@@ -56,7 +56,7 @@ Dopo qualche ora tra souk e Medina, un po' di relax è esattamente quello che ci
 
 E poi possiamo tornare a perderci tra le strade della città.
 
-## Il tramonto nel deserto
+#### Il tramonto nel deserto
 
 Marrakech permette anche di aggiungere al viaggio una parte più avventurosa.
 
@@ -66,7 +66,7 @@ Il momento che ci piacerebbe vivere di più? Il tramonto.
 
 Quando la luce cambia e il paesaggio assume tonalità calde, il deserto diventa uno scenario davvero suggestivo. È uno di quei momenti in cui probabilmente tireremmo fuori il telefono per fare una foto... per poi rimetterlo in tasca e goderci semplicemente il momento.
 
-## Perché Marrakech proprio a febbraio?
+#### Perché Marrakech proprio a febbraio?
 
 Febbraio è un periodo interessante per scoprire Marrakech.
 
@@ -76,7 +76,7 @@ Durante il giorno possiamo dedicarci alle passeggiate e alle visite, mentre la s
 
 E c'è anche un altro vantaggio: partire a febbraio significa concedersi una piccola pausa dall'inverno europeo e ritrovarsi, dopo poche ore, circondati dai colori e dalla luce del Marocco.
 
-## Una destinazione da vivere in due
+#### Una destinazione da vivere in due
 
 Se dovessimo scegliere una destinazione per un **San Valentino diverso dal solito**, Marrakech sarebbe sicuramente nella nostra lista.
 
@@ -93,7 +93,7 @@ E tutte quelle piccole cose che non avevamo programmato.
 
 **Perché per noi viaggiare insieme significa proprio questo: non solo vedere un posto nuovo, ma tornare a casa con una storia che abbiamo vissuto insieme.**
 
-### Marrakech per San Valentino?
+##### Marrakech per San Valentino?
 
 **Assolutamente sì.**
 
