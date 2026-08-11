@@ -1,38 +1,95 @@
 [
     {
+        "codice": "marrakech-san-valentino",
+        "destinazione": "Marrakech",
+        "paese": "marocco",
+        "partenza": "Roma",
+        "budget": {
+            "valuta": "EUR",
+            "volo": {
+                "prezzo": 62,
+                "nota": "volo A/R"
+            },
+            "alloggio": {
+                "prezzo": 150,
+                "notti": 3,
+                "nota": "riad nel centro storico per 2 persone"
+            },
+            "totale": 137,
+            "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
+        },
+        "tools": {
+            "voli": [
+                {
+                    "nome": "Google Voli",
+                    "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpMEgoyMDI3LTAyLTExIiAKA0ZDTxIKMjAyNy0wMi0xMRoDUkFLKgJXNDIENjEwNSgAagwIAhIIL20vMDZjNjJyDAgDEggvbS8wNTRydxpMEgoyMDI3LTAyLTE0IiAKA1JBSxIKMjAyNy0wMi0xNBoDRkNPKgJXNDIENjEwNigAagwIAxIIL20vMDU0cndyDAgCEggvbS8wNmM2MkABSAFwAYIBCwj___________8BmAEB&tfu=CmxDalJJVm1kbGJIaHdMVzB5VTJOQlFuQjNTMUZDUnkwdExTMHRMUzB0TFhkbWFuQXlPRUZCUVVGQlIzQTJlRk0wU1V4V2VHdEJFZ1pYTkRZeE1EWWFDZ2kyTUJBQ0dnTkZWVkk0SEhEeE53PT0SAggAIgMKATA&hl=it&gl=IT",
+                    "descrizione": "Confronta prezzi e combinazioni"
+                }
+            ],
+            "alloggi": [
+                {
+                    "nome": "Booking",
+                    "url": "https://www.booking.com/searchresults.it.html?label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq*ajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Marrakech%2C+Marrakech-Safi%2C+Marocco&efdco=1&lang=it&dest_id=-38833&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=734c3027fb93092a&checkin=2027-02-11&checkout=2027-02-14&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Broomfacility%3D38%3Breview_score%3D80%3Bht_id%3D227%3Bdi%3D2268&order=price#map_opened",
+                    "descrizione": "Riad a Marrakech"
+                }
+            ],
+            "altro": [
+                {
+                    "nome": "Escursioni a Marrakech",
+                    "url": "https://www.getyourguide.com/it-it/marrakech-l208/",
+                    "descrizione": "Cena nel deserto, hammam e tour guidati"
+                },
+                {
+                    "nome": "Volo in mongolfiera all’alba con Ciel d’Afrique",
+                    "url": "https://www.cieldafrique.info/en",
+                    "descrizione": "Una delle esperienze più spettacolari da vivere a Marrakech. Sorvolerai la Palmeraie, i villaggi berberi e, nelle giornate limpide, le montagne dell’Atlante illuminate dal sole nascente. L’escursione dura circa 4 ore e mezza, con 40–60 minuti di volo, e include generalmente i trasferimenti e la colazione tradizionale marocchina. È un’esperienza romantica e davvero indimenticabile"
+                }
+            ]
+        },
+        "periodo": "11 - 14 febbraio",
+        "durata": "4 giorni",
+        "descrizione": "Un San Valentino tra riad romantici, hammam tradizionali, tramonti nel deserto e le atmosfere uniche della Medina di Marrakech.",
+        "motivazione": "Marrakech è una delle mete più convenienti e suggestive per una fuga romantica a febbraio. Con voli low cost da Roma e riad dal fascino autentico, è possibile organizzare un weekend speciale spendendo molto meno rispetto a molte capitali europee. Il budget è calcolato su una prenotazione per 2 persone e include un riad nel centro storico, perfetto per vivere l'esperienza più romantica della città.",
+        "visitato": true,
+        "itinerario": "marrakech",
+        "tag": "San Valentino",
+        "visibleUntil": "2027-02-01",
+        "priority": 4
+    },
+    {
         "codice": "parigi",
         "destinazione": "Parigi",
         "paese": "francia",
         "partenza": "Roma",
         "budget": {
-        "valuta": "EUR",
-        "volo": {
-            "prezzo": 87,
-            "nota": "volo A/R"
-        },
-        "alloggio": {
-            "prezzo": 91,
-            "notti": 3,
-            "nota": "camera/appartamento per soggiorno"
-        },
-        "totale": 178,
-        "nota": "stima per persona, esclusi pasti, trasporti e attività"
+            "valuta": "EUR",
+            "volo": {
+                "prezzo": 87,
+                "nota": "volo A/R"
+            },
+            "alloggio": {
+                "prezzo": 91,
+                "notti": 3,
+                "nota": "camera/appartamento per soggiorno"
+            },
+            "totale": 178,
+            "nota": "stima per persona, esclusi pasti, trasporti e attività"
         },
         "tools": {
-        "voli": [
-            {
-            "nome": "Google Voli",
-            "url": "https://www.google.it/travel/flights/booking?tfs=CBwQAhpAEgoyMDI2LTEyLTAzIiAKA0ZDTxIKMjAyNi0xMi0wMxoDT1JZKgJUTzIEMzkxOWoHCAESA0ZDT3IHCAESA09SWRpAEgoyMDI2LTEyLTA2IiAKA09SWRIKMjAyNi0xMi0wNhoDRkNPKgJUTzIEMzkxOGoHCAESA09SWXIHCAESA0ZDT0ABQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJZGxWeGVqTXlhMUYyZFhkQlJHaFhTMmRDUnkwdExTMHRMUzB0TFdWcVkyWXlOVUZCUVVGQlIzQXdaalp2UzBoR1RsVkJFZ1pVVHpNNU1UZ2FDd2o0aHdFUUFob0RSVlZTT0J4dzc1d0ISAggAIgA&hl=it&gl=IT&authuser=0&gsas=1&curr=EUR",
-            "descrizione": "Confronta prezzi e combinazioni"
-            }
-        ],
-        "alloggi": [
-            {
-            "nome": "Booking",
-            "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&sid=586d2a0c2742fc3dcf3b7efaa46be22c&aid=2311236&ss=Centro+di+Parigi%2C+Parigi%2C+%C3%8Ele-de-France%2C+Francia&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2281&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7f691a14aaba54de37901037def282c0&checkin=2026-12-03&checkout=2026-12-06&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Bfc%3D2%3Broomfacility%3D38%3Breview_score%3D80%3Bprice%3DEUR-min-300-1%3Bdi%3D9580&order=price",
-            "descrizione": "Hotel e appartamenti"
-            }
-        ]
+            "voli": [
+                {
+                    "nome": "Google Voli",
+                    "url": "https://www.google.it/travel/flights/booking?tfs=CBwQAhpAEgoyMDI2LTEyLTAzIiAKA0ZDTxIKMjAyNi0xMi0wMxoDT1JZKgJUTzIEMzkxOWoHCAESA0ZDT3IHCAESA09SWRpAEgoyMDI2LTEyLTA2IiAKA09SWRIKMjAyNi0xMi0wNhoDRkNPKgJUTzIEMzkxOGoHCAESA09SWXIHCAESA0ZDT0ABQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJZGxWeGVqTXlhMUYyZFhkQlJHaFhTMmRDUnkwdExTMHRMUzB0TFdWcVkyWXlOVUZCUVVGQlIzQXdaalp2UzBoR1RsVkJFZ1pVVHpNNU1UZ2FDd2o0aHdFUUFob0RSVlZTT0J4dzc1d0ISAggAIgA&hl=it&gl=IT&authuser=0&gsas=1&curr=EUR",
+                    "descrizione": "Confronta prezzi e combinazioni"
+                }
+            ],
+            "alloggi": [
+                {
+                    "nome": "Booking",
+                    "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&sid=586d2a0c2742fc3dcf3b7efaa46be22c&aid=2311236&ss=Centro+di+Parigi%2C+Parigi%2C+%C3%8Ele-de-France%2C+Francia&map=1&ssne=Cannon+Beach&ssne_untouched=Cannon+Beach&efdco=1&lang=it&dest_id=2281&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=7f691a14aaba54de37901037def282c0&checkin=2026-12-03&checkout=2026-12-06&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Bfc%3D2%3Broomfacility%3D38%3Breview_score%3D80%3Bprice%3DEUR-min-300-1%3Bdi%3D9580&order=price",
+                    "descrizione": "Hotel e appartamenti"
+                }
+            ]
         },
         "periodo": "3-6 dicembre",
         "durata": "3-4 giorni",
@@ -55,20 +112,20 @@
                 "nota": "volo A/R"
             },
             "alloggio": {
-            "prezzo": 500,
-            "notti": 7,
-            "nota": "camera/appartamento per soggiorno"
+                "prezzo": 500,
+                "notti": 7,
+                "nota": "camera/appartamento per soggiorno"
             },
             "totale": 1079,
             "nota": "stima per persona, esclusi pasti, trasporti e attività"
         },
         "tools": {
             "voli": [
-            {
-                "nome": "Google Voli",
-                "url": "https://www.google.it/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTAyKABqDAgCEggvbS8wNmM2MnINCAISCS9tLzAyXzI4NhorEgoyMDI2LTEyLTA5KABqDQgCEgkvbS8wMl8yODZyDAgCEggvbS8wNmM2MkABSAFwAYIBCwj___________8BmAEB&tfu=EgYIACACKAEiAA&authuser",
-                "descrizione": "Confronta prezzi e combinazioni"
-            }
+                {
+                    "nome": "Google Voli",
+                    "url": "https://www.google.it/travel/flights/search?tfs=CBwQAhorEgoyMDI2LTEyLTAyKABqDAgCEggvbS8wNmM2MnINCAISCS9tLzAyXzI4NhorEgoyMDI2LTEyLTA5KABqDQgCEgkvbS8wMl8yODZyDAgCEggvbS8wNmM2MkABSAFwAYIBCwj___________8BmAEB&tfu=EgYIACACKAEiAA&authuser",
+                    "descrizione": "Confronta prezzi e combinazioni"
+                }
             ],
             "alloggi": [
                 {
@@ -111,41 +168,41 @@
         "paese": "caraibi",
         "partenza": "Roma",
         "budget": {
-        "valuta": "EUR",
-        "volo": {
-            "prezzo": 922,
-            "nota": "volo A/R"
-        },
-        "alloggio": {
-            "prezzo": 850,
-            "notti": 9,
-            "nota": "appartamento con cucina per 2 persone"
-        },
-        "totale": 1347,
-        "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
+            "valuta": "EUR",
+            "volo": {
+                "prezzo": 922,
+                "nota": "volo A/R"
+            },
+            "alloggio": {
+                "prezzo": 850,
+                "notti": 9,
+                "nota": "appartamento con cucina per 2 persone"
+            },
+            "totale": 1347,
+            "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
-        "voli": [
-            {
-                "nome": "Google Voli",
-                "url": "https://www.google.com/travel/flights?tfs=CBoQAhphEgoyMDI2LTEyLTI5Ih8KA0ZDTxIKMjAyNi0xMi0yORoDTEhSKgJCQTIDNTYxIiAKA0xHVxIKMjAyNi0xMi0zMBoDQU5VKgJCQTIEMjE1N2oHCAESA0ZDT3IHCAESA0FOVRphEgoyMDI3LTAxLTA4IiAKA0FOVRIKMjAyNy0wMS0wOBoDTEdXKgJCQTIEMjE1NiIfCgNMSFISCjIwMjctMDEtMDkaA0ZDTyoCQkEyAzU1MmoHCAESA0FOVXIHCAESA0ZDT0ABSAFSA0VVUnpoQ2pSSWJXVTFWMkZQYlZWVVJrbEJWbTFEVEZGQ1J5MHRMUzB0TFMwdExYZGlZbU56TkVGQlFVRkJSM0ExWTJoVlQyVlpTbUZCRWdFeUdnc0k4YXNHRUFJYUEwVlZVamdYY0llcUJ3PT0&curr=EUR&hl=it&gl=IT&gsas=1&authuser=0&sa=X&ved=0CBMQ2I8EahcKEwjg_tzmuZWWAxUAAAAAHQAAAAAQIA",
-                "descrizione": "Confronta prezzi e combinazioni"
-            }
-        ],
-        "alloggi": [
-            {
-                "nome": "Booking",
-                "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Antigua&ssne=Antigua&ssne_untouched=Antigua&efdco=1&lang=it&dest_id=1214&dest_type=region&checkin=2026-12-30&checkout=2027-01-08&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Broomfacility%3D38%3Boos%3D1%3Bfc%3D2&order=price&chal_t=1786345956631&force_referer=#map_opened",
-                "descrizione": "Appartamenti e guesthouse ad Antigua"
-            }
-        ],
-        "altro": [
-            {
-                "nome": "Noleggio auto Antigua",
-                "url": "https://cars.booking.com/search-results?adplat=cross_product_bar&aid=2311236&coordinates=17.086122512817383%2C-61.79478454589844&cor=it&doDay=8&doHour=14&doMinute=0&doMonth=1&doYear=2027&driversAge=30&dropCoordinates=17.086122512817383%2C-61.79478454589844&dropFtsType=&dropLocation=-1&dropLocationName=Antigua&ftsType=A&intent=direct&label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&location=-1&locationName=Antigua&prefcurrency=EUR&preflang=it&puDay=30&puHour=16&puMinute=30&puMonth=12&puYear=2026&locationIata=&dropLocationIata=&filterCriteria_sortBy=PRICE&filterCriteria_sortAscending=true",
-                "descrizione": "Il modo più pratico ed economico per esplorare l'isola"
-            }
-        ]
+            "voli": [
+                {
+                    "nome": "Google Voli",
+                    "url": "https://www.google.com/travel/flights?tfs=CBoQAhphEgoyMDI2LTEyLTI5Ih8KA0ZDTxIKMjAyNi0xMi0yORoDTEhSKgJCQTIDNTYxIiAKA0xHVxIKMjAyNi0xMi0zMBoDQU5VKgJCQTIEMjE1N2oHCAESA0ZDT3IHCAESA0FOVRphEgoyMDI3LTAxLTA4IiAKA0FOVRIKMjAyNy0wMS0wOBoDTEdXKgJCQTIEMjE1NiIfCgNMSFISCjIwMjctMDEtMDkaA0ZDTyoCQkEyAzU1MmoHCAESA0FOVXIHCAESA0ZDT0ABSAFSA0VVUnpoQ2pSSWJXVTFWMkZQYlZWVVJrbEJWbTFEVEZGQ1J5MHRMUzB0TFMwdExYZGlZbU56TkVGQlFVRkJSM0ExWTJoVlQyVlpTbUZCRWdFeUdnc0k4YXNHRUFJYUEwVlZVamdYY0llcUJ3PT0&curr=EUR&hl=it&gl=IT&gsas=1&authuser=0&sa=X&ved=0CBMQ2I8EahcKEwjg_tzmuZWWAxUAAAAAHQAAAAAQIA",
+                    "descrizione": "Confronta prezzi e combinazioni"
+                }
+            ],
+            "alloggi": [
+                {
+                    "nome": "Booking",
+                    "url": "https://www.booking.com/searchresults.it.html?label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Antigua&ssne=Antigua&ssne_untouched=Antigua&efdco=1&lang=it&dest_id=1214&dest_type=region&checkin=2026-12-30&checkout=2027-01-08&group_adults=2&no_rooms=1&group_children=0&nflt=review_score%3D80%3Broomfacility%3D38%3Boos%3D1%3Bfc%3D2&order=price&chal_t=1786345956631&force_referer=#map_opened",
+                    "descrizione": "Appartamenti e guesthouse ad Antigua"
+                }
+            ],
+            "altro": [
+                {
+                    "nome": "Noleggio auto Antigua",
+                    "url": "https://cars.booking.com/search-results?adplat=cross_product_bar&aid=2311236&coordinates=17.086122512817383%2C-61.79478454589844&cor=it&doDay=8&doHour=14&doMinute=0&doMonth=1&doYear=2027&driversAge=30&dropCoordinates=17.086122512817383%2C-61.79478454589844&dropFtsType=&dropLocation=-1&dropLocationName=Antigua&ftsType=A&intent=direct&label=en-it-booking-desktop-orurobL4HlxlPTbh4QCUzwS652796016213%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&location=-1&locationName=Antigua&prefcurrency=EUR&preflang=it&puDay=30&puHour=16&puMinute=30&puMonth=12&puYear=2026&locationIata=&dropLocationIata=&filterCriteria_sortBy=PRICE&filterCriteria_sortAscending=true",
+                    "descrizione": "Il modo più pratico ed economico per esplorare l'isola"
+                }
+            ]
         },
         "periodo": "29 dicembre - 8 gennaio",
         "durata": "10 giorni",
