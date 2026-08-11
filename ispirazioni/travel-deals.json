@@ -48,7 +48,7 @@
         "visitato": false,
         "tag": "San Valentino",
         "visibleUntil": "2027-02-01",
-        "priority": 5
+        "priority": 6
     },
     {
         "codice": "marrakech-san-valentino",
@@ -105,7 +105,7 @@
         "itinerario": "marrakech",
         "tag": "San Valentino",
         "visibleUntil": "2027-02-01",
-        "priority": 4
+        "priority": 5
     },
 {
   "codice": "tromso-inverno",
@@ -166,7 +166,7 @@
   "visitato": false,
   "tag": "Aurora boreale",
   "visibleUntil": "2027-01-10",
-  "priority": 3
+  "priority": 4
 },    
     {
         "codice": "parigi",
