@@ -16,7 +16,7 @@
             "nota": "hotel o appartamento per 2 persone"
             },
             "totale": 192,
-            "nota": "stima per persona calcolata su una prenotazione di 2 persone, con alloggio a partire da 100 € totali; esclusi pasti, trasporti e attività"
+            "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
             "voli": [
@@ -124,7 +124,7 @@
                 "nota": "camera/appartamento per soggiorno"
             },
             "totale": 178,
-            "nota": "stima per persona, esclusi pasti, trasporti e attività"
+            "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
             "voli": [
@@ -168,7 +168,7 @@
                 "nota": "camera/appartamento per soggiorno"
             },
             "totale": 1079,
-            "nota": "stima per persona, esclusi pasti, trasporti e attività"
+            "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
             "voli": [
