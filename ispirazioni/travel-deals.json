@@ -107,6 +107,67 @@
         "visibleUntil": "2027-02-01",
         "priority": 4
     },
+{
+  "codice": "tromso-inverno",
+  "destinazione": "Tromsø",
+  "paese": "norvegia",
+  "partenza": "Roma",
+  "budget": {
+    "valuta": "EUR",
+    "volo": {
+      "prezzo": 245,
+      "nota": "volo A/R con bagaglio da stiva da 23 kg"
+    },
+    "alloggio": {
+      "prezzo": 940,
+      "notti": 7,
+      "nota": "appartamento per 2 persone"
+    },
+    "totale": 715,
+    "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
+  },
+	"tools": {
+	  "voli": [
+		{
+		  "nome": "Google Voli",
+		  "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhprEgoyMDI3LTAxLTE4Ih8KA0ZDTxIKMjAyNy0wMS0xOBoDQkVHKgJKVTIDNDAxIh8KA0JFRxIKMjAyNy0wMS0xOBoDVE9TKgJKVTIDMzk0agwIAhIIL20vMDZjNjJyDQgDEgkvbS8wMThidmwaaxIKMjAyNy0wMS0yNSIfCgNUT1MSCjIwMjctMDEtMjUaA0JFRyoCSlUyAzM5NSIfCgNCRUcSCjIwMjctMDEtMjYaA0ZDTyoCSlUyAzQwMGoNCAMSCS9tLzAxOGJ2bHIMCAISCC9tLzA2YzYyQAFIAXABggELCP___________wGYAQE&tfu=CnRDalJJY2t4TE1rZG1UM3BMUldOQlEzcENVVkZDUnkwdExTMHRMUzB0TFMxM1ptSnZPVUZCUVVGQlIzQTJOV0p6VEdkbGFGbEJFZ3RLVlRNNU5YeEtWVFF3TUJvTENQaVBBUkFDR2dORlZWSTRISENEcGdFPRICCAAiAA&hl=it&gl=IT",
+		  "descrizione": "Confronta prezzi e combinazioni"
+		},
+		{
+		  "nome": "Air Serbia",
+		  "url": "https://booking.airserbia.com/dx/JUDX/?gclid=ADowPOLuL_-869b36r1G6TJjbfbqvCmu81AgSuot7v6-hVqvlqiZjyTRBLzr8AfoxsDSy-rFtb-C1jd2JQeoCA_77jqtKWkn3e60arR-L7isF5HjueA_&gclsrc=gf#/flight-selection?journeyType=round-trip&direction=2&currency=EUR&pointOfSale=IT&locale=en-US&awardBooking=false&ADT=1&C13=0&YTH=0&SRC=0&CHD=0&INF=0&origin=FCO&destination=TOS&date=01-18-2027&origin1=TOS&destination1=FCO&date1=01-25-2027&flight=-1471259960&flight1=1983685966&execution=5d5fc81a-a2dc-4901-9952-1ab7b247b196",
+		  "descrizione": "Volo A/R con bagaglio da stiva da 23 kg"
+		}
+	  ],
+	  "alloggi": [
+		{
+		  "nome": "Booking",
+		  "url": "https://www.booking.com/searchresults.it.html?label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq*ajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Troms%C3%B8%2C+Troms%2C+Norvegia&efdco=1&lang=it&dest_id=-284406&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=68234461194f0791&checkin=2027-01-18&checkout=2027-01-25&group_adults=2&no_rooms=1&group_children=0&nflt=oos%3D1%3Broomfacility%3D38%3Breview_score%3D80%3Bdistance%3D3000%3Bdistance%3D1000&order=price#map_opened",
+		  "descrizione": "Hotel e appartamenti"
+		},
+		{
+		  "nome": "Airbnb",
+		  "url": "https://www.airbnb.it/s/Troms%C3%B8--Norvegia/homes?refinement_paths%5B%5D=%2Fhomes&place_id=ChIJvQ0IsGS7cUYRR-jE7WOFpcs&acp_id=e3fe7c9a-7481-4068-908e-3a661f146f28&date_picker_type=calendar&checkin=2027-01-18&checkout=2027-01-25&adults=2&search_type=user_map_move&query=Troms%C3%B8%2C%20Norvegia&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2026-09-01&monthly_length=3&monthly_end_date=2026-12-01&search_mode=regular_search&price_filter_input_type=2&price_filter_num_nights=7&channel=EXPLORE&ne_lat=69.68507838276875&ne_lng=19.062349041296443&sw_lat=69.63314944090797&sw_lng=18.84013354874071&zoom=12.039466173162019&zoom_level=12.039466173162019&search_by_map=true",
+		  "descrizione": "Appartamenti e alloggi privati"
+		}
+	  ],
+	  "auto": [
+		{
+		  "nome": "Booking",
+		  "url": "https://cars.booking.com/search-results?adplat=cross_product_bar&aid=2311236&cor=it&intent=direct&label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq*ajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&prefcurrency=EUR&preflang=it&location=&dropLocation=&locationName=Troms%C3%B8&dropLocationName=Troms%C3%B8&coordinates=69.6489028930664%2C18.955097198486328&dropCoordinates=69.6489028930664%2C18.955097198486328&driversAge=30&puDay=18&puMonth=1&puYear=2027&puMinute=30&puHour=19&doDay=25&doMonth=1&doYear=2027&doMinute=0&doHour=16&ftsType=C&dropFtsType=C",
+		  "descrizione": "Confronta le offerte per il noleggio auto"
+		}
+	  ]
+	},
+  "periodo": "18-25 gennaio",
+  "durata": "8 giorni · 7 notti",
+  "descrizione": "Una settimana a Tromsø tra aurora boreale, paesaggi innevati, husky, renne e atmosfera artica nel cuore della Norvegia del Nord.",
+  "motivazione": "Gennaio è uno dei periodi più suggestivi per vivere Tromsø: le lunghe ore di buio offrono buone condizioni per andare a caccia dell’aurora boreale, mentre neve e paesaggi artici fanno da sfondo a esperienze con husky, renne e attività nella natura.",
+  "visitato": false,
+  "tag": "Aurora boreale",
+  "visibleUntil": "2027-01-10",
+  "priority": 3
+},    
     {
         "codice": "parigi",
         "destinazione": "Parigi",

@@ -10,6 +10,7 @@
   { "codice": "uk", "label": "Inghilterra", "iso2": "GB" },
   { "codice": "maldive", "label": "Maldive", "iso2": "MV" },
   { "codice": "marocco", "label": "Marocco", "iso2": "MA" },
+  { "codice": "norvegia", "label": "Norvegia", "iso2": "NO" },
   { "codice": "olanda", "label": "Olanda", "iso2": "NL" },
   { "codice": "polonia", "label": "Polonia", "iso2": "PL" },
   { "codice": "portogallo", "label": "Portogallo", "iso2": "PT" },
