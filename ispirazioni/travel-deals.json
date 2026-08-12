@@ -7,8 +7,8 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 142,
-                "nota": "volo A/R"
+                "prezzo": 186,
+                "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
             },
             "alloggio": {
                 "prezzo": 100,
@@ -59,7 +59,7 @@
             "valuta": "EUR",
             "volo": {
                 "prezzo": 62,
-                "nota": "volo A/R"
+                "nota": "1 bagaglio a mano a pagamento - 1° bagaglio registrato a pagamento"
             },
             "alloggio": {
                 "prezzo": 150,
@@ -116,7 +116,7 @@
             "valuta": "EUR",
             "volo": {
                 "prezzo": 245,
-                "nota": "volo A/R con bagaglio da stiva da 23 kg"
+                "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 23 kg incluso"
             },
             "alloggio": {
                 "prezzo": 940,
@@ -177,7 +177,7 @@
             "valuta": "EUR",
             "volo": {
                 "prezzo": 922,
-                "nota": "volo A/R"
+                "nota": "1 bagaglio a mano incluso"
             },
             "alloggio": {
                 "prezzo": 850,
@@ -228,7 +228,7 @@
             "valuta": "EUR",
             "volo": {
                 "prezzo": 87,
-                "nota": "volo A/R"
+                "nota": "1 bagaglio a mano per passeggero a pagamento - 1° bagaglio registrato per passeggero a pagamento"
             },
             "alloggio": {
                 "prezzo": 91,
@@ -271,15 +271,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 579,
-                "nota": "volo A/R"
+                "prezzo": 580,
+                "nota": "1 bagaglio a mano incluso"
             },
             "alloggio": {
                 "prezzo": 500,
                 "notti": 7,
                 "nota": "camera/appartamento per soggiorno"
             },
-            "totale": 1079,
+            "totale": 1080,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
