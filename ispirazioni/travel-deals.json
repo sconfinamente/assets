@@ -7,7 +7,7 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 186,
+                "prezzo": 203,
                 "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
             },
             "alloggio": {
@@ -15,7 +15,7 @@
                 "notti": 4,
                 "nota": "hotel o appartamento per 2 persone"
             },
-            "totale": 192,
+            "totale": 253,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -58,7 +58,7 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 62,
+                "prezzo": 69,
                 "nota": "1 bagaglio a mano a pagamento - 1° bagaglio registrato a pagamento"
             },
             "alloggio": {
@@ -66,7 +66,7 @@
                 "notti": 3,
                 "nota": "riad nel centro storico per 2 persone"
             },
-            "totale": 137,
+            "totale": 144,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -227,15 +227,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 87,
+                "prezzo": 100,
                 "nota": "1 bagaglio a mano per passeggero a pagamento - 1° bagaglio registrato per passeggero a pagamento"
             },
             "alloggio": {
-                "prezzo": 91,
+                "prezzo": 376,
                 "notti": 3,
-                "nota": "camera/appartamento per soggiorno"
+                "nota": "camera/appartamento per 2 persone"
             },
-            "totale": 178,
+            "totale": 288,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -277,7 +277,7 @@
             "alloggio": {
                 "prezzo": 500,
                 "notti": 7,
-                "nota": "camera/appartamento per soggiorno"
+                "nota": "camera/appartamento per 2 persone"
             },
             "totale": 1080,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
