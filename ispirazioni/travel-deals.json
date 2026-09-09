@@ -7,15 +7,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 203,
+                "prezzo": 198,
                 "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
             },
             "alloggio": {
-                "prezzo": 100,
+                "prezzo": 79,
                 "notti": 4,
                 "nota": "hotel o appartamento per 2 persone"
             },
-            "totale": 253,
+            "totale": 238,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -58,15 +58,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 69,
+                "prezzo": 75,
                 "nota": "1 bagaglio a mano a pagamento - 1° bagaglio registrato a pagamento"
             },
             "alloggio": {
-                "prezzo": 150,
+                "prezzo": 135,
                 "notti": 3,
                 "nota": "riad nel centro storico per 2 persone"
             },
-            "totale": 144,
+            "totale": 143,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -115,15 +115,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 245,
+                "prezzo": 225,
                 "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 23 kg incluso"
             },
             "alloggio": {
-                "prezzo": 940,
+                "prezzo": 1500,
                 "notti": 7,
                 "nota": "appartamento per 2 persone"
             },
-            "totale": 715,
+            "totale": 975,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -176,7 +176,7 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 922,
+                "prezzo": 955,
                 "nota": "1 bagaglio a mano incluso"
             },
             "alloggio": {
@@ -184,7 +184,7 @@
                 "notti": 9,
                 "nota": "appartamento con cucina per 2 persone"
             },
-            "totale": 1347,
+            "totale": 1380,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -227,15 +227,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 100,
+                "prezzo": 122,
                 "nota": "1 bagaglio a mano per passeggero a pagamento - 1° bagaglio registrato per passeggero a pagamento"
             },
             "alloggio": {
-                "prezzo": 376,
+                "prezzo": 388,
                 "notti": 3,
                 "nota": "camera/appartamento per 2 persone"
             },
-            "totale": 288,
+            "totale": 316,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -271,15 +271,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 580,
-                "nota": "1 bagaglio a mano incluso"
+                "prezzo": 488,
+                "nota": "1 bagaglio a mano incluso e 1 bagaglio registrato da 23 kg incluso"
             },
             "alloggio": {
-                "prezzo": 500,
+                "prezzo": 1500,
                 "notti": 7,
                 "nota": "camera/appartamento per 2 persone"
             },
-            "totale": 1080,
+            "totale": 994,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
