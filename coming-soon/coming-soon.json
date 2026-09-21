@@ -46,21 +46,5 @@
       "🌲 Le foreste che hanno ispirato la saga",
       "📸 Tutti gli spot imperdibili per i fan"
     ]
-  },
-  {
-    "slug": "the-last-of-us",
-    "titolo": "Nel mondo di The Last of Us",
-    "paese": "Stati Uniti",
-    "descrizione": "Un viaggio tra le location reali che hanno ispirato o rappresentato il mondo di The Last of Us, con un focus speciale sulla Seattle del secondo capitolo.",
-    "immagine": "/coming-soon/images/the-last-of-us",
-    "emoji": "🍄",
-    "colore": "#4b5563",
-    "percentuale": 40,
-    "curiosita": [
-      "🎮 I luoghi di Seattle esplorati nel gioco",
-      "🏚️ Le ambientazioni post-apocalittiche",
-      "📷 Confronto tra realtà e videogioco",
-      "🧭 Un itinerario per i fan della saga"
-    ]
   }
 ]
