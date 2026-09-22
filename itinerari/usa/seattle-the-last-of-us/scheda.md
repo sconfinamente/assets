@@ -62,9 +62,31 @@ E noi, invece, eravamo lì davanti al vero acquario.
 
 ---
 
+## Pioneer Square
+
+Lasciando il waterfront, il percorso ci porta verso **Pioneer Square**, uno dei quartieri più antichi e riconoscibili di Seattle.
+
+È qui che la città reale comincia a sovrapporsi in modo ancora più evidente a quella immaginata da Naughty Dog.
+
+Nel gioco, l'area di Pioneer Square e i suoi edifici storici diventano parte della grande Seattle esplorata da Ellie. Tra i riferimenti più riconoscibili c'è **King Street Station**, con la sua caratteristica torre dell'orologio, che nella Seattle di *The Last of Us Part II* diventa parte del **Downtown Transit Hub**.
+
+È uno di quei luoghi in cui non serve cercare una singola scena per capire il legame con il gioco.
+
+Basta guardarsi intorno.
+
+Gli edifici in mattoni, le strade, le facciate storiche e l'imponente stazione ferroviaria sono stati osservati e reinterpretati per costruire quella Seattle post-apocalittica che abbiamo imparato a conoscere attraverso Ellie.
+
+Nel gioco la zona è ormai irriconoscibile: la vegetazione ha riconquistato le strade e gli edifici abbandonati raccontano ciò che è rimasto della città prima dell'infezione.
+
+E pensare che, pochi metri più in là, nella Seattle reale, la vita continua normalmente.
+
+È proprio questo contrasto a rendere Pioneer Square una delle tappe più interessanti del nostro percorso.
+
+---
+
 ## Lumen Field
 
-Lasciando il waterfront e spostandoci verso sud incontriamo un altro luogo impossibile da non riconoscere per chi conosce il gioco:
+Lasciando Pioneer Square e spostandoci verso sud incontriamo un altro luogo impossibile da non riconoscere per chi conosce il gioco:
 
 **Lumen Field**.
 
@@ -248,7 +270,7 @@ La Seattle reale è ovviamente molto diversa dalla città post-apocalittica del 
 
 Ma alcuni dettagli sono immediatamente riconoscibili.
 
-E uno dei più belli è proprio quello che avete visto voi:
+E uno dei più belli è proprio quello che abbiamo visto noi:
 
 ---
 
@@ -285,6 +307,8 @@ Abbiamo attraversato **la Seattle vera e quella immaginata**.
 Abbiamo visto la ruota panoramica dalla quale Abby e Owen si lanciano nell'acqua.
 
 Abbiamo camminato davanti all'acquario dove Abby trova Owen e Mel.
+
+Abbiamo attraversato Pioneer Square, riconoscendo nei suoi edifici storici e nella sua stazione ferroviaria alcuni dei riferimenti utilizzati per costruire la Seattle del gioco.
 
 Abbiamo guardato lo stadio che nel gioco diventa la fortezza del WLF.
 
