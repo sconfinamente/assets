@@ -10,7 +10,13 @@ Poi siamo arrivate davvero a Seattle.
 
 E abbiamo iniziato a cercare, uno dopo l'altro, quei luoghi che Naughty Dog aveva trasformato nella Seattle di *The Last of Us Part II*.
 
-Il nostro percorso comincia sul waterfront.
+---
+
+<div class="row">
+    <div class="col-md-12 align-center mb-4">
+        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1A-cGaG0Ts2DVm_myea4IU05sDR29OME&ehbc=2E312F"></iframe>
+    </div>
+</div>
 
 ---
 
