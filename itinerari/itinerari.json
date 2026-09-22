@@ -22,7 +22,11 @@
       "Seattle locations videogame",
       "Seattle luoghi serie TV"
     ],
-    "meta_description": "Scopri Seattle nel mondo di The Last of Us: Paramount Theatre, Lumen Field, Seattle Convention Center, Space Needle e altri luoghi legati a The Last of Us Part II e alla serie HBO."
+    "meta_description": "Scopri Seattle nel mondo di The Last of Us: Paramount Theatre, Lumen Field, Seattle Convention Center, Space Needle e altri luoghi legati a The Last of Us Part II e alla serie HBO.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720335738172",
+      "cover": "https://live.staticflickr.com/65535/55543595741_f7cbcb074d_c.jpg"
+    }
   },
   {
     "codice": "lapponia-rovaniemi",
