@@ -89,6 +89,8 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
     </div>
 </div>
 
+---
+
 ### Multnomah Falls: lo sfondo maestoso dell'Oregon
 
 Proseguendo lungo la Columbia River Gorge ci fermiamo alle **Multnomah Falls**, una delle cascate più imponenti e iconiche di tutto il Pacific Northwest. Anche qui la magia del cinema ha lasciato il segno: pur non essendo una delle location narrative del libro, la produzione del primo film ha girato diverse riprese attorno al celebre ponte in pietra (*Benson Bridge*) e lungo il salto d'acqua.
@@ -102,6 +104,8 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
     <div class="col-md-4 mb-2"></div>
 </div>
 
+---
+
 ### Vernonia e St. Helens
 
 A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per il regista, ma è a **St. Helens** che il primo film prende davvero vita. Qui troviamo il centro cittadino, la libreria, il Columbia Theatre e soprattutto il **vicolo** in cui Edward ferma la Volvo per salvare Bella. Percorrerlo dal vivo significa rievocare una delle scene più intime e cariche di tensione del film.
@@ -114,6 +118,8 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980160_74a8c42baa_c.jpg" />
     </div>
 </div>
+
+---
 
 ### Portland, Carver Café e Kalama
 
