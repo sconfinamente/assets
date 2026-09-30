@@ -42,6 +42,7 @@ Poi arriva Forks, e qui tutto cambia. La città non ha bisogno di "ricreare" *Tw
 * **Forever Twilight in Forks Collection:** In questo museo il mondo di *Twilight* entra definitivamente dentro di noi tra oggetti di scena, costumi e la celebre (e inquietante) bambola **Chuckesme**.
 
 ### La Treaty Line
+
 Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Push. Il celebre cartello *"No vampires over this line"* fa sorridere, ma per un istante la mente trasforma un confine geografico in uno narrativo: oltre quella linea inizia il territorio Quileute, la storia di Jacob e un altro punto di vista sulla saga.
 
 <div class="row">
@@ -102,6 +103,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
 </div>
 
 ### Vernonia e St. Helens
+
 A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per il regista, ma è a **St. Helens** che il primo film prende davvero vita. Qui troviamo il centro cittadino, la libreria, il Columbia Theatre e soprattutto il **vicolo** in cui Edward ferma la Volvo per salvare Bella. Percorrerlo dal vivo significa rievocare una delle scene più intime e cariche di tensione del film.
 
 <div class="row">
@@ -114,6 +116,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
 </div>
 
 ### Portland, Carver Café e Kalama
+
 Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena tra la fitta vegetazione), ci fermiamo al **Carver Café** a Damascus, il diner dove Bella e Charlie cenano insieme.
 
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
