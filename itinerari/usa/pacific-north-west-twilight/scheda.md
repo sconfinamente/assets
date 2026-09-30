@@ -61,12 +61,11 @@ A **La Push** l'atmosfera cambia: la foresta incontra l'oceano e le spiagge selv
 
 Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta del film è una ricostruzione, ma quella reale è monumentale: muschio, alberi giganteschi e un silenzio ovattato. Se esiste un posto al mondo in cui la presenza di creature millenarie può sembrare plausibile, è proprio questo.
 
-???????
 <div class="row">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-8 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980195_fd71ed8276_c.jpg" />
     </div>
-    <div class="col-md-8 mb-2">
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55559563087_ec796f47a7_z.jpg" />
     </div>
 </div>
