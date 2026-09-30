@@ -94,11 +94,11 @@ Proseguendo lungo la Columbia River Gorge ci fermiamo alle **Multnomah Falls**, 
 Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'atmosfera della mitica scena della **partita di baseball dei Cullen**. Ritrovarsi di fronte alla massa d'acqua immersa tra i pini e la nebbia significa respirare a pieni polmoni quel tono selvaggio, cupo e romantico che definisce visivamente tutto l'universo cinematografico di *Twilight*.
 
 <div class="row">
-    <div class="col-md-3 mb-2"></div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560746624_a8274d5c96_z.jpg" />
     </div>
-    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-4 mb-2"></div>
 </div>
 
 ### Vernonia e St. Helens
