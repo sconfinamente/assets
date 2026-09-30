@@ -5,7 +5,7 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
 <div class="row">
     <div class="col-md-4"></div>
     <div class="col-md-4">
-        <img class="rounded" src="https://live.staticflickr.com/65535/55560587911_143f4e521c_k.jpg?s=eyJpIjo1NTU2MDU4NzkxMSwiZSI6MTc5MDc3ODI0OSwicyI6ImI5MjAyN2FmODNlYjJhYzU1YWZlNWY2YzI5NjIzMmMzYjY2NmFmOWMiLCJ2IjoxfQ" />
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560587911_143f4e521c_k.jpg" />
     </div>
     <div class="col-md-4"></div>
 </div>
@@ -17,6 +17,18 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
 Il nostro viaggio comincia a **Port Angeles**. Nel romanzo è qui che Bella trascorre una delle prime serate lontano da Forks, si ritrova in difficoltà e viene salvata da Edward. 
 
 Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di straniante: non è più soltanto un nome sulla pagina, ma un luogo reale con tavoli, luci e persone. Poco distante, alla libreria **Port Book and News**, la sensazione è la stessa. Camminare per queste strade significa, a tutti gli effetti, passeggiare dentro i primi capitoli del libro.
+
+<div class="row">
+    <div class="col-md-4">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560746799_de566dca96_k.jpg" />
+    </div>        
+    <div class="col-md-4">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55559563082_ed066ed179_k.jpg" />
+    </div>
+    <div class="col-md-4">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980275_2cb5b7f8e8_k.jpg" />
+    </div>
+</div>
 
 ---
 
