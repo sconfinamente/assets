@@ -44,6 +44,15 @@ Poi arriva Forks, e qui tutto cambia. La città non ha bisogno di "ricreare" *Tw
 ### La Treaty Line
 Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Push. Il celebre cartello *"No vampires over this line"* fa sorridere, ma per un istante la mente trasforma un confine geografico in uno narrativo: oltre quella linea inizia il territorio Quileute, la storia di Jacob e un altro punto di vista sulla saga.
 
+<div class="row">
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560587936_a2f69eb7eb_c.jpg" />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980005_dba4565a60_k.jpg" />
+    </div>
+</div>
+
 ---
 
 ## La Push e la Hoh Rain Forest: la natura selvaggia
@@ -51,6 +60,16 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
 A **La Push** l'atmosfera cambia: la foresta incontra l'oceano e le spiagge selvagge mostrano il paesaggio esatto scelto dalla Meyer: imponente, umido, quasi primordiale.
 
 Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta del film è una ricostruzione, ma quella reale è monumentale: muschio, alberi giganteschi e un silenzio ovattato. Se esiste un posto al mondo in cui la presenza di creature millenarie può sembrare plausibile, è proprio questo.
+
+???????
+<div class="row">
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980195_fd71ed8276_c.jpg" />
+    </div>
+    <div class="col-md-8 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55559563087_ec796f47a7_z.jpg" />
+    </div>
+</div>
 
 ---
 
@@ -61,13 +80,39 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
 ### Le spiagge del cinema
 **Indian Beach** (all'Ecola State Park) è la La Push cinematografica, mentre poco distante, a **Cannon Beach**, la celebre **Haystack Rock** svetta tra la nebbia. È affascinante attraversare due versioni della stessa storia: quella immaginata leggendo e quella tradotta sul grande schermo.
 
+<div class="row">
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560291492_49cff41195_b.jpg" />
+    </div>        
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560746734_9a6ae31178_c.jpg" />
+    </div>
+</div>
+
 ### Multnomah Falls: lo sfondo maestoso dell'Oregon
 
 Proseguendo lungo la Columbia River Gorge ci fermiamo alle **Multnomah Falls**, una delle cascate più imponenti e iconiche di tutto il Pacific Northwest. Anche qui la magia del cinema ha lasciato il segno: pur non essendo una delle location narrative del libro, la produzione del primo film ha girato diverse riprese attorno al celebre ponte in pietra (*Benson Bridge*) e lungo il salto d'acqua.
 Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'atmosfera della mitica scena della **partita di baseball dei Cullen**. Ritrovarsi di fronte alla massa d'acqua immersa tra i pini e la nebbia significa respirare a pieni polmoni quel tono selvaggio, cupo e romantico che definisce visivamente tutto l'universo cinematografico di *Twilight*.
 
+<div class="row">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560746624_a8274d5c96_z.jpg" />
+    </div>
+    <div class="col-md-3 mb-2"></div>
+</div>
+
 ### Vernonia e St. Helens
 A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per il regista, ma è a **St. Helens** che il primo film prende davvero vita. Qui troviamo il centro cittadino, la libreria, il Columbia Theatre e soprattutto il **vicolo** in cui Edward ferma la Volvo per salvare Bella. Percorrerlo dal vivo significa rievocare una delle scene più intime e cariche di tensione del film.
+
+<div class="row">
+    <div class="col-md-4 mb-2">    
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560683478_da72ffb4c9_z.jpg" />
+    </div>
+    <div class="col-md-8 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980160_74a8c42baa_c.jpg" />
+    </div>
+</div>
 
 ### Portland, Carver Café e Kalama
 Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena tra la fitta vegetazione), ci fermiamo al **Carver Café** a Damascus, il diner dove Bella e Charlie cenano insieme.
@@ -75,11 +120,12 @@ Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
 
 <div class="row">
-    <div class="col-md-2 mb-2"></div>
+    <div class="col-md-4 mb-2">    
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980060_4bb5809c46_z.jpg" />
+    </div>
     <div class="col-md-8 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980085_cfeaf3808a_k.jpg" />
     </div>
-    <div class="col-md-2 mb-2"></div>
 </div>
 
 ---
