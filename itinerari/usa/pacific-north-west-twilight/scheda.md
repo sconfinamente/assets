@@ -3,11 +3,11 @@ Ci sono viaggi che fai per vedere un posto. E poi ce ne sono altri in cui parti 
 Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola olimpica, nel nord-ovest dello Stato di Washington, circondata da foreste e pioggia. Per chi ha letto il libro, invece, è il luogo in cui Bella Swan arrives lasciandosi alle spalle Phoenix, dove incontra Edward Cullen e dove la pioggia diventa un personaggio a sé. Noi siamo arrivate lì dopo aver attraversato una parte del Pacific Northwest: a quel punto il viaggio ha smesso di essere una semplice vacanza ed è diventato un modo per entrare dentro una storia.
 
 <div class="row">
-    <div class="col-md-2 mb-2"></div>
-    <div class="col-md-8 mb-2">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55561405769_70385873c7_c.jpg" />
     </div>
-    <div class="col-md-2 mb-2"></div>
+    <div class="col-md-3 mb-2"></div>
 </div>
 
 ---
