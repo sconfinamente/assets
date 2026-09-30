@@ -3,11 +3,11 @@ Ci sono viaggi che fai per vedere un posto. E poi ce ne sono altri in cui parti 
 Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola olimpica, nel nord-ovest dello Stato di Washington, circondata da foreste e pioggia. Per chi ha letto il libro, invece, è il luogo in cui Bella Swan arrives lasciandosi alle spalle Phoenix, dove incontra Edward Cullen e dove la pioggia diventa un personaggio a sé. Noi siamo arrivate lì dopo aver attraversato una parte del Pacific Northwest: a quel punto il viaggio ha smesso di essere una semplice vacanza ed è diventato un modo per entrare dentro una storia.
 
 <div class="row">
-    <div class="col-md-4"></div>
-    <div class="col-md-4">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560587911_143f4e521c_k.jpg" />
     </div>
-    <div class="col-md-4"></div>
+    <div class="col-md-4 mb-2"></div>
 </div>
 
 ---
@@ -19,13 +19,13 @@ Il nostro viaggio comincia a **Port Angeles**. Nel romanzo è qui che Bella tras
 Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di straniante: non è più soltanto un nome sulla pagina, ma un luogo reale con tavoli, luci e persone. Poco distante, alla libreria **Port Book and News**, la sensazione è la stessa. Camminare per queste strade significa, a tutti gli effetti, passeggiare dentro i primi capitoli del libro.
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560746799_de566dca96_k.jpg" />
     </div>        
-    <div class="col-md-4">
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55559563082_ed066ed179_k.jpg" />
     </div>
-    <div class="col-md-4">
+    <div class="col-md-4 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980275_2cb5b7f8e8_k.jpg" />
     </div>
 </div>
@@ -73,6 +73,14 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
 Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena tra la fitta vegetazione), ci fermiamo al **Carver Café** a Damascus, il diner dove Bella e Charlie cenano insieme.
 
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980085_cfeaf3808a_k.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
