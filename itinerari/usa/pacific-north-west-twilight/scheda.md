@@ -75,11 +75,11 @@ Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-2 mb-2"></div>
+    <div class="col-md-8 mb-2">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55560980085_cfeaf3808a_k.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-2 mb-2"></div>
 </div>
 
 ---
