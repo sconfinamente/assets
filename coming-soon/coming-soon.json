@@ -30,21 +30,5 @@
       "🦌 Avvistare cervi, aquile e balene",
       "🥾 I sentieri dell'Olympic National Park"
     ]
-  },
-  {
-    "slug": "twilight",
-    "titolo": "Sulle tracce di Twilight",
-    "paese": "Stati Uniti",
-    "descrizione": "Un itinerario dedicato ai luoghi che hanno ispirato la celebre saga di Twilight, tra Forks, La Push, foreste nebbiose e paesaggi che sembrano usciti direttamente dai film.",
-    "immagine": "/coming-soon/images/twilight",
-    "emoji": "🌙",
-    "colore": "#6c5ce7",
-    "percentuale": 55,
-    "curiosita": [
-      "🧛 Visitare la cittadina di Forks",
-      "🌊 Passeggiare sulle spiagge di La Push",
-      "🌲 Le foreste che hanno ispirato la saga",
-      "📸 Tutti gli spot imperdibili per i fan"
-    ]
   }
 ]

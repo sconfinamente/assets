@@ -1,5 +1,34 @@
 [
   {
+    "codice": "pacific-north-west-twilight",
+    "paese": "usa",
+    "titolo": "Sulle tracce di Twilight",
+    "descrizione": "Un itinerario nel Pacific Northwest tra i luoghi reali del libro nella Olympic Peninsula e le location cinematografiche del film tra Washington e Oregon.",
+    "keywords": [
+      "Twilight Pacific Northwest",
+      "Forks Twilight itinerario",
+      "Twilight luoghi reali",
+      "Twilight locations Washington Oregon",
+      "Port Angeles Twilight",
+      "La Push Twilight",
+      "Hoh Rain Forest Twilight",
+      "St Helens Twilight",
+      "Vernonia Twilight",
+      "Kalama High School Twilight",
+      "Bella Italia Port Angeles",
+      "Treaty Line Twilight",
+      "Indian Beach Twilight",
+      "Multnomah Falls Twilight",
+      "viaggio Twilight Pacific Northwest",
+      "cineturismo Twilight USA"
+    ],
+    "meta_description": "Scopri i luoghi di Twilight tra Washington e Oregon: da Forks e La Push alle location del film come St. Helens, Vernonia, Indian Beach e Multnomah Falls.",
+    "flickr": {
+      "url": "https://www.flickr.com/photos/203856126@N06/albums/72177720335894547",
+      "cover": "https://live.staticflickr.com/65535/55560683478_da72ffb4c9_z.jpg"
+    }
+  },
+  {
     "codice": "seattle-the-last-of-us",
     "paese": "usa",
     "titolo": "Nel mondo di The Last of Us",
