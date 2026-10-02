@@ -121,7 +121,7 @@ Il momento più importante arriva quando Ellie, Dina e Jesse si avvicinano alla 
 <div class="row">
     <div class="col-md-3 mb-2"></div>
     <div class="col-md-6 mb-2">
-        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567242_df56b2f475_k.jpg" />
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543704663_28aca84d39_b.jpg" />
     </div>
     <div class="col-md-3 mb-2"></div>
 </div>
