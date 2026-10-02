@@ -203,7 +203,7 @@ La città non è soltanto un campo di battaglia.
 <div class="row">
     <div class="col-md-4 mb-2"></div>
     <div class="col-md-4 mb-2">
-        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980470_5dffbe4d7f_z.jpg" />
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595726_1f6f63e1c9_k.jpg" />
     </div>
     <div class="col-md-4 mb-2"></div>
 </div>
