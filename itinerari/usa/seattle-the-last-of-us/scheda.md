@@ -116,11 +116,34 @@ Nella Seattle reale è lo stadio dei Seahawks e dei Sounders. Nel gioco diventa 
 È una delle immagini che meglio raccontano quanto *The Last of Us* trasformi la Seattle reale: lo stesso edificio che nella nostra realtà ospita migliaia di persone diventa una roccaforte circondata da muri, torrette e soldati.
 
 <div class="row">
-    <div class="col-md-3 mb-2"></div>
     <div class="col-md-6 mb-2">
-        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543704663_28aca84d39_b.jpg" />
+        <img
+            src="https://www.dropbox.com/scl/fi/wwqzgig2jvlbgrt45mhx3/2026-08-24-15.15.30-7127.JPG-1200.webp?rlkey=1ojkc13grwqak9hbczil43kch&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/637bu0mbswwkfdee9o77v/2026-08-24-15.15.30-7127.JPG-640.webp?rlkey=np3ztuuctmuddhfnean9cs6lr&raw=1 640w,
+                https://www.dropbox.com/scl/fi/wwqzgig2jvlbgrt45mhx3/2026-08-24-15.15.30-7127.JPG-1200.webp?rlkey=1ojkc13grwqak9hbczil43kch&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />   
     </div>
-    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/0so6y7hhdtrxb2ghbipob/2026-08-25-18.31.46-1200.webp?rlkey=xothodxf1nro7uaw5dit6agr0&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/by2muvdf3oi3644pif0af/2026-08-25-18.31.46-640.webp?rlkey=pd8xxtht1hc3zwv1ef4pgt020&raw=1 640w,
+                https://www.dropbox.com/scl/fi/0so6y7hhdtrxb2ghbipob/2026-08-25-18.31.46-1200.webp?rlkey=xothodxf1nro7uaw5dit6agr0&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />   
+    </div>
 </div>
 
 ---
