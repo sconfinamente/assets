@@ -36,6 +36,14 @@ La città è distrutta, ma il panorama resta spettacolare.
 
 E noi, davanti alla vera Great Wheel, potevamo finalmente vedere la stessa città senza l'apocalisse.
 
+<div class="row">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595741_f7cbcb074d_b.jpg" />
+    </div>
+    <div class="col-md-3 mb-2"></div>
+</div>
+
 ---
 
 ## Seattle Aquarium
@@ -59,6 +67,14 @@ Da quel momento la storia torna a incrociarsi.
 Abby sa dove trovare Ellie.
 
 E noi, invece, eravamo lì davanti al vero acquario.
+
+<div class="row">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567242_57e651fc1c_b.jpg" />
+    </div>
+    <div class="col-md-3 mb-2"></div>
+</div>
 
 ---
 
@@ -102,6 +118,14 @@ Il momento più importante arriva quando Ellie, Dina e Jesse si avvicinano alla 
 
 È una delle immagini che meglio raccontano quanto *The Last of Us* trasformi la Seattle reale: lo stesso edificio che nella nostra realtà ospita migliaia di persone diventa una roccaforte circondata da muri, torrette e soldati.
 
+<div class="row">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567242_df56b2f475_k.jpg" />
+    </div>
+    <div class="col-md-3 mb-2"></div>
+</div>
+
 ---
 
 ## William Kenzo Nakamura United States Courthouse
@@ -124,6 +148,14 @@ Non sta semplicemente cercando Abby.
 
 Sta entrando sempre più profondamente nel mondo che Abby ha costruito.
 
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567262_857cd970f5_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
+
 ---
 
 ## Seattle Central Library
@@ -137,6 +169,14 @@ Nel gioco non è un luogo esplorabile come il tribunale o l'acquario, ma la sua 
 Non c'è una scena fondamentale da ricostruire.
 
 Ma proprio per questo è interessante: mentre camminiamo davanti alla biblioteca reale, possiamo riconoscere una parte della Seattle che Ellie attraversa sullo schermo.
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980470_5dffbe4d7f_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
@@ -159,6 +199,14 @@ Dina riconosce l'edificio come una sinagoga e, mentre cercano rifornimenti, racc
 La città non è soltanto un campo di battaglia.
 
 È ancora una città piena di tracce delle persone che ci vivevano.
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980470_5dffbe4d7f_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
@@ -185,6 +233,14 @@ E grazie a quello Ellie e Dina possono continuare il loro percorso nella Seattle
 Davanti al vero Hotel Sorrento, quindi, non stavamo semplicemente guardando un albergo storico.
 
 Stavamo guardando il **Serevena Hotel**.
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595791_8531705dcf_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
@@ -215,6 +271,14 @@ E finalmente le due storie si incontrano.
 Il teatro è quindi molto più di una semplice location.
 
 **È il luogo in cui la storia di Ellie e quella di Abby finiscono per collidere.**
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567287_c098e1b28c_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
@@ -256,6 +320,14 @@ Ancora capace di dominare lo skyline.
 
 Ed è quasi straniante pensare che, nello stesso mondo immaginario in cui Ellie attraversa una Seattle invasa dalla vegetazione e controllata dal WLF, la Space Needle continui a emergere dalla nebbia come uno dei pochi punti di riferimento rimasti.
 
+<div class="row">
+    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-6 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595781_8eff917499_b.jpg" />
+    </div>
+    <div class="col-md-3 mb-2"></div>
+</div>
+
 ---
 
 ## Capitol Hill
@@ -295,6 +367,14 @@ Ma è proprio questo a renderlo speciale.
 Perché significa che, dentro la Seattle distrutta di *The Last of Us*, Naughty Dog non ha ricreato soltanto i grandi monumenti.
 
 Ha cercato anche **i piccoli dettagli che rendono una città riconoscibile**.
+
+<div class="row">
+    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-2">
+        <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980465_2ae0bc96ce_z.jpg" />
+    </div>
+    <div class="col-md-4 mb-2"></div>
+</div>
 
 ---
 
