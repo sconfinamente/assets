@@ -1,14 +1,8 @@
-Ci sono città che si visitano.
+Ci sono città che si visitano. E poi ci sono città che, in qualche modo, abbiamo già attraversato prima ancora di arrivarci.
 
-E poi ci sono città che, in qualche modo, abbiamo già attraversato prima ancora di arrivarci.
+Seattle per noi è stata un po' così. L'avevamo conosciuta attraverso gli occhi di Ellie, attraverso le strade invase dalla vegetazione, gli edifici abbandonati, le insegne semisommerse e quello skyline che continuava a emergere dalla nebbia.
 
-Seattle per noi è stata un po' così.
-
-L'avevamo conosciuta attraverso gli occhi di Ellie, attraverso le strade invase dalla vegetazione, gli edifici abbandonati, le insegne semisommerse e quello skyline che continuava a emergere dalla nebbia.
-
-Poi siamo arrivate davvero a Seattle.
-
-E abbiamo iniziato a cercare, uno dopo l'altro, quei luoghi che Naughty Dog aveva trasformato nella Seattle di *The Last of Us Part II*.
+Poi siamo arrivate davvero a Seattle. E abbiamo iniziato a cercare, uno dopo l'altro, quei luoghi che Naughty Dog aveva trasformato nella Seattle di *The Last of Us Part II*.
 
 ---
 
@@ -24,16 +18,11 @@ E abbiamo iniziato a cercare, uno dopo l'altro, quei luoghi che Naughty Dog avev
 
 La prima grande sorpresa è stata trovarsi davanti alla **Seattle Great Wheel**.
 
-Nella Seattle reale è una gigantesca ruota panoramica affacciata sull'Elliott Bay. Nella Seattle di *The Last of Us Part II*, invece, diventa uno dei simboli più riconoscibili del percorso di Abby.
-
-È qui che Abby e Owen arrivano durante la loro ricerca dell'acquario.
+Nella Seattle reale è una gigantesca ruota panoramica affacciata sull'Elliott Bay. Nella Seattle di *The Last of Us Part II*, invece, diventa uno dei simboli più riconoscibili del percorso di Abby. È qui che Abby e Owen arrivano durante la loro ricerca dell'acquario.
 
 La scena è una delle più memorabili della parte di Abby: i due salgono sulla ruota panoramica e, dall'alto, osservano la città devastata. Poco dopo, Owen decide di lanciarsi in acqua dalla ruota.
 
-È un momento particolare perché, per una volta, *The Last of Us* ci mostra una Seattle quasi bella.
-
-La città è distrutta, ma il panorama resta spettacolare.
-
+È un momento particolare perché, per una volta, *The Last of Us* ci mostra una Seattle quasi bella. La città è distrutta, ma il panorama resta spettacolare.
 E noi, davanti alla vera Great Wheel, potevamo finalmente vedere la stessa città senza l'apocalisse.
 
 <div class="row">
@@ -48,25 +37,11 @@ E noi, davanti alla vera Great Wheel, potevamo finalmente vedere la stessa citt�
 
 ## Seattle Aquarium
 
-Poco più avanti, sullo stesso waterfront, c'è il **Seattle Aquarium**.
-
-E qui il collegamento con il gioco diventa ancora più forte.
+Poco più avanti, sullo stesso waterfront, c'è il **Seattle Aquarium**. E qui il collegamento con il gioco diventa ancora più forte.
 
 Nel mondo di *The Last of Us Part II*, l'acquario è il rifugio che Owen sogna di trasformare in una nuova casa. Abby lo raggiunge nel corso della sua storia, dopo aver attraversato Seattle e aver affrontato i Serafiti.
 
 È uno dei luoghi più importanti della parte di Abby e Owen: un piccolo angolo di normalità dentro una città devastata.
-
-Qui Abby e Owen immaginano una vita diversa, lontana dal WLF e dalla guerra.
-
-Ma quella possibilità dura pochissimo.
-
-Quando Abby torna all'acquario insieme a Lev, trova **Owen e Mel morti**, uccisi da Ellie. È proprio lì che Abby scopre la mappa lasciata da Ellie e capisce dove si trova il suo rifugio: il Pinnacle Theater.
-
-Da quel momento la storia torna a incrociarsi.
-
-Abby sa dove trovare Ellie.
-
-E noi, invece, eravamo lì davanti al vero acquario.
 
 <div class="row">
     <div class="col-md-4 mb-2">
@@ -117,21 +92,14 @@ E noi, invece, eravamo lì davanti al vero acquario.
 
 ## Pioneer Square
 
-Lasciando il waterfront, il percorso ci porta verso **Pioneer Square**, uno dei quartieri più antichi e riconoscibili di Seattle.
-
-È qui che la città reale comincia a sovrapporsi in modo ancora più evidente a quella immaginata da Naughty Dog.
+Lasciando il waterfront, il percorso ci porta verso **Pioneer Square**, uno dei quartieri più antichi e riconoscibili di Seattle. È qui che la città reale comincia a sovrapporsi in modo ancora più evidente a quella immaginata da Naughty Dog.
 
 Nel gioco, l'area di Pioneer Square e i suoi edifici storici diventano parte della grande Seattle esplorata da Ellie. Tra i riferimenti più riconoscibili c'è **King Street Station**, con la sua caratteristica torre dell'orologio, che nella Seattle di *The Last of Us Part II* diventa parte del **Downtown Transit Hub**.
-
-È uno di quei luoghi in cui non serve cercare una singola scena per capire il legame con il gioco.
-
-Basta guardarsi intorno.
+È uno di quei luoghi in cui non serve cercare una singola scena per capire il legame con il gioco. Basta guardarsi intorno.
 
 Gli edifici in mattoni, le strade, le facciate storiche e l'imponente stazione ferroviaria sono stati osservati e reinterpretati per costruire quella Seattle post-apocalittica che abbiamo imparato a conoscere attraverso Ellie.
 
-Nel gioco la zona è ormai irriconoscibile: la vegetazione ha riconquistato le strade e gli edifici abbandonati raccontano ciò che è rimasto della città prima dell'infezione.
-
-E pensare che, pochi metri più in là, nella Seattle reale, la vita continua normalmente.
+Nel gioco la zona è ormai irriconoscibile: la vegetazione ha riconquistato le strade e gli edifici abbandonati raccontano ciò che è rimasto della città prima dell'infezione. E pensare che, pochi metri più in là, nella Seattle reale, la vita continua normalmente.
 
 È proprio questo contrasto a rendere Pioneer Square una delle tappe più interessanti del nostro percorso.
 
@@ -139,19 +107,11 @@ E pensare che, pochi metri più in là, nella Seattle reale, la vita continua no
 
 ## Lumen Field
 
-Lasciando Pioneer Square e spostandoci verso sud incontriamo un altro luogo impossibile da non riconoscere per chi conosce il gioco:
+Lasciando Pioneer Square e spostandoci verso sud incontriamo un altro luogo impossibile da non riconoscere per chi conosce il gioco: **Lumen Field**.
 
-**Lumen Field**.
+Nella Seattle reale è lo stadio dei Seahawks e dei Sounders. Nel gioco diventa invece il **quartier generale del Washington Liberation Front**, il WLF, la milizia che controlla gran parte della Seattle post-pandemica.
 
-Nella Seattle reale è lo stadio dei Seahawks e dei Sounders.
-
-Nel gioco diventa invece il **quartier generale del Washington Liberation Front**, il WLF, la milizia che controlla gran parte della Seattle post-pandemica.
-
-È qui che la Seattle di Ellie assume definitivamente il volto del WLF.
-
-Lo stadio non è più un luogo per partite e concerti: è una fortezza militare.
-
-Il momento più importante arriva quando Ellie, Dina e Jesse si avvicinano alla zona. Il WLF sta preparando l'attacco contro i Serafiti e l'intera area è diventata una base armata.
+È qui che la Seattle di Ellie assume definitivamente il volto del WLF. Lo stadio non è più un luogo per partite e concerti: è una fortezza militare.
 
 È una delle immagini che meglio raccontano quanto *The Last of Us* trasformi la Seattle reale: lo stesso edificio che nella nostra realtà ospita migliaia di persone diventa una roccaforte circondata da muri, torrette e soldati.
 
@@ -167,23 +127,9 @@ Il momento più importante arriva quando Ellie, Dina e Jesse si avvicinano alla 
 
 ## William Kenzo Nakamura United States Courthouse
 
-Rientrando verso Downtown arriviamo al **William Kenzo Nakamura United States Courthouse**.
+Rientrando verso Downtown arriviamo al **William Kenzo Nakamura United States Courthouse**. Nel gioco diventa semplicemente il **Courthouse di Seattle**. Ed è una delle tappe fondamentali della prima giornata di Ellie.
 
-Nel gioco diventa semplicemente il **Courthouse di Seattle**.
-
-Ed è una delle tappe fondamentali della prima giornata di Ellie.
-
-Ellie e Dina stanno cercando carburante per poter raggiungere il Serevena Hotel. Quando vedono il cartello del tribunale, decidono di entrarci.
-
-Quello che trovano dentro è molto diverso da quello che si aspettavano.
-
-Il palazzo è stato utilizzato dalla FEDRA e poi conquistato dal WLF. Ellie e Dina devono attraversarlo combattendo gli infetti e, alla fine, Ellie trova il corpo del responsabile della struttura, **il tenente Torres**, morto durante l'assalto del WLF.
-
-Il tribunale è quindi uno dei luoghi in cui Ellie comincia davvero a scoprire cosa è successo alla Seattle post-pandemica.
-
-Non sta semplicemente cercando Abby.
-
-Sta entrando sempre più profondamente nel mondo che Abby ha costruito.
+Il tribunale è quindi uno dei luoghi in cui Ellie comincia davvero a scoprire cosa è successo alla Seattle post-pandemica. Non sta semplicemente cercando Abby. Sta entrando sempre più profondamente nel mondo che Abby ha costruito.
 
 <div class="row">
     <div class="col-md-4 mb-2"></div>
@@ -201,11 +147,7 @@ Poco distante incontriamo la **Seattle Central Library**.
 
 Nel gioco non è un luogo esplorabile come il tribunale o l'acquario, ma la sua architettura è stata riprodotta nella Seattle di *The Last of Us Part II*. È uno di quei dettagli che fanno capire quanto Naughty Dog abbia utilizzato la città reale come materiale per costruire il proprio mondo.
 
-È una tappa più silenziosa.
-
-Non c'è una scena fondamentale da ricostruire.
-
-Ma proprio per questo è interessante: mentre camminiamo davanti alla biblioteca reale, possiamo riconoscere una parte della Seattle che Ellie attraversa sullo schermo.
+È una tappa più silenziosa. Non c'è una scena fondamentale da ricostruire. Ma proprio per questo è interessante: mentre camminiamo davanti alla biblioteca reale, possiamo riconoscere una parte della Seattle che Ellie attraversa sullo schermo.
 
 <div class="row">
     <div class="col-md-4 mb-2"></div>
@@ -221,21 +163,7 @@ Ma proprio per questo è interessante: mentre camminiamo davanti alla biblioteca
 
 Poi arriviamo a **The Sanctuary**, all'811 5th Avenue.
 
-Dietro questo spazio per eventi si trova l'edificio che nella realtà era il **Daniels Recital Hall**, utilizzato come riferimento per la sinagoga della Seattle di *The Last of Us Part II*.
-
-Nel gioco Ellie e Dina entrano nella sinagoga durante l'esplorazione di Downtown.
-
-È una tappa breve ma importante.
-
-Dina riconosce l'edificio come una sinagoga e, mentre cercano rifornimenti, racconta a Ellie qualcosa della propria famiglia e della sorella. Prima di uscire, Ellie e Dina cercano ciò che può essere utile e poi tornano verso il loro obiettivo: il Courthouse.
-
-È uno dei momenti in cui il gioco riesce a fare una cosa che gli riesce particolarmente bene:
-
-**in mezzo alla violenza lascia spazio a una conversazione personale.**
-
-La città non è soltanto un campo di battaglia.
-
-È ancora una città piena di tracce delle persone che ci vivevano.
+Dietro questo spazio per eventi si trova l'edificio che nella realtà era il **Daniels Recital Hall**, utilizzato come riferimento per la sinagoga della Seattle di *The Last of Us Part II*. Nel gioco Ellie e Dina entrano nella sinagoga durante l'esplorazione di Downtown. È una tappa breve ma importante.
 
 <div class="row">
     <div class="col-md-4 mb-2"></div>
@@ -249,9 +177,7 @@ La città non è soltanto un campo di battaglia.
 
 ## Hotel Sorrento — Serevena Hotel
 
-Da qui il nostro percorso ci porta all'**Hotel Sorrento**.
-
-E qui il collegamento è diretto e particolarmente affascinante.
+Da qui il nostro percorso ci porta all'**Hotel Sorrento**. E qui il collegamento è diretto e particolarmente affascinante.
 
 Nel gioco l'hotel si chiama **Serevena Hotel** ed è chiaramente ispirato al vero Sorrento Hotel di Seattle.
 
