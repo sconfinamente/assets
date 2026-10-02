@@ -76,7 +76,7 @@ E noi, invece, eravamo lì davanti al vero acquario.
                 https://www.dropbox.com/scl/fi/tnuwb5du7vyjua1zzw46t/2026-08-23-15.12.04-6935-640.webp?rlkey=ec95p1cpkn0y6pmn89ak7cfot&raw=1 640w,
                 https://www.dropbox.com/scl/fi/17lfqpq58vdf31hakn54w/2026-08-23-15.12.04-6935-1200.webp?rlkey=tcrofo2i3clrt4eizjonho0ni&raw=1 1200w
             "
-            sizes="100vw"
+            class="rounded w-100"
             alt=""
             loading="eager"
             decoding="async"
@@ -90,7 +90,7 @@ E noi, invece, eravamo lì davanti al vero acquario.
                 https://www.dropbox.com/scl/fi/df3hfgxeyj3ol5q40vsj9/2026-08-23-15.11.55-6928-640.webp?rlkey=g4mdyhant9go7rwr29hodrqaq&raw=1 640w,
                 https://www.dropbox.com/scl/fi/hkz5c8cr8oq9nqfpwtzm0/2026-08-23-15.11.55-6928-1200.webp?rlkey=djmyxmhih47kttd7azdzgtz2u&raw=1 1200w
             "
-            sizes="100vw"
+            class="rounded w-100"
             alt=""
             loading="eager"
             decoding="async"
@@ -104,7 +104,7 @@ E noi, invece, eravamo lì davanti al vero acquario.
                 https://www.dropbox.com/scl/fi/c3m973h4xxz2nmg1pfldj/2026-08-23-10.34.20-640.webp?rlkey=kp3ecf9n3xqeo0uluhlpgtlrk&raw=1 640w,
                 https://www.dropbox.com/scl/fi/zw2tb5nrde04dm1zg83d7/2026-08-23-10.34.20-1200.webp?rlkey=pvaej12megcz73dvfdtx0ni91&raw=1 1200w
             "
-            sizes="100vw"
+            class="rounded w-100"
             alt=""
             loading="eager"
             decoding="async"
