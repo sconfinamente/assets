@@ -3,7 +3,7 @@ Ci sono viaggi che fai per vedere un posto. E poi ce ne sono altri in cui parti 
 
 Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola olimpica, nel nord-ovest dello Stato di Washington, circondata da foreste e pioggia. Per chi ha letto il libro, invece, è il luogo in cui Bella Swan arriva lasciandosi alle spalle Phoenix, dove incontra Edward Cullen e dove la pioggia diventa un personaggio a sé. Noi siamo arrivate lì dopo aver attraversato una parte del Pacific Northwest: a quel punto il viaggio ha smesso di essere una semplice vacanza ed è diventato un modo per entrare dentro una storia.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-12 align-center mb-4">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rm8N7wS-1JntmQ23iufTr1khrryYHyo&ehbc=2E312F"></iframe>
     </div>
@@ -11,7 +11,7 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
 
 ---
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-2 mb-2"></div>        
     <div class="col-md-4 mb-2">
         <img
@@ -52,7 +52,7 @@ Il nostro viaggio comincia a **Port Angeles**. Nel romanzo è qui che Bella tras
 
 Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di straniante: non è più soltanto un nome sulla pagina, ma un luogo reale con tavoli, luci e persone. Poco distante, alla libreria **Port Book and News**, la sensazione è la stessa. Camminare per queste strade significa, a tutti gli effetti, passeggiare dentro i primi capitoli del libro.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/7i8fecqn6qj2u43gdjh9i/2026-08-26-19.12.37-1200.webp?rlkey=o8y59ek6c43sdiy5qq6s4plu3&st=3rkvywga&raw=1"
@@ -112,7 +112,7 @@ Poi arriva Forks, e qui tutto cambia. La città non ha bisogno di "ricreare" *Tw
 
 Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Push. Il celebre cartello *"No vampires over this line"* fa sorridere, ma per un istante la mente trasforma un confine geografico in uno narrativo: oltre quella linea inizia il territorio Quileute, la storia di Jacob e un altro punto di vista sulla saga.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-6 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/vvgmzfnct550z2aaa2t1m/2026-08-27-16.31.38-1200.webp?rlkey=3e461ciiq9erxdmb700bb32k6&st=rn9qfav1&raw=1"
@@ -151,7 +151,7 @@ A **La Push** l'atmosfera cambia: la foresta incontra l'oceano e le spiagge selv
 
 Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta del film è una ricostruzione, ma quella reale è monumentale: muschio, alberi giganteschi e un silenzio ovattato. Se esiste un posto al mondo in cui la presenza di creature millenarie può sembrare plausibile, è proprio questo.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-6 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/td3ym494oyteusaxxai89/2026-08-29-08.24.01-1200.webp?rlkey=g2yt7a7sdnhne2av3kw3qad8m&st=punr2w7d&raw=1"
@@ -180,9 +180,6 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
     </div>
-</div>
-
-<div class="row">
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/81543gtvarjtealfku0vb/2026-08-28-12.35.11-1200.webp?rlkey=t6icp8cgj3n6g21ypj1uixjrj&st=lojx6hcf&raw=1"
@@ -236,7 +233,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
 ### Le spiagge del cinema
 **Indian Beach** (all'Ecola State Park) è la La Push cinematografica, mentre poco distante, a **Cannon Beach**, la celebre **Haystack Rock** svetta tra la nebbia. È affascinante attraversare due versioni della stessa storia: quella immaginata leggendo e quella tradotta sul grande schermo.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/3qtmx5mmri36y6oz2o3km/2026-08-30-15.57.22-1200.webp?rlkey=0f1z4q446nmefz2dwrlwxecpx&st=nojv93yx&raw=1"
@@ -312,7 +309,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
 Proseguendo lungo la Columbia River Gorge ci fermiamo alle **Multnomah Falls**, una delle cascate più imponenti e iconiche di tutto il Pacific Northwest. Anche qui la magia del cinema ha lasciato il segno: pur non essendo una delle location narrative del libro, la produzione del primo film ha girato diverse riprese attorno al celebre ponte in pietra (*Benson Bridge*) e lungo il salto d'acqua.
 Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'atmosfera della mitica scena della **partita di baseball dei Cullen**. Ritrovarsi di fronte alla massa d'acqua immersa tra i pini e la nebbia significa respirare a pieni polmoni quel tono selvaggio, cupo e romantico che definisce visivamente tutto l'universo cinematografico di *Twilight*.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/nt9fu6mxyxabdsccrujtc/2026-09-01-09.50.31-1200.webp?rlkey=nzu2o0isqnnimmh56vxq7s7gc&st=0vk9xh1x&raw=1"
@@ -363,7 +360,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
 
 A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per il regista, ma è a **St. Helens** che il primo film prende davvero vita. Qui troviamo il centro cittadino, la libreria, il Columbia Theatre e soprattutto il **vicolo** in cui Edward ferma la Volvo per salvare Bella. Percorrerlo dal vivo significa rievocare una delle scene più intime e cariche di tensione del film.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/voxfcdovqtvh6pc8a49bu/2026-08-31-12.00.22-1200.webp?rlkey=2hbjjz9syezfsxemtftfodnbn&st=jpv3x1ni&raw=1"
@@ -416,7 +413,7 @@ Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena
 
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
 
-<div class="row">
+<div class="row gallery">
     <div class="col-md-6 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/4bmy4mo28r63gih83h0ad/2026-09-01-13.20.14-1200.webp?rlkey=6ubd67bh8yvl2gejtja8np8bs&st=84k3s0t3&raw=1"
