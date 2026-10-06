@@ -26,11 +26,11 @@ La scena è una delle più memorabili della parte di Abby: i due salgono sulla r
 E noi, davanti alla vera Great Wheel, potevamo finalmente vedere la stessa città senza l'apocalisse.
 
 <div class="row">
-    <div class="col-md-3 mb-2"></div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-3 mb-4"></div>
+    <div class="col-md-6 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595741_f7cbcb074d_b.jpg" />
     </div>
-    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-3 mb-4"></div>
 </div>
 
 ---
@@ -44,7 +44,7 @@ Nel mondo di *The Last of Us Part II*, l'acquario è il rifugio che Owen sogna d
 È uno dei luoghi più importanti della parte di Abby e Owen: un piccolo angolo di normalità dentro una città devastata.
 
 <div class="row">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/17lfqpq58vdf31hakn54w/2026-08-23-15.12.04-6935-1200.webp?rlkey=tcrofo2i3clrt4eizjonho0ni&raw=1"
             srcset="
@@ -58,7 +58,7 @@ Nel mondo di *The Last of Us Part II*, l'acquario è il rifugio che Owen sogna d
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/hkz5c8cr8oq9nqfpwtzm0/2026-08-23-15.11.55-6928-1200.webp?rlkey=djmyxmhih47kttd7azdzgtz2u&raw=1"
             srcset="
@@ -72,7 +72,7 @@ Nel mondo di *The Last of Us Part II*, l'acquario è il rifugio che Owen sogna d
             fetchpriority="high"
         />    
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/zw2tb5nrde04dm1zg83d7/2026-08-23-10.34.20-1200.webp?rlkey=pvaej12megcz73dvfdtx0ni91&raw=1"
             srcset="
@@ -116,7 +116,7 @@ Nella Seattle reale è lo stadio dei Seahawks e dei Sounders. Nel gioco diventa 
 È una delle immagini che meglio raccontano quanto *The Last of Us* trasformi la Seattle reale: lo stesso edificio che nella nostra realtà ospita migliaia di persone diventa una roccaforte circondata da muri, torrette e soldati.
 
 <div class="row">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/wwqzgig2jvlbgrt45mhx3/2026-08-24-15.15.30-7127.JPG-1200.webp?rlkey=1ojkc13grwqak9hbczil43kch&raw=1"
             srcset="
@@ -130,7 +130,7 @@ Nella Seattle reale è lo stadio dei Seahawks e dei Sounders. Nel gioco diventa 
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/0so6y7hhdtrxb2ghbipob/2026-08-25-18.31.46-1200.webp?rlkey=xothodxf1nro7uaw5dit6agr0&raw=1"
             srcset="
@@ -155,11 +155,11 @@ Rientrando verso Downtown arriviamo al **William Kenzo Nakamura United States Co
 Il tribunale è quindi uno dei luoghi in cui Ellie comincia davvero a scoprire cosa è successo alla Seattle post-pandemica. Non sta semplicemente cercando Abby. Sta entrando sempre più profondamente nel mondo che Abby ha costruito.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567262_857cd970f5_z.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---
@@ -173,11 +173,11 @@ Nel gioco non è un luogo esplorabile come il tribunale o l'acquario, ma la sua 
 È una tappa più silenziosa. Non c'è una scena fondamentale da ricostruire. Ma proprio per questo è interessante: mentre camminiamo davanti alla biblioteca reale, possiamo riconoscere una parte della Seattle che Ellie attraversa sullo schermo.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980470_5dffbe4d7f_z.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---
@@ -189,11 +189,11 @@ Poi arriviamo a **The Sanctuary**, all'811 5th Avenue.
 Dietro questo spazio per eventi si trova l'edificio che nella realtà era il **Daniels Recital Hall**, utilizzato come riferimento per la sinagoga della Seattle di *The Last of Us Part II*. Nel gioco Ellie e Dina entrano nella sinagoga durante l'esplorazione di Downtown. È una tappa breve ma importante.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595726_1f6f63e1c9_k.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---
@@ -221,11 +221,11 @@ Davanti al vero Hotel Sorrento, quindi, non stavamo semplicemente guardando un a
 Stavamo guardando il **Serevena Hotel**.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595791_8531705dcf_z.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---
@@ -259,11 +259,11 @@ Il teatro è quindi molto più di una semplice location.
 **È il luogo in cui la storia di Ellie e quella di Abby finiscono per collidere.**
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55542567287_c098e1b28c_z.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---
@@ -307,11 +307,11 @@ Ancora capace di dominare lo skyline.
 Ed è quasi straniante pensare che, nello stesso mondo immaginario in cui Ellie attraversa una Seattle invasa dalla vegetazione e controllata dal WLF, la Space Needle continui a emergere dalla nebbia come uno dei pochi punti di riferimento rimasti.
 
 <div class="row">
-    <div class="col-md-3 mb-2"></div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-3 mb-4"></div>
+    <div class="col-md-6 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543595781_8eff917499_b.jpg" />
     </div>
-    <div class="col-md-3 mb-2"></div>
+    <div class="col-md-3 mb-4"></div>
 </div>
 
 ---
@@ -355,11 +355,11 @@ Perché significa che, dentro la Seattle distrutta di *The Last of Us*, Naughty 
 Ha cercato anche **i piccoli dettagli che rendono una città riconoscibile**.
 
 <div class="row">
-    <div class="col-md-4 mb-2"></div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4"></div>
+    <div class="col-md-4 mb-4">
         <img class="rounded w-100" src="https://live.staticflickr.com/65535/55543980465_2ae0bc96ce_z.jpg" />
     </div>
-    <div class="col-md-4 mb-2"></div>
+    <div class="col-md-4 mb-4"></div>
 </div>
 
 ---

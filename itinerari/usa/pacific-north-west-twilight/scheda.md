@@ -12,8 +12,8 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
 ---
 
 <div class="row gallery">
-    <div class="col-md-2 mb-2"></div>        
-    <div class="col-md-4 mb-2">
+    <div class="col-md-2 mb-4"></div>        
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/pm4q75svhc9q0gdq6wlch/2026-08-27-16.13.04-1200.webp?rlkey=ikqlfitxl4ab6ad75eojt6zqk&st=p502kqs9&raw=1"
             srcset="
@@ -27,7 +27,7 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/yge4bn7m9c1rlqtuv2zbc/2026-08-27-17.57.21-1200.webp?rlkey=1ctg0pfnlpjks2qz7tx7y5mie&st=wdxaxjgs&raw=1"
             srcset="
@@ -41,7 +41,7 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-2 mb-2"></div>        
+    <div class="col-md-2 mb-4"></div>        
 </div>
 
 ---
@@ -53,7 +53,7 @@ Il nostro viaggio comincia a **Port Angeles**. Nel romanzo è qui che Bella tras
 Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di straniante: non è più soltanto un nome sulla pagina, ma un luogo reale con tavoli, luci e persone. Poco distante, alla libreria **Port Book and News**, la sensazione è la stessa. Camminare per queste strade significa, a tutti gli effetti, passeggiare dentro i primi capitoli del libro.
 
 <div class="row gallery">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/7i8fecqn6qj2u43gdjh9i/2026-08-26-19.12.37-1200.webp?rlkey=o8y59ek6c43sdiy5qq6s4plu3&st=3rkvywga&raw=1"
             srcset="
@@ -67,7 +67,7 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/iu2gmmr5n5noddkw3h94d/2026-08-26-19.00.32-1200.webp?rlkey=hc6fqjnt05gb945mkj2yfdbny&st=tw7ozp16&raw=1"
             srcset="
@@ -81,7 +81,7 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/9plgjeqzw5qjjdej0gw6v/2026-08-26-18.57.50-1200.webp?rlkey=vamnd9ytjr45b8v6llrdmlpuk&st=q1phcs50&raw=1"
             srcset="
@@ -113,7 +113,7 @@ Poi arriva Forks, e qui tutto cambia. La città non ha bisogno di "ricreare" *Tw
 Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Push. Il celebre cartello *"No vampires over this line"* fa sorridere, ma per un istante la mente trasforma un confine geografico in uno narrativo: oltre quella linea inizia il territorio Quileute, la storia di Jacob e un altro punto di vista sulla saga.
 
 <div class="row gallery">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/vvgmzfnct550z2aaa2t1m/2026-08-27-16.31.38-1200.webp?rlkey=3e461ciiq9erxdmb700bb32k6&st=rn9qfav1&raw=1"
             srcset="
@@ -127,7 +127,7 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
             fetchpriority="high"
         />   
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/apranvfd1086eb1yblnwg/55560980005_dba4565a60_k-1200.webp?rlkey=b3iahfw8og1yq6401fk9tacez&st=3zxjnihf&raw=1"
             srcset="
@@ -152,7 +152,7 @@ A **La Push** l'atmosfera cambia: la foresta incontra l'oceano e le spiagge selv
 Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta del film è una ricostruzione, ma quella reale è monumentale: muschio, alberi giganteschi e un silenzio ovattato. Se esiste un posto al mondo in cui la presenza di creature millenarie può sembrare plausibile, è proprio questo.
 
 <div class="row gallery">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/td3ym494oyteusaxxai89/2026-08-29-08.24.01-1200.webp?rlkey=g2yt7a7sdnhne2av3kw3qad8m&st=punr2w7d&raw=1"
             srcset="
@@ -166,7 +166,7 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/vits58cfevqw1l2k4rci8/2026-08-28-17.40.40-1200.webp?rlkey=k4tzojgy7zwnn0e9p1ho149f3&st=361500pb&raw=1"
             srcset="
@@ -180,7 +180,7 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/81543gtvarjtealfku0vb/2026-08-28-12.35.11-1200.webp?rlkey=t6icp8cgj3n6g21ypj1uixjrj&st=lojx6hcf&raw=1"
             srcset="
@@ -194,7 +194,7 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/6znc6brnvxmhefd3q0o9u/2026-08-28-10.54.22-1200.webp?rlkey=tfjf8ygm5ln5src12jwv893xc&st=e4v9e0hs&raw=1"
             srcset="
@@ -208,7 +208,7 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/ujvzbovd887b2fuqee2jp/2026-08-28-15.23.35-7568-1200.webp?rlkey=a9z3auw2rhowq8006wl78qrhd&st=urvjdm3p&raw=1"
             srcset="
@@ -234,7 +234,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
 **Indian Beach** (all'Ecola State Park) è la La Push cinematografica, mentre poco distante, a **Cannon Beach**, la celebre **Haystack Rock** svetta tra la nebbia. È affascinante attraversare due versioni della stessa storia: quella immaginata leggendo e quella tradotta sul grande schermo.
 
 <div class="row gallery">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/3qtmx5mmri36y6oz2o3km/2026-08-30-15.57.22-1200.webp?rlkey=0f1z4q446nmefz2dwrlwxecpx&st=nojv93yx&raw=1"
             srcset="
@@ -272,7 +272,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/k1nncmcnxf0hgmortfngh/2026-08-30-15.29.28-7877-1200.webp?rlkey=dduo8ape4dc4xg14jwyis3kkk&st=60hx0uia&raw=1"
             srcset="
@@ -286,7 +286,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/27gxwm0a5ilf8ebhmsfid/2026-08-30-15.45.26-1200.webp?rlkey=tmple2de9c3i3sjl8a9iscj8a&st=8hoovkub&raw=1"
             srcset="
@@ -310,7 +310,7 @@ Proseguendo lungo la Columbia River Gorge ci fermiamo alle **Multnomah Falls**, 
 Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'atmosfera della mitica scena della **partita di baseball dei Cullen**. Ritrovarsi di fronte alla massa d'acqua immersa tra i pini e la nebbia significa respirare a pieni polmoni quel tono selvaggio, cupo e romantico che definisce visivamente tutto l'universo cinematografico di *Twilight*.
 
 <div class="row gallery">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/nt9fu6mxyxabdsccrujtc/2026-09-01-09.50.31-1200.webp?rlkey=nzu2o0isqnnimmh56vxq7s7gc&st=0vk9xh1x&raw=1"
             srcset="
@@ -324,7 +324,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/37vs6tlmftzmnhy9l24u9/2026-09-01-15.10.48-8063-1200.webp?rlkey=7e4vf239yefyyhbkf60hv9xcr&st=wlca10zp&raw=1"
             srcset="
@@ -338,7 +338,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/ysu98lla9hvkwpw0wwy23/2026-09-01-15.10.47-8062-1200.webp?rlkey=qxfidhqw9t8tpy0pz2nqlev83&st=vdmke16k&raw=1"
             srcset="
@@ -361,7 +361,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
 A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per il regista, ma è a **St. Helens** che il primo film prende davvero vita. Qui troviamo il centro cittadino, la libreria, il Columbia Theatre e soprattutto il **vicolo** in cui Edward ferma la Volvo per salvare Bella. Percorrerlo dal vivo significa rievocare una delle scene più intime e cariche di tensione del film.
 
 <div class="row gallery">
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/voxfcdovqtvh6pc8a49bu/2026-08-31-12.00.22-1200.webp?rlkey=2hbjjz9syezfsxemtftfodnbn&st=jpv3x1ni&raw=1"
             srcset="
@@ -375,7 +375,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/0vicc60durl32b0t6oyij/2026-08-31-12.35.56-1200.webp?rlkey=jd6yoa26ntew3uit893u94ebe&st=wxtu2brb&raw=1"
             srcset="
@@ -389,7 +389,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-4 mb-2">
+    <div class="col-md-4 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/n0lotdu7d6y5147lumbzl/2026-08-31-11.00.49-1200.webp?rlkey=dqn2c82bn1et8u0j905y5wl07&st=1gmejjdk&raw=1"
             srcset="
@@ -414,7 +414,7 @@ Dopo una breve tappa a **Portland** (dove la casa dei Cullen si intravede appena
 Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Nel parcheggio davanti all'edificio è impossibile non figurarsi la scena del furgone che sbanda e la mano di Edward che lo blocca sul cofano, rivelando per la prima volta la sua forza sovrumana.
 
 <div class="row gallery">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/4bmy4mo28r63gih83h0ad/2026-09-01-13.20.14-1200.webp?rlkey=6ubd67bh8yvl2gejtja8np8bs&st=84k3s0t3&raw=1"
             srcset="
@@ -440,7 +440,7 @@ Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Ne
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-6 mb-4">
         <img
             src="https://www.dropbox.com/scl/fi/lxidawv6s5fk1atajerk1/2026-09-02-06.44.21-1200.webp?rlkey=2zhe6ypse3k60jhlndb7ivy4v&st=gqxn1bgw&raw=1"
             srcset="
