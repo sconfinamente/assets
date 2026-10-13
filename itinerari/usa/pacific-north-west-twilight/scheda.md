@@ -14,6 +14,7 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
 <div class="row gallery">
     <div class="col-md-2 mb-4"></div>        
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/pm4q75svhc9q0gdq6wlch/2026-08-27-16.13.04-1200.webp?rlkey=ikqlfitxl4ab6ad75eojt6zqk&st=p502kqs9&raw=1"
             srcset="
@@ -25,9 +26,14 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
             loading="eager"
             decoding="async"
             fetchpriority="high"
-        />   
+        />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/yge4bn7m9c1rlqtuv2zbc/2026-08-27-17.57.21-1200.webp?rlkey=1ctg0pfnlpjks2qz7tx7y5mie&st=wdxaxjgs&raw=1"
             srcset="
@@ -40,6 +46,10 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-2 mb-4"></div>        
 </div>
@@ -54,6 +64,7 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
 
 <div class="row gallery">
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/7i8fecqn6qj2u43gdjh9i/2026-08-26-19.12.37-1200.webp?rlkey=o8y59ek6c43sdiy5qq6s4plu3&st=3rkvywga&raw=1"
             srcset="
@@ -66,8 +77,13 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/iu2gmmr5n5noddkw3h94d/2026-08-26-19.00.32-1200.webp?rlkey=hc6fqjnt05gb945mkj2yfdbny&st=tw7ozp16&raw=1"
             srcset="
@@ -80,8 +96,13 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/9plgjeqzw5qjjdej0gw6v/2026-08-26-18.57.50-1200.webp?rlkey=vamnd9ytjr45b8v6llrdmlpuk&st=q1phcs50&raw=1"
             srcset="
@@ -94,6 +115,10 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -114,6 +139,7 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
 
 <div class="row gallery">
     <div class="col-md-6 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/vvgmzfnct550z2aaa2t1m/2026-08-27-16.31.38-1200.webp?rlkey=3e461ciiq9erxdmb700bb32k6&st=rn9qfav1&raw=1"
             srcset="
@@ -126,8 +152,13 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-6 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/apranvfd1086eb1yblnwg/55560980005_dba4565a60_k-1200.webp?rlkey=b3iahfw8og1yq6401fk9tacez&st=3zxjnihf&raw=1"
             srcset="
@@ -140,6 +171,10 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
             decoding="async"
             fetchpriority="high"
         />   
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -153,6 +188,7 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
 
 <div class="row gallery">
     <div class="col-md-6 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/td3ym494oyteusaxxai89/2026-08-29-08.24.01-1200.webp?rlkey=g2yt7a7sdnhne2av3kw3qad8m&st=punr2w7d&raw=1"
             srcset="
@@ -165,8 +201,13 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-6 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/vits58cfevqw1l2k4rci8/2026-08-28-17.40.40-1200.webp?rlkey=k4tzojgy7zwnn0e9p1ho149f3&st=361500pb&raw=1"
             srcset="
@@ -179,8 +220,13 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/81543gtvarjtealfku0vb/2026-08-28-12.35.11-1200.webp?rlkey=t6icp8cgj3n6g21ypj1uixjrj&st=lojx6hcf&raw=1"
             srcset="
@@ -193,8 +239,13 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/6znc6brnvxmhefd3q0o9u/2026-08-28-10.54.22-1200.webp?rlkey=tfjf8ygm5ln5src12jwv893xc&st=e4v9e0hs&raw=1"
             srcset="
@@ -207,8 +258,13 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/ujvzbovd887b2fuqee2jp/2026-08-28-15.23.35-7568-1200.webp?rlkey=a9z3auw2rhowq8006wl78qrhd&st=urvjdm3p&raw=1"
             srcset="
@@ -221,6 +277,10 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -235,6 +295,7 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
 
 <div class="row gallery">
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/3qtmx5mmri36y6oz2o3km/2026-08-30-15.57.22-1200.webp?rlkey=0f1z4q446nmefz2dwrlwxecpx&st=nojv93yx&raw=1"
             srcset="
@@ -247,6 +308,11 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/ohvt20slqslixmv8qx4vb/2026-08-30-15.29.16-7867-1200.webp?rlkey=x054cho0dh8fx27ybw862x9mh&st=9aaoe1oh&raw=1"
             srcset="
@@ -259,6 +325,11 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/rptt1vb2m0afc5dl70wtd/2026-08-31-09.07.04-1200.webp?rlkey=ko3s55an2miridykr4y62r2ea&st=41yny654&raw=1"
             srcset="
@@ -271,8 +342,13 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/k1nncmcnxf0hgmortfngh/2026-08-30-15.29.28-7877-1200.webp?rlkey=dduo8ape4dc4xg14jwyis3kkk&st=60hx0uia&raw=1"
             srcset="
@@ -285,8 +361,13 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/27gxwm0a5ilf8ebhmsfid/2026-08-30-15.45.26-1200.webp?rlkey=tmple2de9c3i3sjl8a9iscj8a&st=8hoovkub&raw=1"
             srcset="
@@ -299,6 +380,10 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -311,6 +396,7 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
 
 <div class="row gallery">
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/nt9fu6mxyxabdsccrujtc/2026-09-01-09.50.31-1200.webp?rlkey=nzu2o0isqnnimmh56vxq7s7gc&st=0vk9xh1x&raw=1"
             srcset="
@@ -323,8 +409,13 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/37vs6tlmftzmnhy9l24u9/2026-09-01-15.10.48-8063-1200.webp?rlkey=7e4vf239yefyyhbkf60hv9xcr&st=wlca10zp&raw=1"
             srcset="
@@ -337,8 +428,13 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/ysu98lla9hvkwpw0wwy23/2026-09-01-15.10.47-8062-1200.webp?rlkey=qxfidhqw9t8tpy0pz2nqlev83&st=vdmke16k&raw=1"
             srcset="
@@ -351,6 +447,10 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -362,6 +462,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
 
 <div class="row gallery">
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/voxfcdovqtvh6pc8a49bu/2026-08-31-12.00.22-1200.webp?rlkey=2hbjjz9syezfsxemtftfodnbn&st=jpv3x1ni&raw=1"
             srcset="
@@ -374,8 +475,13 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+Vernonia Credit Union, Vernonia OR
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/0vicc60durl32b0t6oyij/2026-08-31-12.35.56-1200.webp?rlkey=jd6yoa26ntew3uit893u94ebe&st=wxtu2brb&raw=1"
             srcset="
@@ -388,8 +494,13 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+Swan House, St. Helens OR
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-4 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/n0lotdu7d6y5147lumbzl/2026-08-31-11.00.49-1200.webp?rlkey=dqn2c82bn1et8u0j905y5wl07&st=1gmejjdk&raw=1"
             srcset="
@@ -402,6 +513,10 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+First Beach, La Push
+    </figcaption>
+</figure>
     </div>
 </div>
 
@@ -415,6 +530,7 @@ Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Ne
 
 <div class="row gallery">
     <div class="col-md-6 mb-4">
+<figure class="figure"
         <img
             src="https://www.dropbox.com/scl/fi/4bmy4mo28r63gih83h0ad/2026-09-01-13.20.14-1200.webp?rlkey=6ubd67bh8yvl2gejtja8np8bs&st=84k3s0t3&raw=1"
             srcset="
@@ -427,6 +543,11 @@ Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Ne
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+Carver Cafè, Damascus OR
+    </figcaption>
+</figure>
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/faahytcfihw8jyext9cfn/2026-09-01-13.06.26-1200.webp?rlkey=k8bcb3rwz4vqv3ajvicr0d07c&st=mcp1i3in&raw=1"
             srcset="
@@ -439,8 +560,13 @@ Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Ne
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+Carver Cafè, Damascus OR
+    </figcaption>
+</figure>
     </div>
     <div class="col-md-6 mb-4">
+<figure class="figure">
         <img
             src="https://www.dropbox.com/scl/fi/lxidawv6s5fk1atajerk1/2026-09-02-06.44.21-1200.webp?rlkey=2zhe6ypse3k60jhlndb7ivy4v&st=gqxn1bgw&raw=1"
             srcset="
@@ -453,6 +579,10 @@ Infine raggiungiamo la **Kalama High School**, la vera scuola usata nei film. Ne
             decoding="async"
             fetchpriority="high"
         />
+<figcaption class="figure-caption">
+Kalama High School, Washington
+    </figcaption>
+</figure>
     </div>
 </div>
 
