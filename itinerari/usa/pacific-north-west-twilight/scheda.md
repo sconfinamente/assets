@@ -456,7 +456,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-Vernonia Credit Union, Vernonia OR
+    Swan House, St. Helens OR
     </figcaption>
 </figure>
     </div>
@@ -475,7 +475,7 @@ Vernonia Credit Union, Vernonia OR
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-Swan House, St. Helens OR
+
     </figcaption>
 </figure>
     </div>
@@ -494,6 +494,7 @@ Swan House, St. Helens OR
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
+    Vernonia Credit Union, Vernonia OR
     </figcaption>
 </figure>
     </div>
