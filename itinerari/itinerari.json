@@ -23,7 +23,17 @@
       "Multnomah Falls",
       "viaggio on the road Stati Uniti"
     ],
-    "meta_description": "Un itinerario on the road da Seattle alla Olympic Peninsula, tra spiagge selvagge, Astoria, Cannon Beach, Portland e le spettacolari Multnomah Falls."
+    "meta_description": "Un itinerario on the road da Seattle alla Olympic Peninsula, tra spiagge selvagge, Astoria, Cannon Beach, Portland e le spettacolari Multnomah Falls.",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7687515033282137377",
+        "titolo": "Cape Flattery"
+      },
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7692135064922033440",
+        "titolo": "La Push"
+      }
+    ]
   },
   {
     "codice": "pacific-north-west-twilight",
@@ -48,7 +58,13 @@
       "viaggio Twilight Pacific Northwest",
       "cineturismo Twilight USA"
     ],
-    "meta_description": "Scopri i luoghi di Twilight tra Washington e Oregon: da Forks e La Push alle location del film come St. Helens, Vernonia, Indian Beach e Multnomah Falls."
+    "meta_description": "Scopri i luoghi di Twilight tra Washington e Oregon: da Forks e La Push alle location del film come St. Helens, Vernonia, Indian Beach e Multnomah Falls.",
+    "tiktok": [
+      {
+        "url": "https://www.tiktok.com/@sconfinamente/video/7692135064922033440",
+        "titolo": "La Push"
+      }
+    ]
   },
   {
     "codice": "seattle-the-last-of-us",
