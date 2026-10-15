@@ -53,6 +53,7 @@ COUNT=0
 
 find "$SOURCE" -type f \( \
     -iname "*.jpg" -o \
+	-iname "*.png" -o \
     -iname "*.jpeg" \
 \) | while read -r file; do
 
@@ -68,6 +69,40 @@ find "$SOURCE" -type f \( \
     echo ""
     echo "----------------------------------------"
     echo "File: $relative"
+	
+    # --------------------------------------------------------
+    # 320px
+    # --------------------------------------------------------
+
+    echo "  -> ${output_base##*/}-320.webp"
+
+    "$MAGICK" "$file" \
+        -auto-orient \
+        -resize "320x320>" \
+        -quality 82 \
+        "${output_base}-320.webp"
+
+    if [ $? -ne 0 ]; then
+        echo "  ERRORE nella conversione 320px"
+        continue
+    fi	
+	
+    # --------------------------------------------------------
+    # 480px
+    # --------------------------------------------------------
+
+    echo "  -> ${output_base##*/}-480.webp"
+
+    "$MAGICK" "$file" \
+        -auto-orient \
+        -resize "480x480>" \
+        -quality 82 \
+        "${output_base}-480.webp"
+
+    if [ $? -ne 0 ]; then
+        echo "  ERRORE nella conversione 480px"
+        continue
+    fi	
 
     # --------------------------------------------------------
     # 640px
@@ -90,13 +125,13 @@ find "$SOURCE" -type f \( \
     # 1200px
     # --------------------------------------------------------
 
-    echo "  -> ${output_base##*/}-1200.webp"
+    echo "  -> ${output_base##*/}.webp"
 
     "$MAGICK" "$file" \
         -auto-orient \
         -resize "1200x1200>" \
         -quality 82 \
-        "${output_base}-1200.webp"
+        "${output_base}.webp"
 
     if [ $? -ne 0 ]; then
         echo "  ERRORE nella conversione 1200px"
