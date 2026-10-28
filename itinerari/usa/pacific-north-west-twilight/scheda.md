@@ -28,7 +28,6 @@ Per chi non ha mai letto *Twilight*, è solo una piccola città della penisola o
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -47,7 +46,6 @@ First Beach, La Push
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -78,7 +76,6 @@ Entrare da **Bella Italia**, il ristorante della loro prima cena, ha qualcosa di
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -97,7 +94,6 @@ First Beach, La Push
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -116,7 +112,6 @@ First Beach, La Push
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -153,7 +148,6 @@ Uno dei luoghi più iconici è la **Treaty Line**, il confine tra Forks e La Pus
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -172,7 +166,6 @@ First Beach, La Push
             fetchpriority="high"
         />   
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -202,7 +195,6 @@ Rientrando verso l'interno ci addentriamo nella **Hoh Rain Forest**. La foresta 
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -221,7 +213,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -240,7 +231,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -259,7 +249,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -278,7 +267,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -309,7 +297,6 @@ Lasciata la penisola olimpica ci spostiamo in Oregon, ed è qui che entra in sce
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
 <figure class="figure">
@@ -326,7 +313,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
 <figure class="figure">
@@ -343,7 +329,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -362,7 +347,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -381,7 +365,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -410,7 +393,6 @@ Le cascate compaiono nei montaggi ambientali di passaggio e fanno da sfondo all'
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -429,7 +411,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -448,7 +429,6 @@ First Beach, La Push
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
     </figcaption>
 </figure>
     </div>
@@ -476,7 +456,7 @@ A **Vernonia** la Wauna Credit Union diventa la stazione di polizia di Forks per
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-Vernonia Credit Union, Vernonia OR
+    Swan House, St. Helens OR
     </figcaption>
 </figure>
     </div>
@@ -495,7 +475,7 @@ Vernonia Credit Union, Vernonia OR
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-Swan House, St. Helens OR
+
     </figcaption>
 </figure>
     </div>
@@ -514,7 +494,7 @@ Swan House, St. Helens OR
             fetchpriority="high"
         />
 <figcaption class="figure-caption">
-First Beach, La Push
+    Vernonia Credit Union, Vernonia OR
     </figcaption>
 </figure>
     </div>
