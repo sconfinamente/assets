@@ -7,15 +7,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 230,
+                "prezzo": 215,
                 "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
             },
             "alloggio": {
-                "prezzo": 81,
+                "prezzo": 97,
                 "notti": 4,
                 "nota": "hotel o appartamento per 2 persone"
             },
-            "totale": 271,
+            "totale": 264,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -58,15 +58,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 100,
-                "nota": "1 bagaglio a mano a pagamento - 1° bagaglio registrato a pagamento"
+                "prezzo": 216,
+                "nota": "1 bagaglio a mano da 10 kg incluso - 1° bagaglio registrato a pagamento"
             },
             "alloggio": {
-                "prezzo": 127,
+                "prezzo": 119,
                 "notti": 3,
                 "nota": "riad nel centro storico per 2 persone"
             },
-            "totale": 164,
+            "totale": 276,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -115,15 +115,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 260,
+                "prezzo": 286,
                 "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 23 kg incluso"
             },
             "alloggio": {
-                "prezzo": 1106,
+                "prezzo": 1300,
                 "notti": 7,
                 "nota": "appartamento per 2 persone"
             },
-            "totale": 813,
+            "totale": 936,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -176,15 +176,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 1055,
+                "prezzo": 1168,
                 "nota": "1 bagaglio a mano incluso"
             },
             "alloggio": {
-                "prezzo": 682,
+                "prezzo": 587,
                 "notti": 9,
                 "nota": "appartamento con cucina per 2 persone"
             },
-            "totale": 1396,
+            "totale": 1462,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -227,15 +227,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 150,
+                "prezzo": 170,
                 "nota": "1 bagaglio a mano per passeggero a pagamento - 1° bagaglio registrato per passeggero a pagamento"
             },
             "alloggio": {
-                "prezzo": 388,
+                "prezzo": 387,
                 "notti": 3,
                 "nota": "camera/appartamento per 2 persone"
             },
-            "totale": 344,
+            "totale": 364,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {
@@ -271,15 +271,15 @@
         "budget": {
             "valuta": "EUR",
             "volo": {
-                "prezzo": 486,
+                "prezzo": 604,
                 "nota": "1 bagaglio a mano incluso e 1 bagaglio registrato a pagamento"
             },
             "alloggio": {
-                "prezzo": 1500,
+                "prezzo": 1300,
                 "notti": 7,
                 "nota": "camera/appartamento per 2 persone"
             },
-            "totale": 1236,
+            "totale": 1255,
             "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
         },
         "tools": {

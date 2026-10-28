@@ -125,13 +125,13 @@ find "$SOURCE" -type f \( \
     # 1200px
     # --------------------------------------------------------
 
-    echo "  -> ${output_base##*/}.webp"
+    echo "  -> ${output_base##*/}-1200.webp"
 
     "$MAGICK" "$file" \
         -auto-orient \
         -resize "1200x1200>" \
         -quality 82 \
-        "${output_base}.webp"
+        "${output_base}-1200.webp"
 
     if [ $? -ne 0 ]; then
         echo "  ERRORE nella conversione 1200px"

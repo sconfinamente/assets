@@ -20,7 +20,123 @@ Un itinerario in cui le distanze si alternano a soste tutte da scoprire, tra pic
 
 Lasciamo Seattle alle spalle e iniziamo il nostro percorso attraversando il Tacoma Narrows Bridge, il ponte sospeso che ci accompagna verso la penisola di Kitsap e i paesaggi sempre più verdi dello Stato di Washington.
 
-La prima sosta è Gig Harbor, una cittadina affacciata su una baia, con un porto raccolto e un'atmosfera tranquilla. Proseguiamo verso Poulsbo, conosciuta per le sue influenze scandinave, prima di raggiungere Port Gamble, un piccolo villaggio storico circondato dal verde.
+<div class="row">
+    <div class="col-md-12 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/kg2fhz1gk0moe3ygv85u6/2026-08-26-15.19.11-7334-1200.webp?rlkey=tnrd1m3unqccg6c75z0hi9koa&st=jtn7zo29&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/3cvw1fpecpzfjoojfq1lk/2026-08-26-15.19.11-7334-640.webp?rlkey=6obi7sr7awglfg1owz550v30s&st=zp6f1pkp&raw=1 640w,
+                https://www.dropbox.com/scl/fi/kg2fhz1gk0moe3ygv85u6/2026-08-26-15.19.11-7334-1200.webp?rlkey=tnrd1m3unqccg6c75z0hi9koa&st=jtn7zo29&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
+La nostra prima sosta è **Gig Harbor**, una graziosa cittadina affacciata su una baia riparata, dove le barche ormeggiate nel porto e le colline che circondano l'acqua creano uno scenario particolarmente suggestivo. Il suo legame con il mare è ancora molto presente e si ritrova nell'atmosfera del lungomare, tra imbarcazioni da pesca, barche a vela e piccoli locali affacciati sull'acqua.
+
+Passeggiamo lungo il porto, osservando le barche muoversi lentamente nella baia e le case che si affacciano sulle sue rive. Da qui si possono ammirare anche scorci del Tacoma Narrows Bridge, il ponte che abbiamo appena attraversato e che caratterizza il paesaggio della zona. È una tappa piacevole per fermarsi, respirare l'atmosfera di una piccola comunità costiera e iniziare a prendere confidenza con i ritmi più tranquilli che accompagneranno il nostro viaggio.
+
+Prima di ripartire, ci concediamo ancora qualche momento sul lungomare, lasciandoci alle spalle Seattle e il suo paesaggio urbano per entrare gradualmente in una regione in cui l'acqua, i boschi e la natura diventeranno sempre più protagonisti.
+
+<div class="row">
+    <div class="col-md-12 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/640am08xmd4fe538bx3yr/2026-08-26-15.19.18-7340-1200.webp?rlkey=aujm0qdhjsx7osrligxe2ujzg&st=ojkmv5co&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/ivh0dewnrsri2zg929gpl/2026-08-26-15.19.18-7340-640.webp?rlkey=fjp5fo5x5j0wpjpb30160whtm&st=ym408gjb&raw=1 640w,
+                https://www.dropbox.com/scl/fi/640am08xmd4fe538bx3yr/2026-08-26-15.19.18-7340-1200.webp?rlkey=aujm0qdhjsx7osrligxe2ujzg&st=ojkmv5co&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
+La nostra tappa successiva è **Poulsbo**, una cittadina affacciata sulle acque di Liberty Bay, conosciuta anche come *Little Norway* per le sue profonde influenze scandinave. Passeggiando per il centro, tra edifici dalle facciate colorate, insegne decorative e piccoli negozi, si percepisce un'atmosfera particolare, che richiama le tradizioni dei paesi nordici.
+
+La zona del lungomare è uno dei punti più piacevoli per una breve sosta: barche ormeggiate nel porto, scorci sulla baia e un ritmo tranquillo invitano a fermarsi qualche minuto e godersi il panorama. Nel centro storico si trovano anche caffè, panetterie e locali in cui assaggiare qualche specialità, in un ambiente che conserva un'identità ben riconoscibile.
+
+Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diverso dello Stato di Washington, dove il paesaggio americano si intreccia con le tradizioni europee.
+
+<div class="row">
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/uhtffyd7x848vfq8lmqio/2026-08-26-15.19.30-7351-1200.webp?rlkey=nxutldjzb9s5ov2tx0ctrwkqy&st=g2pimw9a&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/igoi3fltl3e0xh3skeoh7/2026-08-26-15.19.30-7351-640.webp?rlkey=uuwwiu1cgishoawfenfduk4o9&st=wad1gzmr&raw=1 640w,
+                https://www.dropbox.com/scl/fi/uhtffyd7x848vfq8lmqio/2026-08-26-15.19.30-7351-1200.webp?rlkey=nxutldjzb9s5ov2tx0ctrwkqy&st=g2pimw9a&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/fc6oec5k058x9qnvlzl33/2026-08-26-15.19.45-7364-640.webp?rlkey=d614zswdgz3f5kvouxl0fy7rw&st=emahk5xj&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/fc6oec5k058x9qnvlzl33/2026-08-26-15.19.45-7364-640.webp?rlkey=d614zswdgz3f5kvouxl0fy7rw&st=emahk5xj&raw=1 640w,
+                https://www.dropbox.com/scl/fi/fc6oec5k058x9qnvlzl33/2026-08-26-15.19.45-7364-640.webp?rlkey=d614zswdgz3f5kvouxl0fy7rw&st=emahk5xj&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/v97jedklbejci2zvzeoqk/2026-08-26-15.19.49-7368-1200.webp?rlkey=cz3zrgnjdrp8nnkhumzto78i4&st=opj8r7t0&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/gpmttu4h96lhjqtb0ujtb/2026-08-26-15.19.49-7368-640.webp?rlkey=zp29exbw30tli2uoi4987md3x&st=z1u5jaw3&raw=1 640w,
+                https://www.dropbox.com/scl/fi/v97jedklbejci2zvzeoqk/2026-08-26-15.19.49-7368-1200.webp?rlkey=cz3zrgnjdrp8nnkhumzto78i4&st=opj8r7t0&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/v13iq13k32j488ekyz2z2/2026-08-26-15.19.52-7370-1200.webp?rlkey=x2h59osprateij5dxn3gxm8ed&st=nvljfnsx&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/8gqil347431smm46yas7p/2026-08-26-15.19.52-7370-640.webp?rlkey=6ydu1gx25pnr863xuwjywbnw0&st=og5plqzt&raw=1 640w,
+                https://www.dropbox.com/scl/fi/v13iq13k32j488ekyz2z2/2026-08-26-15.19.52-7370-1200.webp?rlkey=x2h59osprateij5dxn3gxm8ed&st=nvljfnsx&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
+Poco distante raggiungiamo **Port Gamble**, un piccolo villaggio storico affacciato sull'omonima baia, immerso tra boschi e acque tranquille. Fondato a metà Ottocento attorno a una segheria, conserva ancora il fascino di un'altra epoca, con edifici in legno, case vittoriane e strade silenziose che sembrano custodire le storie di chi ha vissuto qui nel corso dei decenni.
+
+Ma Port Gamble è conosciuto anche per le **storie di presenze misteriose e fenomeni paranormali** che alimentano la sua fama di villaggio infestato. Si racconta che alcuni edifici storici siano teatro di apparizioni, rumori inspiegabili e incontri con figure legate al passato del paese. Leggende e testimonianze hanno contribuito a creare un'atmosfera particolare, che rende la visita ancora più intrigante, soprattutto passeggiando tra le vecchie abitazioni e gli edifici che hanno attraversato oltre un secolo di storia.
+
+Al di là delle storie di fantasmi, Port Gamble merita una sosta anche per la sua architettura storica e per il paesaggio che lo circonda. È un luogo raccolto e silenzioso, dove il passato sembra ancora presente e dove basta camminare senza fretta per lasciarsi avvolgere da un'atmosfera insolita, sospesa tra storia e mistero.
+
+Riprendiamo quindi la strada verso Port Angeles, portando con noi il ricordo di questo piccolo villaggio, capace di aggiungere al nostro itinerario una parentesi inaspettata, in cui la bellezza del paesaggio si intreccia con racconti che sfumano tra realtà e leggenda.
+
+
 
 Tappa dopo tappa, il paesaggio cambia e il viaggio comincia ad assumere un ritmo diverso, lontano dal traffico e dalla frenesia delle grandi città.
 
