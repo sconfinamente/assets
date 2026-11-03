@@ -14,21 +14,5 @@
       "🌆 Tramonti dal Kerry Park",
       "🚢 Escursioni tra i ferry dello Stato di Washington"
     ]
-  },
-  {
-    "slug": "olympic-peninsula",
-    "titolo": "Olympic Peninsula",
-    "paese": "Stati Uniti",
-    "descrizione": "Una guida dedicata alla natura più selvaggia dello Stato di Washington, tra foreste pluviali, spiagge incontaminate, montagne e laghi cristallini.",
-    "immagine": "/coming-soon/images/olympic-peninsula",
-    "emoji": "🌲",
-    "colore": "#16a34a",
-    "percentuale": 70,
-    "curiosita": [
-      "🌿 La magica Hoh Rain Forest",
-      "🏖️ Le spiagge di Rialto e Ruby Beach",
-      "🦌 Avvistare cervi, aquile e balene",
-      "🥾 I sentieri dell'Olympic National Park"
-    ]
   }
 ]
