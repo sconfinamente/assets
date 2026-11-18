@@ -135,13 +135,103 @@ Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diver
 
 Poco distante raggiungiamo **Port Gamble**, un piccolo villaggio storico affacciato sull'omonima baia, immerso tra boschi e acque tranquille. Fondato a metà Ottocento attorno a una segheria, conserva ancora il fascino di un'altra epoca, con edifici in legno, case vittoriane e strade silenziose che sembrano custodire le storie di chi ha vissuto qui nel corso dei decenni.
 
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/gi7b4s5j8z7njjgqodmcq/2026-08-26-15.20.05-7382-1200.webp?rlkey=h57ei0vlqljy8nb530zbq2296&st=xo9px8ea&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/a2zyhsx1nx2mayl8ndejz/2026-08-26-15.20.05-7382-640.webp?rlkey=mxemo5uw1ms8o87gu5ja7x6ke&st=k5j9i8n3&raw=1 640w,
+                https://www.dropbox.com/scl/fi/gi7b4s5j8z7njjgqodmcq/2026-08-26-15.20.05-7382-1200.webp?rlkey=h57ei0vlqljy8nb530zbq2296&st=xo9px8ea&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/7n8ssrxi3k0blfegb4vvj/2026-08-26-15.20.10-7386-1200.webp?rlkey=isbyfg2yaop87scbes2ikfznd&st=1yur0vbc&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/mg4deso2k4lv4n9uo93sz/2026-08-26-15.20.10-7386-640.webp?rlkey=4wqo78rr4j9qdbdenrvk8nrgi&st=lkafngvv&raw=1 640w,
+                https://www.dropbox.com/scl/fi/7n8ssrxi3k0blfegb4vvj/2026-08-26-15.20.10-7386-1200.webp?rlkey=isbyfg2yaop87scbes2ikfznd&st=1yur0vbc&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
 Ma Port Gamble è conosciuto anche per le **storie di presenze misteriose e fenomeni paranormali** che alimentano la sua fama di villaggio infestato. Si racconta che alcuni edifici storici siano teatro di apparizioni, rumori inspiegabili e incontri con figure legate al passato del paese. Leggende e testimonianze hanno contribuito a creare un'atmosfera particolare, che rende la visita ancora più intrigante, soprattutto passeggiando tra le vecchie abitazioni e gli edifici che hanno attraversato oltre un secolo di storia.
 
 Al di là delle storie di fantasmi, Port Gamble merita una sosta anche per la sua architettura storica e per il paesaggio che lo circonda. È un luogo raccolto e silenzioso, dove il passato sembra ancora presente e dove basta camminare senza fretta per lasciarsi avvolgere da un'atmosfera insolita, sospesa tra storia e mistero.
 
+<div class="row">
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/ad9v5021o6k8h6gpoe8d6/2026-08-26-15.19.59-7377-1200.webp?rlkey=ekgc8jduaqoe43cs0gfb4g9g0&st=2c2hwglk&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/ej14ep3kd2w8iuwnqjvt0/2026-08-26-15.19.59-7377-640.webp?rlkey=4svxq8o3mndimlhxn7tkd2h2y&st=l72t6g7p&raw=1 640w,
+                https://www.dropbox.com/scl/fi/ad9v5021o6k8h6gpoe8d6/2026-08-26-15.19.59-7377-1200.webp?rlkey=ekgc8jduaqoe43cs0gfb4g9g0&st=2c2hwglk&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/tnyetyv2coq9d54f8j9xx/2026-08-26-15.48.14-1200.webp?rlkey=9n26xwa8eejlw2gnulfg6tndl&st=9iap8guu&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/9i27scjothapdj8qwxlxj/2026-08-26-15.48.14-640.webp?rlkey=narxw9swjg79de7gputasn7d3&st=rcrl78pg&raw=1 640w,
+                https://www.dropbox.com/scl/fi/tnyetyv2coq9d54f8j9xx/2026-08-26-15.48.14-1200.webp?rlkey=9n26xwa8eejlw2gnulfg6tndl&st=9iap8guu&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/7zcqktgm2jzqg3cnesypv/2026-08-26-15.52.09-1200.webp?rlkey=u850gl630qau7ruq0p3313397&st=t1m7soa4&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/2rado5u8gle8ai70xjjey/2026-08-26-15.52.09-640.webp?rlkey=b0wmcgx7v32hxsqn7ahe92cwt&st=i55k1jfv&raw=1 640w,
+                https://www.dropbox.com/scl/fi/7zcqktgm2jzqg3cnesypv/2026-08-26-15.52.09-1200.webp?rlkey=u850gl630qau7ruq0p3313397&st=t1m7soa4&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/4en9i7bwmvdgydm8hv6ec/2026-08-26-15.53.19-1200.webp?rlkey=29ut0lxatqaxdp9ygplcp9577&st=o0qg3uws&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/nb3pfzqao2jrsjnjjkaxn/2026-08-26-15.53.19-640.webp?rlkey=chxzlcjuqgxmraro1mxisvmj5&st=j5rxbwpi&raw=1 640w,
+                https://www.dropbox.com/scl/fi/4en9i7bwmvdgydm8hv6ec/2026-08-26-15.53.19-1200.webp?rlkey=29ut0lxatqaxdp9ygplcp9577&st=o0qg3uws&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
 Riprendiamo quindi la strada verso Port Angeles, portando con noi il ricordo di questo piccolo villaggio, capace di aggiungere al nostro itinerario una parentesi inaspettata, in cui la bellezza del paesaggio si intreccia con racconti che sfumano tra realtà e leggenda.
-
-
 
 Tappa dopo tappa, il paesaggio cambia e il viaggio comincia ad assumere un ritmo diverso, lontano dal traffico e dalla frenesia delle grandi città.
 
