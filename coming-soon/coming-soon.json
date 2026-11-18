@@ -14,5 +14,21 @@
       "🌆 Tramonti dal Kerry Park",
       "🚢 Escursioni tra i ferry dello Stato di Washington"
     ]
+  },
+  {
+    "slug": "isole-lofoten",
+    "titolo": "Isole Lofoten",
+    "paese": "Norvegia",
+    "descrizione": "Stiamo preparando una guida alla scoperta delle spettacolari Isole Lofoten, tra villaggi di pescatori affacciati sui fiordi, montagne che si tuffano nel mare, spiagge artiche, aurore boreali e strade panoramiche che attraversano alcuni dei paesaggi più suggestivi della Norvegia.",
+    "immagine": "/coming-soon/images/isole-lofoten",
+    "emoji": "🏔️",
+    "colore": "#0ea5e9",
+    "percentuale": 85,
+    "curiosita": [
+      "🌌 A caccia dell'aurora boreale sotto il cielo artico",
+      "🏡 I caratteristici villaggi di pescatori come Reine e Hamnøy",
+      "🏖️ Le incredibili spiagge bianche di Haukland e Uttakleiv",
+      "🚗 La spettacolare strada panoramica E10 tra fiordi e montagne"
+    ]
   }
 ]

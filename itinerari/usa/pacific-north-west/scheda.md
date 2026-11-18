@@ -245,6 +245,39 @@ Raggiungiamo Cape Flattery, il punto più nord-occidentale degli Stati Uniti con
 
 La giornata ci conduce infine a La Push, una piccola comunità costiera circondata dalle foreste, dove abbiamo scelto di fermarci per due notti. Una base ideale per esplorare i dintorni con maggiore tranquillità, dedicando il tempo necessario sia alla natura sia alle località della zona.
 
+<div class="row">
+<div class="col-md-2"></div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/i3104hcw76sffss970vwf/2026-08-28-15.25.25-7661-1200.webp?rlkey=j2kfyp7bs1hickvmlguobyhej&st=9fh4h357&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/8cqqbuc6xtae3ui7vrxoi/2026-08-28-15.25.25-7661-640.webp?rlkey=thtvmkgmf1i9r0m6mlzpnyo9l&st=lci70spe&raw=1 640w,
+                https://www.dropbox.com/scl/fi/i3104hcw76sffss970vwf/2026-08-28-15.25.25-7661-1200.webp?rlkey=j2kfyp7bs1hickvmlguobyhej&st=9fh4h357&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/4hfufjnqnrzktlthvn3pg/2026-08-28-15.25.26-7662-1200.webp?rlkey=5csxewdf5cjnret5uxww2ohw1&st=qkj6s9t3&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/5ti2fus75qeyfkf14dae6/2026-08-28-15.25.26-7662-640.webp?rlkey=lmnnnfk56n84l36w55ihjjyfl&st=0qujpyo7&raw=1 640w,
+                https://www.dropbox.com/scl/fi/4hfufjnqnrzktlthvn3pg/2026-08-28-15.25.26-7662-1200.webp?rlkey=5csxewdf5cjnret5uxww2ohw1&st=qkj6s9t3&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+<div class="col-md-2"></div>
+</div>
+
 ### Un pomeriggio a Forks
 
 Nel pomeriggio raggiungiamo Forks, una cittadina circondata dalle foreste della penisola, dove il verde accompagna le strade e si ritrova in ogni scorcio del paesaggio.
