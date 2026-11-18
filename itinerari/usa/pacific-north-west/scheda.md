@@ -21,7 +21,8 @@ Un itinerario in cui le distanze si alternano a soste tutte da scoprire, tra pic
 Lasciamo Seattle alle spalle e iniziamo il nostro percorso attraversando il Tacoma Narrows Bridge, il ponte sospeso che ci accompagna verso la penisola di Kitsap e i paesaggi sempre più verdi dello Stato di Washington.
 
 <div class="row">
-    <div class="col-md-12 mb-2">
+    <div class="col-md-2"></div>
+    <div class="col-md-8 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/kg2fhz1gk0moe3ygv85u6/2026-08-26-15.19.11-7334-1200.webp?rlkey=tnrd1m3unqccg6c75z0hi9koa&st=jtn7zo29&raw=1"
             srcset="
@@ -35,6 +36,7 @@ Lasciamo Seattle alle spalle e iniziamo il nostro percorso attraversando il Taco
             fetchpriority="high"
         />
     </div>
+    <div class="col-md-2"></div>
 </div>
 
 La nostra prima sosta è **Gig Harbor**, una graziosa cittadina affacciata su una baia riparata, dove le barche ormeggiate nel porto e le colline che circondano l'acqua creano uno scenario particolarmente suggestivo. Il suo legame con il mare è ancora molto presente e si ritrova nell'atmosfera del lungomare, tra imbarcazioni da pesca, barche a vela e piccoli locali affacciati sull'acqua.
@@ -44,7 +46,8 @@ Passeggiamo lungo il porto, osservando le barche muoversi lentamente nella baia 
 Prima di ripartire, ci concediamo ancora qualche momento sul lungomare, lasciandoci alle spalle Seattle e il suo paesaggio urbano per entrare gradualmente in una regione in cui l'acqua, i boschi e la natura diventeranno sempre più protagonisti.
 
 <div class="row">
-    <div class="col-md-12 mb-2">
+    <div class="col-md-2"></div>
+    <div class="col-md-8 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/640am08xmd4fe538bx3yr/2026-08-26-15.19.18-7340-1200.webp?rlkey=aujm0qdhjsx7osrligxe2ujzg&st=ojkmv5co&raw=1"
             srcset="
@@ -58,6 +61,7 @@ Prima di ripartire, ci concediamo ancora qualche momento sul lungomare, lasciand
             fetchpriority="high"
         />
     </div>
+    <div class="col-md-2"></div>
 </div>
 
 La nostra tappa successiva è **Poulsbo**, una cittadina affacciata sulle acque di Liberty Bay, conosciuta anche come *Little Norway* per le sue profonde influenze scandinave. Passeggiando per il centro, tra edifici dalle facciate colorate, insegne decorative e piccoli negozi, si percepisce un'atmosfera particolare, che richiama le tradizioni dei paesi nordici.
@@ -67,7 +71,8 @@ La zona del lungomare è uno dei punti più piacevoli per una breve sosta: barch
 Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diverso dello Stato di Washington, dove il paesaggio americano si intreccia con le tradizioni europee.
 
 <div class="row">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-2"></div>
+    <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/uhtffyd7x848vfq8lmqio/2026-08-26-15.19.30-7351-1200.webp?rlkey=nxutldjzb9s5ov2tx0ctrwkqy&st=g2pimw9a&raw=1"
             srcset="
@@ -81,7 +86,7 @@ Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diver
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/fc6oec5k058x9qnvlzl33/2026-08-26-15.19.45-7364-640.webp?rlkey=d614zswdgz3f5kvouxl0fy7rw&st=emahk5xj&raw=1"
             srcset="
@@ -95,10 +100,9 @@ Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diver
             fetchpriority="high"
         />
     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-6 mb-2">
+    <div class="col-md-2"></div>
+    <div class="col-md-2"></div>
+    <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/v97jedklbejci2zvzeoqk/2026-08-26-15.19.49-7368-1200.webp?rlkey=cz3zrgnjdrp8nnkhumzto78i4&st=opj8r7t0&raw=1"
             srcset="
@@ -112,7 +116,7 @@ Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diver
             fetchpriority="high"
         />
     </div>
-    <div class="col-md-6 mb-2">
+    <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/v13iq13k32j488ekyz2z2/2026-08-26-15.19.52-7370-1200.webp?rlkey=x2h59osprateij5dxn3gxm8ed&st=nvljfnsx&raw=1"
             srcset="
@@ -126,6 +130,7 @@ Poulsbo è una tappa piacevole per spezzare il viaggio e scoprire un volto diver
             fetchpriority="high"
         />
     </div>
+    <div class="col-md-2"></div>
 </div>
 
 Poco distante raggiungiamo **Port Gamble**, un piccolo villaggio storico affacciato sull'omonima baia, immerso tra boschi e acque tranquille. Fondato a metà Ottocento attorno a una segheria, conserva ancora il fascino di un'altra epoca, con edifici in legno, case vittoriane e strade silenziose che sembrano custodire le storie di chi ha vissuto qui nel corso dei decenni.
