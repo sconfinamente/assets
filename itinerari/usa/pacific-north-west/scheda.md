@@ -243,10 +243,54 @@ Lasciamo Port Angeles per addentrarci nella parte più selvaggia della Olympic P
 
 Raggiungiamo Cape Flattery, il punto più nord-occidentale degli Stati Uniti continentali. Un sentiero immerso nella vegetazione conduce a punti panoramici da cui ammirare faraglioni, promontori rocciosi e le acque del Pacifico che si insinuano tra le pareti della costa. È un luogo in cui la forza dell'oceano si manifesta in tutta la sua grandezza e in cui vale la pena fermarsi per osservare il paesaggio senza fretta.
 
+<div class="row">
+    <div class="col-md-6 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/2rvwxb45xmyl0lqt6puqs/2026-08-27-15.23.00-7540-1200.webp?rlkey=3y4xfssg2ue90jrbulai4ojf1&st=zoikef1j&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/wgvh1f1qvjo8p8x3sjl5z/2026-08-27-15.23.00-7540-640.webp?rlkey=lv0y99rokglwi6ryiswyo3e15&st=sxt0ou6u&raw=1 640w,
+                https://www.dropbox.com/scl/fi/2rvwxb45xmyl0lqt6puqs/2026-08-27-15.23.00-7540-1200.webp?rlkey=3y4xfssg2ue90jrbulai4ojf1&st=zoikef1j&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/mm75dk0jo7f42xxtvj9bg/2026-08-27-15.22.26-7511-1200.webp?rlkey=wmlod5sorzx5vg1dznc56zwk2&st=mt7rvdpi&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/2rvwxb45xmyl0lqt6puqs/2026-08-27-15.23.00-7540-1200.webp?rlkey=3y4xfssg2ue90jrbulai4ojf1&st=zoikef1j&raw=1 640w,
+                https://www.dropbox.com/scl/fi/mm75dk0jo7f42xxtvj9bg/2026-08-27-15.22.26-7511-1200.webp?rlkey=wmlod5sorzx5vg1dznc56zwk2&st=mt7rvdpi&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/xf8j5ridor731hejeuo88/2026-08-27-15.22.54-7535-1200.webp?rlkey=2t0dcxm0k4qnyf1d6t14w9wzw&st=eczyp4om&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/nee16tjphu54h0olf83c3/2026-08-27-15.22.54-7535-640.webp?rlkey=6ysyhskefj2zcdbuub9zix5nr&st=jicbyyyq&raw=1 640w,
+                https://www.dropbox.com/scl/fi/xf8j5ridor731hejeuo88/2026-08-27-15.22.54-7535-1200.webp?rlkey=2t0dcxm0k4qnyf1d6t14w9wzw&st=eczyp4om&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
+
 La giornata ci conduce infine a La Push, una piccola comunità costiera circondata dalle foreste, dove abbiamo scelto di fermarci per due notti. Una base ideale per esplorare i dintorni con maggiore tranquillità, dedicando il tempo necessario sia alla natura sia alle località della zona.
 
 <div class="row">
-<div class="col-md-2"></div>
     <div class="col-md-4 mb-2">
         <img
             src="https://www.dropbox.com/scl/fi/i3104hcw76sffss970vwf/2026-08-28-15.25.25-7661-1200.webp?rlkey=j2kfyp7bs1hickvmlguobyhej&st=9fh4h357&raw=1"
@@ -275,7 +319,20 @@ La giornata ci conduce infine a La Push, una piccola comunità costiera circonda
             fetchpriority="high"
         />
     </div>
-<div class="col-md-2"></div>
+<div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/1ik7ar0q0qqhd0mabqol4/2026-08-28-06-1200.webp?rlkey=3ft54no32lc4zsep68u9dlisp&st=0rmatdiq&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/durfcg1pke44inx7i4w0p/2026-08-28-06-640.webp?rlkey=ns8ktsjdggior3i2gy2hoku2m&st=0qrq2ir1&raw=1 640w,
+                https://www.dropbox.com/scl/fi/1ik7ar0q0qqhd0mabqol4/2026-08-28-06-1200.webp?rlkey=3ft54no32lc4zsep68u9dlisp&st=0rmatdiq&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+</div>
 </div>
 
 ### Un pomeriggio a Forks
@@ -284,6 +341,39 @@ Nel pomeriggio raggiungiamo Forks, una cittadina circondata dalle foreste della 
 
 Passeggiamo per il centro e ne scopriamo l'atmosfera tranquilla, osservando una realtà lontana dalle grandi città americane. Forks è anche un punto di riferimento per chi vuole esplorare questa parte della Olympic Peninsula, grazie alla sua posizione tra la foresta pluviale e la costa del Pacifico.
 
+<div class="row">
+    <div class="col-md-2"></div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/g7s60b5uospnd3n7l2lnj/2026-08-27-16.13.04-1200.webp?rlkey=rig2wworr8iiuxnuad3xpn5cv&st=1o50dchk&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/2sedz8deg0atm8s3slixz/2026-08-27-16.13.04-640.webp?rlkey=uq9xb95kmftk2wjbkwm9gjc4c&st=519wyb4d&raw=1 640w,
+                https://www.dropbox.com/scl/fi/g7s60b5uospnd3n7l2lnj/2026-08-27-16.13.04-1200.webp?rlkey=rig2wworr8iiuxnuad3xpn5cv&st=1o50dchk&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-4 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/8wdygaimvqor98wbvgi2p/2026-08-27-19-1200.webp?rlkey=criyacd4wickqgftj9npiii7a&st=2y6woo50&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/e9gh4jx298kmclcvj42jk/2026-08-27-19-640.webp?rlkey=crzo02zr2jwx8u5alibgupkee&st=08ql36if&raw=1 640w,
+                https://www.dropbox.com/scl/fi/8wdygaimvqor98wbvgi2p/2026-08-27-19-1200.webp?rlkey=criyacd4wickqgftj9npiii7a&st=2y6woo50&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-2"></div>
+</div>
+
 Trascorriamo qui il pomeriggio e la sera, prima di tornare a La Push.
 
 ### La Hoh Rain Forest e il tramonto a First Beach
@@ -291,6 +381,65 @@ Trascorriamo qui il pomeriggio e la sera, prima di tornare a La Push.
 Il giorno successivo è dedicato a uno degli ambienti naturali più caratteristici della regione: la Hoh Rain Forest.
 
 Entrare in questa foresta pluviale temperata significa immergersi in un paesaggio dominato dal verde. Gli alberi sono ricoperti di muschi e licheni, le felci crescono lungo i sentieri e la vegetazione crea un ambiente rigoglioso, modellato dalle abbondanti precipitazioni. Camminando tra questi giganti vegetali, si ha la sensazione di trovarsi in un mondo a sé, in cui ogni dettaglio merita attenzione.
+
+<div class="row">    
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/1a6nk5wx8kef34kej21nt/2026-08-28-15.24.05-7592-1200.webp?rlkey=1wfljjh76d93tupvcxp8gw58a&st=svmi674y&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/04c6ernyvfxrzgghipl8q/2026-08-28-15.24.05-7592-640.webp?rlkey=j73pbwyuxqmsa34yzl50f1xwk&st=34vzwyfs&raw=1 640w,
+                https://www.dropbox.com/scl/fi/1a6nk5wx8kef34kej21nt/2026-08-28-15.24.05-7592-1200.webp?rlkey=1wfljjh76d93tupvcxp8gw58a&st=svmi674y&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/1nbaf60mgsmqlc48p2fny/2026-08-28-15.24.19-7604-1200.webp?rlkey=xagupzd7sinm2uok7tn7s3kvs&st=jx1eee5p&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/26pgpki3fwhd40mivdftz/2026-08-28-15.24.19-7604-640.webp?rlkey=gz8aar2p3j023fuvaf028bgtb&st=jl3xd3ib&raw=1 640w,
+                https://www.dropbox.com/scl/fi/1nbaf60mgsmqlc48p2fny/2026-08-28-15.24.19-7604-1200.webp?rlkey=xagupzd7sinm2uok7tn7s3kvs&st=jx1eee5p&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+    <div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/jx65cn53aj777y0kv99zx/2026-08-28-15-1200.webp?rlkey=zlgax7gf5jnu44z7zvmejrsuy&st=k22o7sv9&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/orb34dc3x6eiuu595x6ma/2026-08-28-15-640.webp?rlkey=h7wbp3ftgd7zlbf7xz8gyd0pd&st=ausjkayc&raw=1 640w,
+                https://www.dropbox.com/scl/fi/jx65cn53aj777y0kv99zx/2026-08-28-15-1200.webp?rlkey=zlgax7gf5jnu44z7zvmejrsuy&st=k22o7sv9&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+<div class="col-md-3 mb-2">
+        <img
+            src="https://www.dropbox.com/scl/fi/5tbligh8smw4xjxa1tyc8/2026-08-28-12.35.11-1200.webp?rlkey=wm2615waub4u2i9rqth8qdmb8&st=ipq9jrqh&raw=1"
+            srcset="
+                https://www.dropbox.com/scl/fi/vltpfdlcbbq34z35u8ubr/2026-08-28-12.35.11-640.webp?rlkey=ymgl017f0omx2up0y5uux8n5a&st=kxcqkugg&raw=1 640w,
+                https://www.dropbox.com/scl/fi/5tbligh8smw4xjxa1tyc8/2026-08-28-12.35.11-1200.webp?rlkey=wm2615waub4u2i9rqth8qdmb8&st=ipq9jrqh&raw=1 1200w
+            "
+            class="rounded w-100"
+            alt=""
+            loading="eager"
+            decoding="async"
+            fetchpriority="high"
+        />
+    </div>
+</div>
 
 Dopo la visita torniamo a Forks, per poi concludere la giornata a First Beach, a La Push.
 
