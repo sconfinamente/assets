@@ -1,57 +1,5 @@
 [
   {
-    "codice": "istanbul-san-valentino",
-    "destinazione": "Istanbul",
-    "paese": "turchia",
-    "partenza": "Roma",
-    "budget": {
-      "valuta": "EUR",
-      "volo": {
-        "prezzo": 215,
-        "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
-      },
-      "alloggio": {
-        "prezzo": 97,
-        "notti": 4,
-        "nota": "hotel o appartamento per 2 persone"
-      },
-      "totale": 264,
-      "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
-    },
-    "tools": {
-      "voli": [
-        {
-          "nome": "Google Voli",
-          "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpLEgoyMDI3LTAyLTEwIiAKA0ZDTxIKMjAyNy0wMi0xMBoDU0FXKgJQQzIEMTIyNGoMCAISCC9tLzA2YzYycg0IAxIJL20vMDk5NDltGksSCjIwMjctMDItMTQiIAoDU0FXEgoyMDI3LTAyLTE0GgNGQ08qAlBDMgQxMjI1ag0IAxIJL20vMDk5NDltcgwIAhIIL20vMDZjNjJAAUgBcAGCAQsI____________AZgBAQ&tfu=CmxDalJJTFRscFYwbDBUM0pvWjJ0QlEwcGpOSGRDUnkwdExTMHRMUzEzWm1sbU55MXVNa0ZCUVVGQlIzQTJlblpuUW5sYVYyRkJFZ1pRUXpFeU1qVWFDZ2o0YmhBQ0dnTkZWVkk0SEhDQmdBRT0SAggAIgMKATA&hl=it&gl=IT",
-          "descrizione": "Confronta prezzi e combinazioni"
-        }
-      ],
-      "alloggi": [
-        {
-          "nome": "Booking",
-          "url": "https://www.booking.com/searchresults.it.html?label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq*ajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Centro+di+Istanbul%2C+Istanbul%2C+Regione+di+Marmara%2C+Turchia&map=1&efdco=1&lang=it&dest_id=4308&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=01fd34ae7b020373&checkin=2027-02-10&checkout=2027-02-14&group_adults=2&no_rooms=1&group_children=0&nflt=roomfacility%3D38%3Breview_score%3D80%3Bdi%3D9975%3Boos%3D1&order=price",
-          "descrizione": "Hotel e appartamenti a Istanbul"
-        }
-      ],
-      "altro": [
-        {
-          "nome": "Esperienze a Istanbul",
-          "url": "https://www.getyourguide.com/it-it/istanbul-l56/",
-          "descrizione": "Crociera sul Bosforo, hammam, tour guidati e altre esperienze"
-        }
-      ],
-      "auto": []
-    },
-    "periodo": "10 - 14 febbraio",
-    "durata": "5 giorni",
-    "descrizione": "Un San Valentino tra Europa e Asia, tra il fascino del Bosforo, i bazar, i quartieri pieni di vita e il relax di un tradizionale hammam turco.",
-    "motivazione": "Istanbul è una destinazione perfetta per un San Valentino diverso dal solito. La sua atmosfera unica, sospesa tra Europa e Asia, combina storia, cultura, buon cibo e momenti romantici. A febbraio possiamo alternare passeggiate tra i quartieri storici, tramonti sul Bosforo, cene panoramiche e momenti di relax in un hammam tradizionale. È possibile organizzare una fuga romantica di cinque giorni con un budget contenuto.",
-    "visitato": false,
-    "tag": "San Valentino",
-    "visibleUntil": "2027-02-01",
-    "priority": 7
-  },
-  {
     "codice": "marrakech-san-valentino",
     "destinazione": "Marrakech",
     "paese": "marocco",
@@ -59,15 +7,15 @@
     "budget": {
       "valuta": "EUR",
       "volo": {
-        "prezzo": 216,
+        "prezzo": 183,
         "nota": "1 bagaglio a mano da 10 kg incluso - 1° bagaglio registrato a pagamento"
       },
       "alloggio": {
-        "prezzo": 119,
+        "prezzo": 162,
         "notti": 3,
         "nota": "riad nel centro storico per 2 persone"
       },
-      "totale": 276,
+      "totale": 264,
       "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
     },
     "tools": {
@@ -107,6 +55,58 @@
     "itinerario": "marrakech",
     "tag": "San Valentino",
     "visibleUntil": "2027-02-01",
+    "priority": 7
+  },
+  {
+    "codice": "istanbul-san-valentino",
+    "destinazione": "Istanbul",
+    "paese": "turchia",
+    "partenza": "Roma",
+    "budget": {
+      "valuta": "EUR",
+      "volo": {
+        "prezzo": 222,
+        "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 20 kg incluso"
+      },
+      "alloggio": {
+        "prezzo": 83,
+        "notti": 4,
+        "nota": "hotel o appartamento per 2 persone"
+      },
+      "totale": 264,
+      "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
+    },
+    "tools": {
+      "voli": [
+        {
+          "nome": "Google Voli",
+          "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpLEgoyMDI3LTAyLTEwIiAKA0ZDTxIKMjAyNy0wMi0xMBoDU0FXKgJQQzIEMTIyNGoMCAISCC9tLzA2YzYycg0IAxIJL20vMDk5NDltGksSCjIwMjctMDItMTQiIAoDU0FXEgoyMDI3LTAyLTE0GgNGQ08qAlBDMgQxMjI1ag0IAxIJL20vMDk5NDltcgwIAhIIL20vMDZjNjJAAUgBcAGCAQsI____________AZgBAQ&tfu=CmxDalJJTFRscFYwbDBUM0pvWjJ0QlEwcGpOSGRDUnkwdExTMHRMUzEzWm1sbU55MXVNa0ZCUVVGQlIzQTJlblpuUW5sYVYyRkJFZ1pRUXpFeU1qVWFDZ2o0YmhBQ0dnTkZWVkk0SEhDQmdBRT0SAggAIgMKATA&hl=it&gl=IT",
+          "descrizione": "Confronta prezzi e combinazioni"
+        }
+      ],
+      "alloggi": [
+        {
+          "nome": "Booking",
+          "url": "https://www.booking.com/searchresults.it.html?label=it-it-booking-desktop-new-VRZD0IC5lt9Ulq*ajTZ_bgS652828999642%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-65526620%3Alp9198806%3Ali%3Adec%3Adm&aid=2311236&ss=Centro+di+Istanbul%2C+Istanbul%2C+Regione+di+Marmara%2C+Turchia&map=1&efdco=1&lang=it&dest_id=4308&dest_type=district&ac_position=1&ac_click_type=b&ac_langcode=it&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=01fd34ae7b020373&checkin=2027-02-10&checkout=2027-02-14&group_adults=2&no_rooms=1&group_children=0&nflt=roomfacility%3D38%3Breview_score%3D80%3Bdi%3D9975%3Boos%3D1&order=price",
+          "descrizione": "Hotel e appartamenti a Istanbul"
+        }
+      ],
+      "altro": [
+        {
+          "nome": "Esperienze a Istanbul",
+          "url": "https://www.getyourguide.com/it-it/istanbul-l56/",
+          "descrizione": "Crociera sul Bosforo, hammam, tour guidati e altre esperienze"
+        }
+      ],
+      "auto": []
+    },
+    "periodo": "10 - 14 febbraio",
+    "durata": "5 giorni",
+    "descrizione": "Un San Valentino tra Europa e Asia, tra il fascino del Bosforo, i bazar, i quartieri pieni di vita e il relax di un tradizionale hammam turco.",
+    "motivazione": "Istanbul è una destinazione perfetta per un San Valentino diverso dal solito. La sua atmosfera unica, sospesa tra Europa e Asia, combina storia, cultura, buon cibo e momenti romantici. A febbraio possiamo alternare passeggiate tra i quartieri storici, tramonti sul Bosforo, cene panoramiche e momenti di relax in un hammam tradizionale. È possibile organizzare una fuga romantica di cinque giorni con un budget contenuto.",
+    "visitato": false,
+    "tag": "San Valentino",
+    "visibleUntil": "2027-02-01",
     "priority": 6
   },
   {
@@ -117,15 +117,15 @@
     "budget": {
       "valuta": "EUR",
       "volo": {
-        "prezzo": 286,
+        "prezzo": 292,
         "nota": "1 bagaglio a mano incluso - 1° bagaglio registrato da 23 kg incluso"
       },
       "alloggio": {
-        "prezzo": 1300,
+        "prezzo": 1099,
         "notti": 7,
         "nota": "appartamento per 2 persone"
       },
-      "totale": 936,
+      "totale": 842,
       "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
     },
     "tools": {
@@ -247,15 +247,15 @@
     "budget": {
       "valuta": "EUR",
       "volo": {
-        "prezzo": 1168,
+        "prezzo": 1215,
         "nota": "1 bagaglio a mano incluso"
       },
       "alloggio": {
-        "prezzo": 587,
+        "prezzo": 844,
         "notti": 9,
         "nota": "appartamento con cucina per 2 persone"
       },
-      "totale": 1462,
+      "totale": 1637,
       "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
     },
     "tools": {
@@ -299,15 +299,15 @@
     "budget": {
       "valuta": "EUR",
       "volo": {
-        "prezzo": 170,
+        "prezzo": 219,
         "nota": "1 bagaglio a mano per passeggero a pagamento - 1° bagaglio registrato per passeggero a pagamento"
       },
       "alloggio": {
-        "prezzo": 387,
+        "prezzo": 418,
         "notti": 3,
         "nota": "camera/appartamento per 2 persone"
       },
-      "totale": 364,
+      "totale": 428,
       "nota": "stima per persona calcolata su una prenotazione di 2 persone, esclusi pasti, trasporti e attività"
     },
     "tools": {
