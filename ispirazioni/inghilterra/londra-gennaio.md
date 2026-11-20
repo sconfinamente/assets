@@ -1,0 +1,3 @@
+### Perché lasciarsi ispirare da Londra?
+
+Londra è molto più di una capitale: è un mondo di contrasti, culture e continue scoperte. Dai quartieri alternativi di Camden e Shoreditch alle eleganti strade di Notting Hill, dai mercati colorati ai pub storici, ogni angolo ha una personalità tutta sua. È una città che mescola passato e futuro, tradizione e sperimentazione, lasciando spazio a esperienze sempre diverse. Perfetta per chi ama camminare senza una meta precisa, curiosare tra negozi vintage, assaggiare cucine da tutto il mondo e scoprire luoghi fuori dai soliti itinerari turistici. Londra ispira perché riesce a essere ogni volta diversa, anche quando ci sei già stato.
