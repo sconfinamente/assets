@@ -15,4 +15,4 @@ Esplora il nostro mondo attraverso foto e video: piccoli frammenti di viaggio, c
 
 * <img src="https://www.sconfinamente.it/assets/images/social-icon-facebook.svg" />  **[Flickr](https://www.flickr.com/photos/203856126@N06/albums/)**
 
-* <img src="https://www.sconfinamente.it/assets/images/social-icon-pinterest.svg" />  **[Pinterest](https://it.pinterest.com/sconfinamente)**
+* <img src="https://www.sconfinamente.it/assets/images/social-icon-pinterest.png" />  **[Pinterest](https://it.pinterest.com/sconfinamente)**
