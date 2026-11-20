@@ -49,7 +49,7 @@
     "visitato": false,
     "tag": "San Valentino",
     "visibleUntil": "2027-02-01",
-    "priority": 6
+    "priority": 7
   },
   {
     "codice": "marrakech-san-valentino",
@@ -107,7 +107,7 @@
     "itinerario": "marrakech",
     "tag": "San Valentino",
     "visibleUntil": "2027-02-01",
-    "priority": 5
+    "priority": 6
   },
   {
     "codice": "tromso-inverno",
@@ -169,7 +169,7 @@
     "visitato": false,
     "tag": "Aurora boreale",
     "visibleUntil": "2027-01-10",
-    "priority": 4
+    "priority": 5
   },
   {
     "codice": "londra-gennaio",
@@ -195,12 +195,12 @@
         {
           "nome": "Google Voli",
           "url": "https://www.google.com/travel/flights/booking?tfs=CBwQAhpHEgoyMDI3LTAxLTA4IiAKA0ZDTxIKMjAyNy0wMS0wOBoDTFROKgJXNDIENjAwMSgAagcIARIDRkNPcgwIAxIIL20vMDRqcGwaRxIKMjAyNy0wMS0xMSIgCgNMVE4SCjIwMjctMDEtMTEaA0ZDTyoCVzQyBDYwMDQoAGoMCAMSCC9tLzA0anBscgcIARIDRkNPQAFIAXABggELCP___________wGYAQE&tfu=CmxDalJJWVVGb2NtWlRhVjl4V1RoQlF6UXlhM2RDUnkwdExTMHRMUzB0TFMxM1ptUnVOMEZCUVVGQlIzSmZYM2R6U0dkWldXOUJFZ1pYTkRZd01EUWFDZ2o0TVJBQ0dnTkZWVkk0SEhEdU5nPT0SBggAIAIoASIDCgEw&hl=it&gl=IT&authuser=0&gsas=1&curr=EUR",
-          "descrizione": ""
+          "descrizione": "Confronta prezzi e combinazioni"
         },
         {
           "nome": "Wizz Air",
           "url": "https://www.wizzair.com/it-it/booking/select-flight/FCO/LTN/2027-01-08/2027-01-11/1/0/0?ref=gfs&gclid=AAcRjHKI4D2dWv64rThId0aiXDebxpLyOFQrTMRtIM5c8Uv1chlca4rBCbLW_PITvUMbW1R5ZiS8ehttgLQDfgSlGHqZ_s-QREuowQHRssxDgsTi8uxp&gclsrc=gf",
-          "descrizione": ""
+          "descrizione": "La migliore opzione al momento"
         }
       ],
       "alloggi": [
@@ -211,7 +211,23 @@
         }
       ],
       "auto": [],
-      "altro": []
+      "altro": [
+        {
+          "nome": "Sky Garden",
+          "url": "https://skygarden.london/booking/",
+          "descrizione": "Sky Garden è un suggestivo giardino panoramico sospeso al 35° piano di un grattacielo, con una vista spettacolare a 360° su Londra, tra piante tropicali, terrazze e spazi verdi.\nUtilizza il link ufficiale per prenotare la tua visita, l'ingresso è gratuito."
+        },
+        {
+          "nome": "The Garden at 120",
+          "url": "https://onecitylondon.com/directory/the-garden-at-120/",
+          "descrizione": "Ingresso libero sul posto (walk-in). Le prenotazioni in anticipo servono solo per gruppi di 12 o più persone."
+        },
+        {
+          "nome": "Horizon 22",
+          "url": "https://horizon22.co.uk/book",
+          "descrizione": "Horizon 22 è la piattaforma panoramica gratuita più alta di Londra, situata al 58° piano del grattacielo 22 Bishopsgate. A 254 metri d'altezza offre una spettacolare vista a 300° sulla città, attraverso ampie vetrate. L'ingresso è gratuito, ma è consigliata la prenotazione."
+        }
+      ]
     },
     "periodo": "8-11 gennaio",
     "durata": "4 giorni",
@@ -220,7 +236,8 @@
     "visitato": true,
     "tag": "",
     "visibleUntil": "2026-12-31",
-    "priority": 1
+    "priority": 4,
+    "itinerario": "unusual-london"
   },
   {
     "codice": "antigua-capodanno",
