@@ -55,6 +55,7 @@ find "$SOURCE" -type f \( \
     -iname "*.jpg" -o \
 	-iname "*.png" -o \
     -iname "*.jpeg" \
+    -iname "*.jfif" \
 \) | while read -r file; do
 
     # Percorso relativo rispetto alla sorgente
