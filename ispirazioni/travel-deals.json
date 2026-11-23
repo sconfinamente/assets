@@ -54,7 +54,7 @@
     "visitato": true,
     "itinerario": "marrakech",
     "tag": "San Valentino",
-    "visibleUntil": "2027-02-01",
+    "visibleUntil": "2027-01-28",
     "priority": 7
   },
   {
@@ -106,7 +106,7 @@
     "motivazione": "Istanbul è una destinazione perfetta per un San Valentino diverso dal solito. La sua atmosfera unica, sospesa tra Europa e Asia, combina storia, cultura, buon cibo e momenti romantici. A febbraio possiamo alternare passeggiate tra i quartieri storici, tramonti sul Bosforo, cene panoramiche e momenti di relax in un hammam tradizionale. È possibile organizzare una fuga romantica di cinque giorni con un budget contenuto.",
     "visitato": false,
     "tag": "San Valentino",
-    "visibleUntil": "2027-02-01",
+    "visibleUntil": "2027-01-27",
     "priority": 6
   },
   {
@@ -168,7 +168,7 @@
     "motivazione": "Gennaio è uno dei periodi più suggestivi per vivere Tromsø: le lunghe ore di buio offrono buone condizioni per andare a caccia dell’aurora boreale, mentre neve e paesaggi artici fanno da sfondo a esperienze con husky, renne e attività nella natura.",
     "visitato": false,
     "tag": "Aurora boreale",
-    "visibleUntil": "2027-01-10",
+    "visibleUntil": "2027-01-03",
     "priority": 5
   },
   {
@@ -235,7 +235,7 @@
     "motivazione": "Londra a gennaio è più tranquilla, autentica e tutta da vivere: meno folla, saldi invernali, pub accoglienti e l'atmosfera suggestiva della città in inverno. Il momento perfetto per scoprirla con calma e godersi il suo fascino senza spendere una fortuna!",
     "visitato": true,
     "tag": "Gennaio",
-    "visibleUntil": "2026-12-31",
+    "visibleUntil": "2026-12-27",
     "priority": 4,
     "itinerario": "unusual-london"
   },
@@ -288,7 +288,7 @@
     "motivazione": "Antigua è una delle destinazioni più sorprendenti per chi sogna i Caraibi senza spendere una fortuna. Evitando i resort all inclusive e scegliendo un appartamento con cucina, è possibile ridurre molto il costo del soggiorno, fare la spesa nei supermercati locali e vivere l'isola in modo più autentico. Il budget è calcolato su una prenotazione per 2 persone, che permette di dividere il costo dell'alloggio e rendere questa destinazione molto più accessibile di quanto si pensi. Il periodo di Capodanno è alta stagione, ma prenotando con anticipo si trovano ancora voli e appartamenti a prezzi interessanti.",
     "visitato": false,
     "tag": "Capodanno",
-    "visibleUntil": "2026-12-20",
+    "visibleUntil": "2026-12-08",
     "priority": 3
   },
   {
@@ -334,7 +334,7 @@
     "motivazione": "Il periodo pre-natalizio è uno dei momenti più affascinanti per visitare Parigi: le luminarie trasformano i grandi boulevard, i mercatini animano piazze e giardini e la città assume un’atmosfera unica.",
     "visitato": true,
     "tag": "Natale",
-    "visibleUntil": "2026-12-01",
+    "visibleUntil": "2026-12-24",
     "priority": 2
   },
   {
@@ -402,7 +402,7 @@
     "visitato": true,
     "itinerario": "new-york-christmas",
     "tag": "Natale",
-    "visibleUntil": "2026-11-30",
+    "visibleUntil": "2026-11-24",
     "priority": 1
   }
 ]
